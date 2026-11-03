@@ -1,5 +1,13 @@
 # Stock Exploder — a screener with an actual backtest
 
+## Web dashboard (web/, TanStack)
+
+Fintech-style site for viewing all results below: Overview, Signals, Combos,
+Sectors, Explosions and Method pages (TanStack Router / Query / Table).
+Python stays the analysis layer — `export_web_data.py` turns `output/*.csv`
+into `web/public/data.json` and the site only renders it.
+Run: `python3 export_web_data.py && cd web && bun install && bun run dev`.
+
 ## Stage 3 — sectors & joint signals (done 2026-11-03, stage3_sectors.py + stage3b_control.py)
 
 Question: which themes do the exploding stocks belong to, and does requiring
