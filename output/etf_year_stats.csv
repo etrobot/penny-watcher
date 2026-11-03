@@ -1,0 +1,48 @@
+etf,theme,year_ret_pct,best_20d_window_pct,best_window_start,strict_explosions_+30/+20,hot_windows_fwd20>=10pct_days,n_holdings_mapped
+COPX,Copper Miners,25.0,30.1,2025-12-30,0,80,4
+SIL,Silver Miners,12.7,38.9,2026-07-28,3,78,6
+GDXJ,Junior Gold Miners,8.6,40.4,2026-07-28,3,70,53
+GDX,Gold Miners,12.0,42.2,2026-07-28,2,66,32
+SMH,Semiconductors,39.3,35.5,2026-03-30,1,64,25
+XOP,Oil & Gas E&P,55.4,24.6,2026-02-26,0,58,51
+XME,Metals & Mining,3.5,23.3,2026-07-29,0,58,38
+XSD,Semiconductors (equal-wt),26.9,52.2,2026-04-07,1,58,46
+REMX,Rare Earth,-22.6,31.8,2025-12-29,2,57,7
+HACK,Cybersecurity,36.0,30.0,2026-05-01,0,53,22
+XLE,Energy,58.1,17.4,2026-01-13,0,49,21
+OIH,Oil Services,36.4,24.8,2025-12-26,0,48,25
+SLX,Steel,29.5,18.9,2026-03-20,0,46,15
+LIT,Lithium & Battery,-1.5,23.8,2026-03-20,0,44,5
+URNM,Uranium,-29.6,50.2,2025-12-29,1,44,4
+JETS,Airlines,14.1,21.9,2026-05-19,0,41,17
+XBI,Biotech,39.1,27.5,2026-06-05,0,38,157
+TAN,Solar,-14.4,28.2,2026-04-29,0,36,13
+AIQ,AI,10.5,26.2,2026-04-10,0,36,21
+XLK,Tech (broad),16.1,23.9,2026-03-30,0,35,75
+XPH,Pharma,28.7,22.6,2026-06-05,0,31,60
+XAR,Aerospace & Defense (SPDR),-6.5,28.0,2025-12-17,0,30,50
+XSW,Software,4.7,20.2,2026-07-23,0,27,129
+ARKK,Innovation,-10.5,21.5,2026-07-29,0,26,23
+IBB,Biotech (large),36.1,17.7,2026-06-05,0,26,25
+BBH,Biotech (VanEck),42.1,21.3,2026-07-22,0,22,25
+BOTZ,Robotics & AI,-15.2,18.6,2026-03-27,0,19,9
+ITA,Aerospace & Defense,0.1,19.1,2025-12-17,0,17,25
+KRE,Regional Banks,26.0,14.7,2025-11-17,0,15,166
+XHB,Homebuilders,2.2,14.0,2026-05-18,0,14,34
+MOO,Agribusiness,18.3,13.6,2026-01-13,0,14,20
+FINX,Fintech,-26.6,15.1,2026-03-27,0,13,21
+KIE,Insurance,17.9,18.7,2026-06-03,0,12,54
+KBE,Banks,21.4,13.4,2025-11-17,0,11,106
+XLP,Consumer Staples,23.6,13.7,2026-01-07,0,8,33
+XHE,Healthcare Equipment,15.2,13.8,2026-07-22,0,7,71
+XRT,Retail,12.7,13.4,2025-11-20,0,6,74
+XLY,Consumer Discretionary,-1.7,11.6,2026-03-27,0,5,47
+XLV,Healthcare,30.1,11.5,2026-06-03,0,5,60
+XLB,Materials,28.7,11.8,2026-03-20,0,4,24
+XLU,Utilities,0.7,10.7,2026-02-02,0,3,31
+SPY,Market,11.3,12.9,2026-03-27,0,3,0
+ESPO,Gaming & eSports,-13.9,10.7,2026-07-24,0,2,5
+XLRE,Real Estate,10.8,10.9,2026-03-20,0,1,30
+XLC,Comm Services,-10.6,8.2,2026-03-27,0,0,22
+XLF,Financials,12.2,9.8,2026-06-03,0,0,76
+XLI,Industrials,11.3,9.2,2026-03-30,0,0,83

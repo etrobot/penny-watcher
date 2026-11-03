@@ -1,0 +1,6 @@
+akshare==1.20.24
+numpy
+pandas
+openpyxl
+requests
+yfinance

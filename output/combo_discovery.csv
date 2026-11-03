@@ -1,0 +1,16 @@
+combo,signals,period,trades,win_rate_pct,avg_ret_pct,median_ret_pct,best_pct,worst_pct,"portfolio_ret_pct (10 slots, equal weight, approx)"
+full_trend+hist_rising,stack_full+hist_rising,discovery,80,61.3,6.45,3.3,68.3,-22.7,51.6
+macd_cross+above_ma20,macd_cross_up+above_ma20,discovery,80,57.5,3.99,2.22,50.0,-37.1,31.9
+macd_cross_only,macd_cross_up,discovery,80,51.2,3.42,0.26,165.2,-37.1,27.4
+rsi_cross+cross_5_20,rsi_cross_50_up+cross_5_20_up,discovery,80,51.2,3.09,0.2,49.6,-25.3,24.7
+price_cross_ma50+macd_cross,price_cross_ma50_up+macd_cross_up,discovery,80,55.0,2.37,1.08,60.8,-34.6,19.0
+stack+macd_bull,stack_5_10_20+macd_bull+above_ma50,discovery,80,45.0,2.26,-2.22,147.4,-37.1,18.1
+breakout55+macd_above0,breakout_55d+macd_above_zero+macd_bull,discovery,80,50.0,1.77,0.05,40.3,-24.2,14.1
+breakout20+vol_surge,breakout_20d+vol_surge_1.5x,discovery,80,52.5,1.45,0.68,60.6,-37.1,11.6
+golden_cross_recent_trend,trend_20_50_200+macd_cross_up,discovery,80,57.5,1.16,2.28,45.1,-33.8,9.3
+vol_compression+breakout20,vol_compression+breakout_20d,discovery,80,56.2,1.04,1.82,74.8,-50.1,8.3
+coil+vol_surge+above_ma20,ma_coil_5pct+vol_surge_1.5x+above_ma20,discovery,80,51.2,0.7,0.3,36.0,-37.1,5.6
+near_ma50+hist_rising3,near_ma50+hist_rising_3d+trend_20_50_200,discovery,80,50.0,0.64,0.06,29.8,-28.7,5.1
+macd_cross_below0+coil,macd_cross_up_below_zero+ma_coil_5pct,discovery,80,51.2,0.28,0.66,42.6,-32.5,2.2
+hist_turn_below0+coil+dryup,hist_turn_up_below_zero+ma_coil_5pct+vol_dryup,discovery,75,48.0,-0.44,-0.1,18.3,-27.7,-3.3
+coil+tight+hist_turn,ma_coil_3pct+tight_range_10d+hist_turn_up_below_zero,discovery,80,46.2,-0.45,-0.4,18.8,-32.0,-3.6

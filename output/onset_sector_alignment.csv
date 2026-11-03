@@ -1,0 +1,3435 @@
+ticker,onset,stock_fwd20_pct,primary_etf,theme,etf_same_window_ret_pct,etf_trail20_pct,best_member_etf,best_member_etf_window_ret_pct,spy_same_window_ret_pct,class
+AA,2025-11-17,30.1,XME,Metals & Mining,12.0,-16.1,XME,12.0,2.0,sector-driven
+AA,2026-05-04,34.1,XME,Metals & Mining,13.6,6.1,XME,13.6,5.8,sector-driven
+AAL,2025-11-20,28.9,JETS,Airlines,21.6,-5.1,JETS,21.6,4.7,sector-driven
+AAL,2026-04-29,29.5,JETS,Airlines,16.9,1.2,JETS,16.9,6.1,sector-driven
+AAL,2026-06-03,32.1,JETS,Airlines,19.3,6.8,JETS,19.3,-1.0,sector-driven
+AAMI,2026-03-17,30.5,,,,,,,4.7,unmapped
+AAOI,2025-11-11,47.3,,,,,,,0.7,unmapped
+AAOI,2026-01-08,34.2,,,,,,,0.2,unmapped
+AAOI,2026-03-30,61.1,,,,,,,12.7,unmapped
+AAOI,2026-05-08,32.0,,,,,,,0.2,unmapped
+AAOI,2026-07-16,29.8,,,,,,,3.6,unmapped
+AAON,2026-04-09,42.4,,,,,,,7.6,unmapped
+AAP,2026-01-05,30.8,XRT,Retail,1.4,2.3,XRT,1.4,0.3,solo
+AAUC,2025-12-29,37.9,GDXJ,Junior Gold Miners,32.2,6.7,GDXJ,32.2,1.1,sector-driven
+AAUC,2026-07-29,38.3,GDXJ,Junior Gold Miners,39.9,-3.3,GDXJ,39.9,5.0,sector-driven
+ABAT,2025-12-15,35.1,XME,Metals & Mining,22.1,9.8,XME,22.1,1.7,sector-driven
+ABAT,2026-03-26,20.1,XME,Metals & Mining,12.3,-12.6,XME,12.3,10.7,sector-driven
+ABAT,2026-07-30,31.1,XME,Metals & Mining,20.8,-2.4,XME,20.8,4.0,sector-driven
+ABCL,2025-12-16,20.8,,,,,,,2.3,unmapped
+ABCL,2026-02-05,24.1,,,,,,,-0.8,unmapped
+ABCL,2026-04-06,35.4,,,,,,,9.0,unmapped
+ABCL,2026-05-15,28.6,,,,,,,2.1,unmapped
+ABCL,2026-07-20,93.1,,,,,,,4.1,unmapped
+ABEO,2025-11-11,31.2,,,,,,,0.7,unmapped
+ABEO,2026-03-24,30.0,,,,,,,8.9,unmapped
+ABEO,2026-06-09,30.6,,,,,,,2.3,unmapped
+ABNB,2026-07-22,33.1,XLY,Consumer Discretionary,4.0,0.2,XLY,4.0,2.9,sector-assisted
+ABSI,2025-11-13,37.9,XBI,Biotech,10.1,3.7,XBI,10.1,1.5,sector-driven
+ABSI,2026-03-06,24.4,XBI,Biotech,3.9,2.7,XBI,3.9,-1.7,sector-assisted
+ABSI,2026-04-15,67.2,XBI,Biotech,-0.4,9.9,XBI,-0.4,6.1,solo
+ABSI,2026-05-26,90.8,XBI,Biotech,12.4,0.2,XBI,12.4,-2.1,sector-driven
+ABSI,2026-07-24,26.3,XBI,Biotech,10.1,-0.7,XBI,10.1,3.6,sector-driven
+ABSI,2026-09-04,30.7,XBI,Biotech,-4.7,4.1,XBI,-4.7,0.8,solo
+ABTC,2026-03-20,33.1,,,,,,,9.3,unmapped
+ABTC,2026-07-13,33.8,,,,,,,3.2,unmapped
+ABVX,2026-06-02,82.8,,,,,,,-1.6,unmapped
+ABX,2026-02-03,36.2,,,,,,,-0.6,unmapped
+ABX,2026-06-02,32.3,,,,,,,-1.6,unmapped
+ACB,2025-11-20,21.6,,,,,,,4.7,unmapped
+ACB,2026-07-14,31.0,,,,,,,2.5,unmapped
+ACCO,2026-04-02,37.2,,,,,,,9.9,unmapped
+ACDC,2025-12-26,32.5,,,,,,,0.8,unmapped
+ACDC,2026-02-20,20.9,,,,,,,-5.7,unmapped
+ACDC,2026-07-27,20.2,,,,,,,3.3,unmapped
+ACHC,2026-01-14,35.5,,,,,,,-1.3,unmapped
+ACHC,2026-06-05,30.4,,,,,,,1.6,unmapped
+ACHR,2026-07-13,37.6,XAR,Aerospace & Defense (SPDR),9.1,-7.1,XAR,9.1,3.2,sector-driven
+ACHV,2025-12-17,37.8,XBI,Biotech,3.0,5.0,XBI,3.0,3.4,sector-assisted
+ACHV,2026-03-24,45.9,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+ACHV,2026-06-03,30.1,XBI,Biotech,23.7,-3.0,XBI,23.7,-1.0,sector-driven
+ACHV,2026-07-24,31.0,XBI,Biotech,10.1,-0.7,XBI,10.1,3.6,sector-driven
+ACIW,2026-06-03,32.1,XSW,Software,0.7,8.9,FINX,4.0,-1.0,solo
+ACLS,2026-03-13,33.1,,,,,,,3.9,unmapped
+ACLS,2026-05-19,22.5,,,,,,,1.0,unmapped
+ACLS,2026-09-03,33.9,,,,,,,-0.2,unmapped
+ACMR,2025-11-20,34.0,,,,,,,4.7,unmapped
+ACMR,2026-03-26,36.2,,,,,,,10.7,unmapped
+ACMR,2026-07-29,21.1,,,,,,,5.0,unmapped
+ACN,2026-06-29,32.0,XLK,Tech (broad),-7.7,-2.8,XSW,5.7,-0.0,solo
+ACN,2026-09-22,30.2,XLK,Tech (broad),-5.5,9.1,XSW,3.0,-0.6,solo
+ACRS,2025-11-18,21.7,XPH,Pharma,6.2,6.4,XPH,6.2,1.7,sector-assisted
+ACRS,2025-12-23,55.2,XPH,Pharma,-0.5,6.3,XPH,-0.5,0.2,solo
+ACRS,2026-02-27,22.6,XPH,Pharma,-9.5,2.7,XPH,-9.5,-7.4,solo
+ACRS,2026-06-09,32.8,XPH,Pharma,20.3,-0.2,XPH,20.3,2.3,sector-driven
+ADCT,2026-06-05,31.1,,,,,,,1.6,unmapped
+ADCT,2026-08-24,27.4,,,,,,,1.5,unmapped
+ADCT,2026-09-29,29.3,,,,,,,0.7,unmapped
+ADEA,2025-11-21,38.5,XSW,Software,8.5,-11.8,XSW,8.5,4.3,sector-driven
+ADEA,2026-02-23,32.5,XSW,Software,5.7,-21.2,XSW,5.7,-3.7,sector-assisted
+ADI,2026-03-27,27.7,SMH,Semiconductors,35.3,-7.9,XSD,45.6,12.9,sector-driven
+ADMA,2025-11-04,34.8,XBI,Biotech,12.8,4.2,XBI,12.8,1.3,sector-driven
+ADMA,2026-03-26,35.8,XBI,Biotech,7.6,-3.0,XBI,7.6,10.7,sector-assisted
+ADNT,2026-01-07,30.3,,,,,,,-1.7,unmapped
+ADPT,2026-05-08,20.9,,,,,,,0.2,unmapped
+ADT,2026-10-01,58.4,,,,,,,0.7,unmapped
+ADTN,2026-02-26,30.9,,,,,,,-6.2,unmapped
+ADUR,2025-11-17,22.6,,,,,,,2.0,unmapped
+ADUR,2025-12-24,25.2,,,,,,,0.3,unmapped
+ADUR,2026-03-30,30.2,,,,,,,12.7,unmapped
+ADUR,2026-07-16,31.2,,,,,,,3.6,unmapped
+AEBI,2026-03-26,24.2,,,,,,,10.7,unmapped
+AEHR,2025-12-17,34.1,,,,,,,3.4,unmapped
+AEHR,2026-02-04,69.9,,,,,,,-0.7,unmapped
+AEHR,2026-03-20,161.2,,,,,,,9.3,unmapped
+AEHR,2026-05-18,25.4,,,,,,,1.6,unmapped
+AEHR,2026-07-06,26.8,,,,,,,0.9,unmapped
+AEHR,2026-08-31,27.1,,,,,,,-0.1,unmapped
+AEIS,2025-12-31,22.0,,,,,,,1.5,unmapped
+AEIS,2026-06-01,26.5,,,,,,,-1.3,unmapped
+AEM,2025-12-29,30.1,GDX,Gold Miners,30.6,3.9,GDX,30.6,1.1,sector-driven
+AEM,2026-07-15,30.2,GDX,Gold Miners,22.9,-13.2,GDX,22.9,2.3,sector-driven
+AEO,2025-11-04,48.1,XRT,Retail,7.1,-5.1,XRT,7.1,1.3,sector-assisted
+AERO,2026-03-20,33.5,,,,,,,9.3,unmapped
+AESI,2026-02-24,29.9,,,,,,,-4.7,unmapped
+AESI,2026-04-02,41.0,,,,,,,9.9,unmapped
+AEVA,2025-11-11,36.5,,,,,,,0.7,unmapped
+AEVA,2026-02-05,24.8,,,,,,,-0.8,unmapped
+AEVA,2026-03-30,34.3,,,,,,,12.7,unmapped
+AEVA,2026-05-07,68.4,,,,,,,0.8,unmapped
+AEVA,2026-07-13,25.9,,,,,,,3.2,unmapped
+AFRM,2026-03-18,35.7,FINX,Fintech,6.8,1.5,FINX,6.8,6.4,sector-assisted
+AFRM,2026-06-05,31.5,FINX,Fintech,8.6,-8.6,FINX,8.6,1.6,sector-driven
+AG,2025-11-04,35.7,GDX,Gold Miners,18.9,-11.4,GDXJ,22.6,1.3,sector-driven
+AG,2025-12-29,57.1,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+AG,2026-07-27,28.4,GDX,Gold Miners,36.7,-1.6,GDX,36.7,3.3,sector-driven
+AGCO,2026-08-10,26.2,MOO,Agribusiness,7.4,0.0,MOO,7.4,-0.9,sector-assisted
+AGEN,2026-02-17,30.8,,,,,,,-1.8,unmapped
+AGEN,2026-03-27,20.6,,,,,,,12.9,unmapped
+AGEN,2026-06-11,80.5,,,,,,,1.8,unmapped
+AGI,2026-01-30,49.9,GDX,Gold Miners,22.4,9.8,GDXJ,24.9,-0.8,sector-driven
+AGI,2026-07-28,35.5,GDX,Gold Miners,42.2,-1.9,GDX,42.2,3.4,sector-driven
+AGIO,2026-06-01,32.5,XBI,Biotech,18.6,2.5,XBI,18.6,-1.3,sector-driven
+AGL,2025-11-17,24.5,,,,,,,2.0,unmapped
+AGL,2025-12-23,44.3,,,,,,,0.2,unmapped
+AGL,2026-02-10,41.5,,,,,,,-2.3,unmapped
+AGL,2026-03-20,165.5,,,,,,,9.3,unmapped
+AGQ,2026-02-05,25.0,,,,,,,-0.8,unmapped
+AGQ,2026-03-20,35.1,,,,,,,9.3,unmapped
+AGQ,2026-07-16,31.7,,,,,,,3.6,unmapped
+AGRO,2026-02-17,42.3,,,,,,,-1.8,unmapped
+AGRO,2026-08-04,30.8,,,,,,,-1.2,unmapped
+AGX,2026-01-13,34.5,,,,,,,-0.3,unmapped
+AGX,2026-03-12,31.5,,,,,,,2.3,unmapped
+AGYS,2026-04-30,35.1,XSW,Software,17.2,6.0,XSW,17.2,5.3,sector-driven
+AI,2026-05-12,22.9,XSW,Software,4.8,9.0,XSW,4.8,-1.7,sector-assisted
+AI,2026-07-23,26.5,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+AII,2026-07-21,34.8,,,,,,,2.6,unmapped
+AIOT,2026-05-15,28.2,,,,,,,2.1,unmapped
+AIP,2025-11-12,31.0,XSW,Software,2.3,-4.7,XSW,2.3,0.9,solo
+AIP,2026-03-12,31.7,XSW,Software,-9.4,-1.9,XSW,-9.4,2.3,solo
+AIR,2025-12-17,29.4,XAR,Aerospace & Defense (SPDR),28.0,2.4,XAR,28.0,3.4,sector-driven
+AIR,2026-05-19,31.0,XAR,Aerospace & Defense (SPDR),10.1,-3.0,XAR,10.1,1.0,sector-driven
+AIRJ,2025-11-28,33.4,,,,,,,1.0,unmapped
+AIRJ,2026-04-24,37.4,,,,,,,4.5,unmapped
+AIRJ,2026-07-08,31.9,,,,,,,3.3,unmapped
+AIRO,2025-12-12,51.5,,,,,,,2.1,unmapped
+AIRO,2026-05-04,30.7,,,,,,,5.8,unmapped
+AIRO,2026-07-10,35.7,,,,,,,2.4,unmapped
+AKAM,2026-04-10,61.7,XLK,Tech (broad),23.1,3.6,XLK,23.1,8.6,sector-driven
+AKTS,2026-03-27,32.3,XBI,Biotech,11.3,-6.1,XBI,11.3,12.9,sector-driven
+AKTS,2026-05-22,32.8,XBI,Biotech,11.8,-1.2,XBI,11.8,-1.4,sector-driven
+ALAB,2026-03-13,38.6,SMH,Semiconductors,14.5,-4.6,XSD,16.4,3.9,sector-driven
+ALAB,2026-08-24,31.0,SMH,Semiconductors,11.1,-0.3,SMH,11.1,1.5,sector-driven
+ALB,2025-11-03,32.7,XLB,Materials,3.9,-5.3,REMX,10.7,-0.3,sector-assisted
+ALB,2026-03-18,30.0,XLB,Materials,7.3,-8.7,REMX,18.9,6.4,sector-assisted
+ALGM,2025-12-17,30.9,XSD,Semiconductors (equal-wt),13.4,5.9,XSD,13.4,3.4,sector-driven
+ALGM,2026-03-20,35.7,XSD,Semiconductors (equal-wt),31.4,-9.6,XSD,31.4,9.3,sector-driven
+ALGM,2026-05-18,28.9,XSD,Semiconductors (equal-wt),11.8,25.9,XSD,11.8,1.6,sector-driven
+ALGT,2025-11-04,37.7,JETS,Airlines,13.2,-3.1,JETS,13.2,1.3,sector-driven
+ALGT,2026-01-13,27.0,JETS,Airlines,3.9,2.5,JETS,3.9,-0.3,sector-assisted
+ALGT,2026-05-19,37.2,JETS,Airlines,21.9,-7.3,JETS,21.9,1.0,sector-driven
+ALH,2026-03-20,36.1,,,,,,,9.3,unmapped
+ALHC,2026-03-27,26.1,,,,,,,12.9,unmapped
+ALHC,2026-05-15,25.7,,,,,,,2.1,unmapped
+ALIT,2026-03-27,21.8,,,,,,,12.9,unmapped
+ALIT,2026-06-05,31.1,,,,,,,1.6,unmapped
+ALK,2025-11-17,34.0,JETS,Airlines,20.0,-5.9,JETS,20.0,2.0,sector-driven
+ALK,2026-05-15,32.9,JETS,Airlines,19.2,-8.5,JETS,19.2,2.1,sector-driven
+ALKS,2026-03-18,24.1,XBI,Biotech,11.9,-3.6,XBI,11.9,6.4,sector-driven
+ALLT,2025-12-17,20.1,,,,,,,3.4,unmapped
+ALM,2025-11-18,30.5,REMX,Rare Earth,-0.0,3.0,REMX,-0.0,1.7,solo
+ALM,2026-03-20,44.3,REMX,Rare Earth,30.4,-11.1,REMX,30.4,9.3,sector-driven
+ALM,2026-07-24,38.8,REMX,Rare Earth,19.6,-24.3,REMX,19.6,3.6,sector-driven
+ALMS,2026-01-05,225.4,XPH,Pharma,3.7,1.6,XPH,3.7,0.3,sector-assisted
+ALMS,2026-06-01,38.4,XPH,Pharma,15.6,-1.9,XPH,15.6,-1.3,sector-driven
+ALMU,2025-11-13,35.3,,,,,,,1.5,unmapped
+ALMU,2026-03-20,25.6,,,,,,,9.3,unmapped
+ALNT,2026-04-07,31.6,,,,,,,9.8,unmapped
+ALNT,2026-05-07,29.0,,,,,,,0.8,unmapped
+ALNT,2026-07-16,25.8,,,,,,,3.6,unmapped
+ALNT,2026-09-01,29.1,,,,,,,0.4,unmapped
+ALOY,2025-11-10,40.2,XME,Metals & Mining,4.5,-11.9,XME,4.5,0.2,sector-assisted
+ALOY,2025-12-17,46.0,XME,Metals & Mining,23.1,11.5,XME,23.1,3.4,sector-driven
+ALOY,2026-02-05,70.2,XME,Metals & Mining,-4.8,1.3,XME,-4.8,-0.8,solo
+ALOY,2026-04-07,20.3,XME,Metals & Mining,8.3,-2.0,XME,8.3,9.8,sector-driven
+ALOY,2026-05-07,30.7,XME,Metals & Mining,-1.6,6.9,XME,-1.6,0.8,solo
+ALOY,2026-07-16,32.3,XME,Metals & Mining,16.5,-17.0,XME,16.5,3.6,sector-driven
+ALT,2025-11-03,20.2,XBI,Biotech,7.9,6.0,XBI,7.9,-0.3,sector-assisted
+ALT,2025-12-23,37.5,XBI,Biotech,2.5,4.8,XBI,2.5,0.2,solo
+ALTO,2026-02-04,52.3,,,,,,,-0.7,unmapped
+ALTO,2026-04-07,35.8,,,,,,,9.8,unmapped
+ALVO,2026-05-08,30.1,,,,,,,0.2,unmapped
+ALVO,2026-07-23,34.3,,,,,,,3.3,unmapped
+AMAT,2025-12-30,31.3,SMH,Semiconductors,14.9,3.3,SMH,14.9,1.0,sector-driven
+AMAT,2026-05-15,34.2,SMH,Semiconductors,16.3,19.9,SMH,16.3,2.1,sector-driven
+AMBA,2026-03-27,28.5,XSD,Semiconductors (equal-wt),45.6,-9.0,XSD,45.6,12.9,sector-driven
+AMBA,2026-06-10,23.4,XSD,Semiconductors (equal-wt),1.2,1.1,XSD,1.2,4.4,solo
+AMBA,2026-07-16,29.5,XSD,Semiconductors (equal-wt),5.6,-14.9,XSD,5.6,3.6,sector-assisted
+AMBQ,2025-11-20,33.4,XSD,Semiconductors (equal-wt),13.7,-16.3,XSD,13.7,4.7,sector-driven
+AMBQ,2026-03-19,34.2,XSD,Semiconductors (equal-wt),25.2,-6.6,XSD,25.2,8.0,sector-driven
+AMCX,2026-03-19,32.1,,,,,,,8.0,unmapped
+AMCX,2026-05-12,26.2,,,,,,,-1.7,unmapped
+AMCX,2026-07-30,27.2,,,,,,,4.0,unmapped
+AMD,2026-03-17,31.5,SMH,Semiconductors,14.1,-2.6,XSD,18.4,4.7,sector-driven
+AMD,2026-08-21,30.1,SMH,Semiconductors,6.4,-0.1,XLK,6.4,1.3,sector-assisted
+AMKR,2025-11-13,38.7,,,,,,,1.5,unmapped
+AMKR,2025-12-30,23.8,,,,,,,1.0,unmapped
+AMKR,2026-03-12,40.4,,,,,,,2.3,unmapped
+AMKR,2026-05-18,31.1,,,,,,,1.6,unmapped
+AMLX,2025-12-18,38.8,XPH,Pharma,2.4,6.0,XPH,2.4,0.5,solo
+AMLX,2026-03-19,30.7,XPH,Pharma,10.5,-6.5,XPH,10.5,8.0,sector-driven
+AMLX,2026-05-29,30.3,XPH,Pharma,14.1,1.1,XPH,14.1,-1.8,sector-driven
+AMLX,2026-07-22,118.1,XPH,Pharma,8.8,7.7,XPH,8.8,2.9,sector-driven
+AMN,2025-12-29,28.9,,,,,,,1.1,unmapped
+AMN,2026-04-10,62.1,,,,,,,8.6,unmapped
+AMN,2026-09-24,35.5,,,,,,,-0.4,unmapped
+AMPG,2025-11-12,30.0,,,,,,,0.9,unmapped
+AMPG,2025-12-17,24.7,,,,,,,3.4,unmapped
+AMPG,2026-04-13,33.3,,,,,,,7.8,unmapped
+AMPL,2026-05-07,29.6,XSW,Software,3.1,16.6,XSW,3.1,0.8,sector-assisted
+AMPL,2026-06-09,34.8,XSW,Software,8.2,3.6,XSW,8.2,2.3,sector-driven
+AMPL,2026-07-30,65.9,XSW,Software,15.8,2.8,XSW,15.8,4.0,sector-driven
+AMPL,2026-09-25,31.0,XSW,Software,10.1,-7.0,XSW,10.1,-1.5,sector-driven
+AMPX,2025-12-22,31.8,,,,,,,0.6,unmapped
+AMPX,2026-02-12,76.2,,,,,,,-2.8,unmapped
+AMPX,2026-04-02,30.4,,,,,,,9.9,unmapped
+AMPX,2026-05-07,22.2,,,,,,,0.8,unmapped
+AMPX,2026-07-29,20.9,,,,,,,5.0,unmapped
+AMPY,2026-07-27,27.5,,,,,,,3.3,unmapped
+AMR,2025-11-20,34.6,XME,Metals & Mining,20.4,-11.5,XME,20.4,4.7,sector-driven
+AMR,2026-02-27,37.3,XME,Metals & Mining,-11.2,-5.9,XME,-11.2,-7.4,solo
+AMR,2026-07-22,32.9,XME,Metals & Mining,13.1,-6.7,XME,13.1,2.9,sector-driven
+AMRC,2026-04-06,31.2,,,,,,,9.0,unmapped
+AMRX,2026-05-13,31.9,XPH,Pharma,1.1,2.8,XPH,1.1,-0.6,solo
+AMSC,2026-03-18,26.0,,,,,,,6.4,unmapped
+AMZN,2026-03-27,31.0,XLY,Consumer Discretionary,11.6,-9.4,AIQ,21.8,12.9,sector-driven
+ANAB,2025-11-10,28.9,XBI,Biotech,10.1,4.6,XBI,10.1,0.2,sector-driven
+ANAB,2026-03-27,74.5,XBI,Biotech,11.3,-6.1,XBI,11.3,12.9,sector-driven
+ANAB,2026-06-02,27.6,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+ANDG,2026-02-11,33.8,,,,,,,-3.8,unmapped
+ANDG,2026-03-27,33.3,,,,,,,12.9,unmapped
+ANDG,2026-07-02,30.2,,,,,,,0.3,unmapped
+ANET,2026-03-24,35.9,XLK,Tech (broad),16.2,-2.9,XLK,16.2,8.9,sector-driven
+ANET,2026-07-29,28.0,XLK,Tech (broad),9.8,-12.6,XLK,9.8,5.0,sector-driven
+ANF,2026-07-30,45.4,XRT,Retail,-4.4,3.1,XRT,-4.4,4.0,solo
+ANGI,2025-11-20,21.5,,,,,,,4.7,unmapped
+ANGI,2026-05-06,34.6,,,,,,,3.2,unmapped
+ANGI,2026-06-22,25.5,,,,,,,0.5,unmapped
+ANGI,2026-09-10,35.1,,,,,,,2.4,unmapped
+ANGX,2026-02-04,31.4,,,,,,,-0.7,unmapped
+ANGX,2026-04-10,53.7,,,,,,,8.6,unmapped
+ANGX,2026-06-01,31.5,,,,,,,-1.3,unmapped
+ANGX,2026-08-12,46.2,,,,,,,-1.9,unmapped
+ANNX,2026-01-02,36.0,XBI,Biotech,4.8,0.1,XBI,4.8,1.8,sector-assisted
+ANNX,2026-03-24,25.2,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+ANNX,2026-06-10,22.9,XBI,Biotech,23.6,-4.5,XBI,23.6,4.4,sector-driven
+ANRO,2025-11-24,47.8,XPH,Pharma,6.3,8.6,XPH,6.3,3.2,sector-assisted
+ANRO,2026-01-30,33.3,XPH,Pharma,3.9,-1.0,XPH,3.9,-0.8,sector-assisted
+ANRO,2026-03-23,27.8,XPH,Pharma,9.8,-7.7,XPH,9.8,7.5,sector-driven
+ANRO,2026-05-28,33.7,XPH,Pharma,12.7,3.6,XPH,12.7,-3.2,sector-driven
+ANRO,2026-07-24,28.0,XPH,Pharma,7.1,5.3,XPH,7.1,3.6,sector-assisted
+AOSL,2026-03-16,41.8,XSD,Semiconductors (equal-wt),16.7,-8.0,XSD,16.7,4.1,sector-driven
+AOSL,2026-05-21,26.2,XSD,Semiconductors (equal-wt),12.5,27.9,XSD,12.5,0.5,sector-driven
+APA,2026-02-17,31.2,XLE,Energy,9.0,13.0,XOP,17.2,-1.8,sector-driven
+APEI,2026-02-18,22.8,,,,,,,-3.7,unmapped
+APH,2026-05-18,30.5,XLK,Tech (broad),6.9,12.8,XLK,6.9,1.6,sector-assisted
+APLD,2025-11-13,20.8,,,,,,,1.5,unmapped
+APLD,2025-12-15,57.1,,,,,,,1.7,unmapped
+APLD,2026-03-26,36.0,,,,,,,10.7,unmapped
+APOG,2026-10-05,31.7,,,,,,,-2.9,unmapped
+APP,2025-11-13,20.6,XLC,Comm Services,4.2,-2.0,XLC,4.2,1.5,sector-assisted
+APP,2026-02-04,31.3,XLC,Comm Services,1.4,-0.5,XLC,1.4,-0.7,solo
+APP,2026-03-30,20.7,XLC,Comm Services,7.3,-8.2,XLC,7.3,12.7,sector-assisted
+APPF,2026-07-27,33.4,XSW,Software,14.1,5.3,XSW,14.1,3.3,sector-driven
+APPN,2026-05-13,26.3,XSW,Software,7.0,3.2,XSW,7.0,-0.6,sector-assisted
+APPN,2026-06-22,27.6,XSW,Software,10.0,-1.1,XSW,10.0,0.5,sector-driven
+APPN,2026-07-23,69.8,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+APPN,2026-09-24,36.0,XSW,Software,7.3,-0.4,XSW,7.3,-0.4,sector-assisted
+APPS,2025-11-20,25.5,XSW,Software,8.7,-11.8,XSW,8.7,4.7,sector-driven
+APPS,2026-03-24,25.3,XSW,Software,9.0,-1.3,XSW,9.0,8.9,sector-driven
+APPS,2026-05-14,131.8,XSW,Software,6.1,3.5,XSW,6.1,-0.9,sector-assisted
+APPS,2026-07-10,35.8,XSW,Software,10.6,8.2,XSW,10.6,2.4,sector-driven
+APTV,2026-05-05,40.1,XLY,Consumer Discretionary,-1.1,9.6,XLY,-1.1,4.2,solo
+AQST,2026-01-29,26.6,XPH,Pharma,2.7,-0.8,XPH,2.7,-1.2,solo
+AQST,2026-07-28,35.1,XPH,Pharma,6.6,3.9,XPH,6.6,3.4,sector-assisted
+ARCB,2025-11-19,32.0,,,,,,,2.1,unmapped
+ARCB,2026-03-16,30.9,,,,,,,4.1,unmapped
+ARCB,2026-05-11,46.4,,,,,,,-0.3,unmapped
+ARCT,2026-03-16,30.9,,,,,,,4.1,unmapped
+ARCT,2026-07-17,36.0,,,,,,,4.5,unmapped
+ARDT,2026-06-03,37.4,,,,,,,-1.0,unmapped
+ARDX,2025-12-10,30.7,XBI,Biotech,2.4,7.1,XBI,2.4,1.2,solo
+ARHS,2025-11-19,31.5,,,,,,,2.1,unmapped
+ARHS,2026-06-02,31.5,,,,,,,-1.6,unmapped
+ARHS,2026-07-20,27.4,,,,,,,4.1,unmapped
+ARHS,2026-09-15,31.4,,,,,,,3.0,unmapped
+ARIS,2026-01-30,31.0,GDX,Gold Miners,22.4,9.8,GDXJ,24.9,-0.8,sector-driven
+ARIS,2026-03-20,29.3,GDX,Gold Miners,23.7,-24.6,GDXJ,25.6,9.3,sector-driven
+ARIS,2026-07-16,27.8,GDX,Gold Miners,23.6,-18.2,GDXJ,25.1,3.6,sector-driven
+ARKO,2026-01-05,42.9,XRT,Retail,1.4,2.3,XRT,1.4,0.3,solo
+ARKO,2026-03-20,39.3,XRT,Retail,12.2,-11.4,XRT,12.2,9.3,sector-driven
+ARLO,2026-02-12,21.1,,,,,,,-2.8,unmapped
+ARM,2026-03-06,30.1,SMH,Semiconductors,4.1,-0.1,SMH,4.1,-1.7,sector-assisted
+ARM,2026-08-21,32.7,SMH,Semiconductors,6.4,-0.1,SMH,6.4,1.3,sector-assisted
+ARQQ,2026-03-27,23.8,,,,,,,12.9,unmapped
+ARQQ,2026-04-29,27.9,,,,,,,6.1,unmapped
+ARQQ,2026-06-03,60.6,,,,,,,-1.0,unmapped
+ARQQ,2026-07-15,30.0,,,,,,,2.3,unmapped
+ARQQ,2026-09-01,27.3,,,,,,,0.4,unmapped
+ARQT,2026-05-19,34.5,XBI,Biotech,9.9,-7.0,XBI,9.9,1.0,sector-driven
+ARQT,2026-10-02,27.5,XBI,Biotech,1.0,-6.1,XBI,1.0,-1.8,solo
+ARRY,2025-11-20,42.1,TAN,Solar,7.3,-1.9,TAN,7.3,4.7,sector-assisted
+ARRY,2026-01-08,34.0,TAN,Solar,14.6,6.2,TAN,14.6,0.2,sector-driven
+ARTV,2025-11-14,93.8,,,,,,,1.3,unmapped
+ARTV,2026-01-29,40.2,,,,,,,-1.2,unmapped
+ARTV,2026-03-24,124.3,,,,,,,8.9,unmapped
+ARTV,2026-05-28,26.4,,,,,,,-3.2,unmapped
+ARTV,2026-07-16,25.0,,,,,,,3.6,unmapped
+ARW,2026-01-08,39.9,,,,,,,0.2,unmapped
+ARW,2026-03-26,30.6,,,,,,,10.7,unmapped
+ARWR,2025-11-03,46.3,XBI,Biotech,7.9,6.0,XBI,7.9,-0.3,sector-assisted
+ARWR,2026-03-24,31.4,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+ARX,2025-11-21,32.3,,,,,,,4.3,unmapped
+ARX,2026-02-23,36.8,,,,,,,-3.7,unmapped
+ARX,2026-04-24,31.4,,,,,,,4.5,unmapped
+ARX,2026-07-16,39.8,,,,,,,3.6,unmapped
+AS,2025-11-11,30.8,,,,,,,0.7,unmapped
+ASA,2025-11-21,33.9,,,,,,,4.3,unmapped
+ASA,2026-07-29,30.8,,,,,,,5.0,unmapped
+ASAN,2026-04-10,21.4,XSW,Software,19.8,-9.4,XSW,19.8,8.6,sector-driven
+ASAN,2026-05-12,26.1,XSW,Software,4.8,9.0,XSW,4.8,-1.7,sector-assisted
+ASAN,2026-07-21,24.0,XSW,Software,11.9,10.0,XSW,11.9,2.6,sector-driven
+ASAN,2026-09-25,33.3,XSW,Software,10.1,-7.0,XSW,10.1,-1.5,sector-driven
+ASC,2026-02-05,27.6,,,,,,,-0.8,unmapped
+ASIX,2026-02-26,36.6,,,,,,,-6.2,unmapped
+ASM,2025-11-04,32.5,GDXJ,Junior Gold Miners,22.6,-13.4,GDXJ,22.6,1.3,sector-driven
+ASM,2026-01-02,60.0,GDXJ,Junior Gold Miners,9.6,8.7,GDXJ,9.6,1.8,sector-driven
+ASM,2026-03-19,36.9,GDXJ,Junior Gold Miners,22.2,-21.0,GDXJ,22.2,8.0,sector-driven
+ASM,2026-07-16,25.4,GDXJ,Junior Gold Miners,25.1,-19.0,GDXJ,25.1,3.6,sector-driven
+ASMB,2026-06-10,23.1,XBI,Biotech,23.6,-4.5,XBI,23.6,4.4,sector-driven
+ASMB,2026-07-23,33.0,XBI,Biotech,7.3,1.7,XBI,7.3,3.3,sector-assisted
+ASML,2025-12-17,33.8,SMH,Semiconductors,18.4,1.8,SMH,18.4,3.4,sector-driven
+ASML,2026-05-19,28.0,SMH,Semiconductors,14.7,17.1,SMH,14.7,1.0,sector-driven
+ASO,2025-11-17,24.4,XRT,Retail,11.1,-7.3,XRT,11.1,2.0,sector-driven
+ASPI,2025-12-15,24.6,,,,,,,1.7,unmapped
+ASPI,2026-03-30,24.2,,,,,,,12.7,unmapped
+ASPI,2026-05-18,22.1,,,,,,,1.6,unmapped
+ASPN,2025-12-22,34.0,,,,,,,0.6,unmapped
+ASPN,2026-02-25,33.9,,,,,,,-5.0,unmapped
+ASPN,2026-04-10,50.9,,,,,,,8.6,unmapped
+ASPN,2026-07-09,31.5,,,,,,,2.2,unmapped
+ASST,2025-12-15,30.5,XHE,Healthcare Equipment,0.4,8.4,XHE,0.4,1.7,solo
+ASST,2026-02-13,30.4,XHE,Healthcare Equipment,-4.3,-6.1,XHE,-4.3,-1.9,solo
+ASST,2026-03-30,63.1,XHE,Healthcare Equipment,6.5,-13.0,XHE,6.5,12.7,sector-assisted
+ASST,2026-07-23,33.4,XHE,Healthcare Equipment,12.2,2.8,XHE,12.2,3.3,sector-driven
+ASTE,2026-01-28,30.8,,,,,,,-0.9,unmapped
+ASTH,2025-12-09,32.2,,,,,,,1.3,unmapped
+ASTH,2026-02-09,26.1,,,,,,,-2.4,unmapped
+ASTH,2026-03-30,43.3,,,,,,,12.7,unmapped
+ASTH,2026-06-02,34.9,,,,,,,-1.6,unmapped
+ASTI,2025-11-11,69.1,,,,,,,0.7,unmapped
+ASTI,2026-01-21,31.5,,,,,,,-0.1,unmapped
+ASTI,2026-03-18,33.7,,,,,,,6.4,unmapped
+ASTI,2026-04-29,85.2,,,,,,,6.1,unmapped
+ASTL,2025-11-17,27.8,,,,,,,2.0,unmapped
+ASTL,2026-03-13,44.8,,,,,,,3.9,unmapped
+ASTS,2025-11-12,31.4,,,,,,,0.9,unmapped
+ASTS,2025-12-17,87.1,,,,,,,3.4,unmapped
+ASTS,2026-04-24,38.6,,,,,,,4.5,unmapped
+ASTS,2026-07-16,30.0,,,,,,,3.6,unmapped
+ASX,2025-12-17,31.6,,,,,,,3.4,unmapped
+ASX,2026-03-19,30.5,,,,,,,8.0,unmapped
+ASX,2026-05-19,21.2,,,,,,,1.0,unmapped
+ASYS,2025-11-12,44.8,,,,,,,0.9,unmapped
+ASYS,2026-03-16,37.1,,,,,,,4.1,unmapped
+ATEX,2025-12-30,24.4,,,,,,,1.0,unmapped
+ATEX,2026-03-30,30.7,,,,,,,12.7,unmapped
+ATI,2026-01-26,30.5,XAR,Aerospace & Defense (SPDR),1.0,11.8,ITA,4.2,-0.8,solo
+ATI,2026-05-18,31.2,XAR,Aerospace & Defense (SPDR),7.1,-4.8,ITA,8.8,1.6,sector-assisted
+ATLC,2025-11-17,31.7,,,,,,,2.0,unmapped
+ATLC,2026-03-13,39.9,,,,,,,3.9,unmapped
+ATLC,2026-06-01,23.8,,,,,,,-1.3,unmapped
+ATOM,2025-12-26,53.2,,,,,,,0.8,unmapped
+ATOM,2026-02-04,91.2,,,,,,,-0.7,unmapped
+ATOM,2026-03-20,49.2,,,,,,,9.3,unmapped
+ATRC,2025-11-13,33.6,XHE,Healthcare Equipment,7.9,4.5,XHE,7.9,1.5,sector-assisted
+ATRC,2026-06-17,28.9,XHE,Healthcare Equipment,9.3,1.1,XHE,9.3,0.6,sector-driven
+ATRO,2025-12-15,36.8,XAR,Aerospace & Defense (SPDR),22.0,2.8,XAR,22.0,1.7,sector-driven
+ATRO,2026-04-29,31.6,XAR,Aerospace & Defense (SPDR),16.0,-1.7,XAR,16.0,6.1,sector-driven
+ATRO,2026-07-16,40.2,XAR,Aerospace & Defense (SPDR),12.8,-8.1,XAR,12.8,3.6,sector-driven
+AU,2025-12-29,36.2,GDX,Gold Miners,30.6,3.9,GDX,30.6,1.1,sector-driven
+AU,2026-01-30,38.1,GDX,Gold Miners,22.4,9.8,GDX,22.4,-0.8,sector-driven
+AU,2026-03-20,33.1,GDX,Gold Miners,23.7,-24.6,GDX,23.7,9.3,sector-driven
+AU,2026-07-20,33.0,GDX,Gold Miners,29.9,-14.3,GDX,29.9,4.1,sector-driven
+AUGO,2025-11-04,32.4,GDX,Gold Miners,18.9,-11.4,GDXJ,22.6,1.3,sector-driven
+AUGO,2026-03-13,37.9,GDX,Gold Miners,5.9,-5.1,GDX,5.9,3.9,sector-assisted
+AUGO,2026-07-13,42.5,GDX,Gold Miners,23.3,-5.6,GDXJ,24.5,3.2,sector-driven
+AUR,2026-03-18,27.3,XSW,Software,1.3,-0.9,BOTZ,5.3,6.4,solo
+AURA,2026-02-18,30.6,XBI,Biotech,-3.6,0.2,XBI,-3.6,-3.7,solo
+AVAH,2026-06-02,36.9,,,,,,,-1.6,unmapped
+AVAH,2026-07-23,42.8,,,,,,,3.3,unmapped
+AVAV,2025-12-10,48.8,XAR,Aerospace & Defense (SPDR),18.4,-1.0,XAR,18.4,1.2,sector-driven
+AVAV,2026-07-13,33.4,XAR,Aerospace & Defense (SPDR),9.1,-7.1,XAR,9.1,3.2,sector-driven
+AVBP,2025-11-05,32.8,XBI,Biotech,12.9,3.6,XBI,12.9,1.0,sector-driven
+AVBP,2026-03-20,42.6,XBI,Biotech,14.5,-3.6,XBI,14.5,9.3,sector-driven
+AVGO,2026-03-20,28.7,SMH,Semiconductors,20.6,-7.3,XSD,31.4,9.3,sector-driven
+AVNW,2026-05-15,32.1,,,,,,,2.1,unmapped
+AVO,2026-06-05,31.6,,,,,,,1.6,unmapped
+AVPT,2026-06-22,30.5,XSW,Software,10.0,-1.1,XSW,10.0,0.5,sector-driven
+AVR,2025-11-11,41.0,XHE,Healthcare Equipment,6.7,6.7,XHE,6.7,0.7,sector-assisted
+AVR,2026-01-05,23.8,XHE,Healthcare Equipment,-4.5,0.6,XHE,-4.5,0.3,solo
+AVR,2026-04-21,35.1,XHE,Healthcare Equipment,-3.6,3.4,XHE,-3.6,4.2,solo
+AVT,2025-12-31,29.8,,,,,,,1.5,unmapped
+AVT,2026-03-27,31.6,,,,,,,12.9,unmapped
+AVTR,2026-05-15,27.4,,,,,,,2.1,unmapped
+AVTR,2026-06-30,45.3,,,,,,,-2.3,unmapped
+AVTX,2025-11-13,26.3,XBI,Biotech,10.1,3.7,XBI,10.1,1.5,sector-driven
+AVTX,2026-02-04,22.3,XBI,Biotech,-1.1,2.6,XBI,-1.1,-0.7,solo
+AVTX,2026-04-08,51.4,XBI,Biotech,5.4,2.5,XBI,5.4,8.6,sector-assisted
+AVTX,2026-06-02,23.9,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+AVXL,2025-11-24,21.1,,,,,,,3.2,unmapped
+AVXL,2025-12-24,34.9,,,,,,,0.3,unmapped
+AVXL,2026-02-05,22.0,,,,,,,-0.8,unmapped
+AVXL,2026-03-25,20.8,,,,,,,7.9,unmapped
+AVXL,2026-07-10,33.6,,,,,,,2.4,unmapped
+AXGN,2026-03-30,34.1,XHE,Healthcare Equipment,6.5,-13.0,XHE,6.5,12.7,sector-assisted
+AXGN,2026-10-02,32.0,XHE,Healthcare Equipment,2.6,-5.8,XHE,2.6,-1.8,solo
+AXON,2026-02-04,32.5,XAR,Aerospace & Defense (SPDR),5.2,-0.5,ITA,5.3,-0.7,sector-assisted
+AXON,2026-05-06,33.0,XAR,Aerospace & Defense (SPDR),4.9,-1.6,XAR,4.9,3.2,sector-assisted
+AXON,2026-06-16,24.4,XAR,Aerospace & Defense (SPDR),-8.1,7.1,XLI,0.4,0.3,solo
+AXON,2026-07-23,24.9,XAR,Aerospace & Defense (SPDR),0.5,-0.7,XAR,0.5,3.3,solo
+AXSM,2026-04-06,31.8,XPH,Pharma,8.8,-0.9,XPH,8.8,9.0,sector-driven
+AXTI,2026-01-29,131.4,,,,,,,-1.2,unmapped
+AXTI,2026-07-10,54.8,,,,,,,2.4,unmapped
+AXTI,2026-08-28,25.7,,,,,,,-0.2,unmapped
+AYA,2025-12-29,47.4,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+AYA,2026-03-19,38.6,GDX,Gold Miners,21.0,-20.5,GDXJ,22.2,8.0,sector-driven
+AYA,2026-05-19,22.3,GDX,Gold Miners,0.7,-9.9,GDX,0.7,1.0,solo
+AYA,2026-07-08,31.1,GDX,Gold Miners,13.8,-6.5,GDXJ,14.5,3.3,sector-driven
+AZ,2025-12-08,30.3,,,,,,,1.2,unmapped
+AZ,2026-02-26,25.8,,,,,,,-6.2,unmapped
+AZ,2026-07-16,42.4,,,,,,,3.6,unmapped
+AZTA,2026-03-20,30.8,,,,,,,9.3,unmapped
+AZTA,2026-05-11,26.6,,,,,,,-0.3,unmapped
+AZTA,2026-09-04,36.4,,,,,,,0.8,unmapped
+B,2025-11-04,27.9,GDX,Gold Miners,18.9,-11.4,GDX,18.9,1.3,sector-driven
+B,2026-07-28,33.2,GDX,Gold Miners,42.2,-1.9,GDX,42.2,3.4,sector-driven
+BABA,2026-07-06,30.0,AIQ,AI,-5.1,-6.2,AIQ,-5.1,0.9,solo
+BAH,2026-10-02,31.4,,,,,,,-1.8,unmapped
+BAND,2026-03-19,49.3,,,,,,,8.0,unmapped
+BAND,2026-06-15,34.3,,,,,,,0.3,unmapped
+BAND,2026-07-29,26.9,,,,,,,5.0,unmapped
+BAND,2026-09-02,31.3,,,,,,,0.1,unmapped
+BAX,2026-07-14,26.7,XLV,Healthcare,6.2,3.4,XHE,11.2,2.5,sector-assisted
+BB,2026-03-18,42.1,,,,,,,6.4,unmapped
+BBAI,2026-03-30,35.5,XSW,Software,8.8,-8.9,XSW,8.8,12.7,sector-driven
+BBAR,2025-11-24,30.5,,,,,,,3.2,unmapped
+BBAR,2026-05-01,38.7,,,,,,,5.3,unmapped
+BBD,2026-09-09,26.5,,,,,,,2.2,unmapped
+BBIO,2026-06-09,33.2,XBI,Biotech,25.2,-2.5,XBI,25.2,2.3,sector-driven
+BBNX,2026-05-06,31.4,XHE,Healthcare Equipment,2.0,-0.3,XHE,2.0,3.2,solo
+BBNX,2026-07-29,27.5,XHE,Healthcare Equipment,6.5,6.8,XHE,6.5,5.0,sector-assisted
+BBW,2025-12-12,30.8,XRT,Retail,3.1,9.3,XRT,3.1,2.1,sector-assisted
+BBWI,2025-11-21,29.8,XRT,Retail,9.3,-5.8,XRT,9.3,4.3,sector-driven
+BBWI,2026-05-19,27.1,XRT,Retail,6.9,-9.3,XRT,6.9,1.0,sector-assisted
+BBWI,2026-09-25,27.4,XRT,Retail,6.3,-4.6,XRT,6.3,-1.5,sector-assisted
+BBY,2026-05-04,26.3,XLY,Consumer Discretionary,-0.1,8.0,XRT,0.1,5.8,solo
+BCAX,2025-11-05,32.7,XBI,Biotech,12.9,3.6,XBI,12.9,1.0,sector-driven
+BCAX,2026-02-09,33.8,XBI,Biotech,1.0,1.3,XBI,1.0,-2.4,solo
+BCAX,2026-03-27,22.3,XBI,Biotech,11.3,-6.1,XBI,11.3,12.9,sector-driven
+BCAX,2026-05-29,34.9,XBI,Biotech,15.9,4.1,XBI,15.9,-1.8,sector-driven
+BCO,2026-06-26,25.4,,,,,,,1.4,unmapped
+BCRX,2026-01-29,31.2,XBI,Biotech,0.5,4.2,XBI,0.5,-1.2,solo
+BCRX,2026-06-05,30.7,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+BDC,2026-01-16,26.2,,,,,,,-1.3,unmapped
+BDC,2026-07-13,32.2,,,,,,,3.2,unmapped
+BE,2025-12-10,32.4,XLI,Industrials,4.2,1.2,XLI,4.2,1.2,sector-assisted
+BE,2026-03-16,42.5,XLI,Industrials,4.7,-4.7,XLI,4.7,4.1,sector-assisted
+BE,2026-07-28,30.3,XLI,Industrials,-2.2,-0.1,XLI,-2.2,3.4,solo
+BE,2026-08-27,32.5,XLI,Industrials,-4.4,0.2,XLI,-4.4,0.3,solo
+BEAM,2025-11-07,22.0,XBI,Biotech,13.6,3.8,XBI,13.6,1.9,sector-driven
+BEAM,2026-03-24,32.3,XBI,Biotech,14.9,-7.5,ARKK,14.9,8.9,sector-driven
+BELFA,2025-11-17,31.0,,,,,,,2.0,unmapped
+BELFA,2026-03-26,32.8,,,,,,,10.7,unmapped
+BELFB,2025-11-20,30.8,,,,,,,4.7,unmapped
+BELFB,2026-03-26,35.5,,,,,,,10.7,unmapped
+BERZ,2026-01-15,26.3,,,,,,,-1.5,unmapped
+BERZ,2026-05-28,30.4,,,,,,,-3.2,unmapped
+BERZ,2026-09-22,24.9,,,,,,,-0.6,unmapped
+BETA,2026-07-08,30.5,XAR,Aerospace & Defense (SPDR),3.0,1.0,XAR,3.0,3.3,sector-assisted
+BETR,2026-02-02,22.5,,,,,,,-2.2,unmapped
+BETR,2026-03-16,21.1,,,,,,,4.1,unmapped
+BETR,2026-09-24,53.0,,,,,,,-0.4,unmapped
+BFLY,2025-12-01,36.4,XHE,Healthcare Equipment,1.4,10.1,XHE,1.4,1.3,solo
+BFLY,2026-02-12,24.6,XHE,Healthcare Equipment,-5.0,-6.5,XHE,-5.0,-2.8,solo
+BFLY,2026-03-26,28.4,XHE,Healthcare Equipment,4.3,-11.1,XHE,4.3,10.7,sector-assisted
+BFLY,2026-05-13,44.9,XHE,Healthcare Equipment,5.4,-7.1,XHE,5.4,-0.6,sector-assisted
+BFLY,2026-07-20,34.8,XHE,Healthcare Equipment,8.3,5.7,XHE,8.3,4.1,sector-driven
+BFLY,2026-09-03,22.8,XHE,Healthcare Equipment,-5.8,3.3,XHE,-5.8,-0.2,solo
+BG,2025-12-26,30.4,MOO,Agribusiness,11.1,2.8,MOO,11.1,0.8,sector-driven
+BGS,2026-02-03,31.0,,,,,,,-0.6,unmapped
+BH,2025-12-10,30.7,,,,,,,1.2,unmapped
+BH,2026-05-13,32.5,,,,,,,-0.6,unmapped
+BH,2026-09-21,31.1,,,,,,,-0.9,unmapped
+BHC,2026-07-02,40.6,,,,,,,0.3,unmapped
+BHC,2026-10-01,55.5,,,,,,,0.7,unmapped
+BHE,2026-01-08,31.1,,,,,,,0.2,unmapped
+BHE,2026-04-01,43.2,,,,,,,9.7,unmapped
+BHVN,2025-11-10,34.5,XBI,Biotech,10.1,4.6,XBI,10.1,0.2,sector-driven
+BHVN,2025-12-23,28.7,XBI,Biotech,2.5,4.8,XBI,2.5,0.2,solo
+BHVN,2026-03-24,27.3,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+BHVN,2026-05-15,38.6,XBI,Biotech,4.4,-5.8,XBI,4.4,2.1,sector-assisted
+BIDU,2025-12-23,30.4,,,,,,,0.2,unmapped
+BIDU,2026-04-10,30.1,,,,,,,8.6,unmapped
+BILI,2025-12-15,36.0,,,,,,,1.7,unmapped
+BILL,2026-02-04,21.2,XSW,Software,1.4,-18.1,XSW,1.4,-0.7,solo
+BILL,2026-06-11,33.4,XSW,Software,8.3,7.0,XSW,8.3,1.8,sector-driven
+BIO,2026-05-11,21.9,,,,,,,-0.3,unmapped
+BIOA,2025-11-20,55.9,XPH,Pharma,9.9,5.4,XPH,9.9,4.7,sector-driven
+BIOA,2026-05-18,33.6,XPH,Pharma,8.0,-5.5,XPH,8.0,1.6,sector-driven
+BIRK,2026-05-13,39.7,,,,,,,-0.6,unmapped
+BITB,2026-08-14,25.6,,,,,,,-2.0,unmapped
+BITW,2026-08-11,25.4,,,,,,,-1.1,unmapped
+BJRI,2026-06-04,38.0,,,,,,,-0.5,unmapped
+BKD,2025-12-30,34.8,,,,,,,1.0,unmapped
+BKD,2026-06-01,32.0,,,,,,,-1.3,unmapped
+BKKT,2025-12-11,51.7,,,,,,,1.2,unmapped
+BKKT,2026-03-27,23.0,,,,,,,12.9,unmapped
+BKKT,2026-04-29,39.9,,,,,,,6.1,unmapped
+BKSY,2025-11-13,33.9,,,,,,,1.5,unmapped
+BKSY,2025-12-26,39.1,,,,,,,0.8,unmapped
+BKSY,2026-02-20,31.2,,,,,,,-5.7,unmapped
+BKSY,2026-03-30,42.5,,,,,,,12.7,unmapped
+BKSY,2026-07-15,31.2,,,,,,,2.3,unmapped
+BKTI,2026-03-27,24.8,,,,,,,12.9,unmapped
+BL,2026-09-28,28.7,XSW,Software,12.1,-7.9,XSW,12.1,-0.0,sector-driven
+BLKB,2026-06-30,42.4,XSW,Software,6.3,-8.4,XSW,6.3,-2.3,sector-assisted
+BLKB,2026-09-24,30.5,XSW,Software,7.3,-0.4,XSW,7.3,-0.4,sector-assisted
+BLLN,2026-03-10,31.0,,,,,,,0.1,unmapped
+BLLN,2026-04-29,32.7,,,,,,,6.1,unmapped
+BLLN,2026-06-08,27.7,,,,,,,1.1,unmapped
+BLLN,2026-08-27,29.4,,,,,,,0.3,unmapped
+BLMN,2026-04-08,37.2,,,,,,,8.6,unmapped
+BLMN,2026-07-08,52.5,,,,,,,3.3,unmapped
+BLMN,2026-09-30,28.9,,,,,,,1.3,unmapped
+BLSH,2025-11-20,22.2,,,,,,,4.7,unmapped
+BLSH,2026-02-03,33.4,,,,,,,-0.6,unmapped
+BLSH,2026-07-27,34.3,,,,,,,3.3,unmapped
+BLZE,2026-04-07,109.7,,,,,,,9.8,unmapped
+BLZE,2026-06-03,96.5,,,,,,,-1.0,unmapped
+BLZE,2026-07-23,27.3,,,,,,,3.3,unmapped
+BMA,2026-05-01,33.0,,,,,,,5.3,unmapped
+BMBL,2026-02-12,35.1,,,,,,,-2.8,unmapped
+BMBL,2026-03-26,28.2,,,,,,,10.7,unmapped
+BMBL,2026-09-17,100.3,,,,,,,1.5,unmapped
+BMNR,2025-11-20,20.5,XSW,Software,8.7,-11.8,ARKK,11.9,4.7,sector-driven
+BMNR,2026-06-26,32.2,XSW,Software,5.3,-1.2,XSW,5.3,1.4,sector-assisted
+BMNR,2026-08-18,24.8,XSW,Software,1.0,11.9,ARKK,5.1,-1.8,solo
+BNAI,2025-12-04,28.2,,,,,,,0.8,unmapped
+BNAI,2026-02-24,31.2,,,,,,,-4.7,unmapped
+BNAI,2026-06-01,22.7,,,,,,,-1.3,unmapped
+BNAI,2026-07-16,33.7,,,,,,,3.6,unmapped
+BNED,2025-11-17,22.7,,,,,,,2.0,unmapped
+BNED,2026-05-15,26.5,,,,,,,2.1,unmapped
+BNO,2026-02-06,33.4,,,,,,,-1.8,unmapped
+BNO,2026-04-17,26.9,,,,,,,4.1,unmapped
+BNO,2026-06-24,31.2,,,,,,,0.7,unmapped
+BNTX,2026-07-24,30.5,BBH,Biotech (VanEck),18.5,3.6,BBH,18.5,3.6,sector-driven
+BOIL,2025-12-24,33.2,,,,,,,0.3,unmapped
+BORR,2025-11-19,23.2,,,,,,,2.1,unmapped
+BORR,2026-01-09,31.9,,,,,,,-0.0,unmapped
+BOX,2026-09-24,32.4,XSW,Software,7.3,-0.4,XSW,7.3,-0.4,sector-assisted
+BRBR,2026-05-26,38.5,,,,,,,-2.1,unmapped
+BRBR,2026-10-01,22.4,,,,,,,0.7,unmapped
+BRCB,2026-02-19,28.7,,,,,,,-3.6,unmapped
+BRCB,2026-05-20,21.2,,,,,,,1.0,unmapped
+BRCB,2026-08-07,30.3,,,,,,,-0.4,unmapped
+BRCB,2026-09-24,34.2,,,,,,,-0.4,unmapped
+BRKR,2026-04-28,34.1,,,,,,,5.5,unmapped
+BROS,2026-05-13,34.4,,,,,,,-0.6,unmapped
+BRRR,2026-08-14,25.7,,,,,,,-2.0,unmapped
+BRUN,2026-03-25,35.6,,,,,,,7.9,unmapped
+BRZE,2025-11-17,25.8,XSW,Software,4.9,-9.8,XSW,4.9,2.0,sector-assisted
+BRZE,2026-03-24,33.5,XSW,Software,9.0,-1.3,XSW,9.0,8.9,sector-driven
+BRZE,2026-06-17,31.4,XSW,Software,9.3,1.7,XSW,9.3,0.6,sector-driven
+BRZE,2026-07-23,44.7,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+BRZE,2026-09-22,78.6,XSW,Software,3.0,-0.2,XSW,3.0,-0.6,sector-assisted
+BSOL,2026-06-10,23.4,,,,,,,4.4,unmapped
+BSOL,2026-07-28,32.8,,,,,,,3.4,unmapped
+BTC,2026-08-14,25.5,,,,,,,-2.0,unmapped
+BTDR,2025-12-15,49.8,,,,,,,1.7,unmapped
+BTDR,2026-03-06,32.0,,,,,,,-1.7,unmapped
+BTDR,2026-05-12,25.5,,,,,,,-1.7,unmapped
+BTDR,2026-08-10,45.7,,,,,,,-0.9,unmapped
+BTG,2026-07-10,30.6,GDX,Gold Miners,19.0,2.3,GDX,19.0,2.4,sector-driven
+BTQ,2026-02-05,37.0,,,,,,,-0.8,unmapped
+BTQ,2026-03-18,32.5,,,,,,,6.4,unmapped
+BTQ,2026-04-29,71.7,,,,,,,6.1,unmapped
+BTQ,2026-07-16,22.0,,,,,,,3.6,unmapped
+BTU,2026-07-29,31.2,XME,Metals & Mining,23.3,-8.7,XME,23.3,5.0,sector-driven
+BULL,2026-03-20,36.6,,,,,,,9.3,unmapped
+BULL,2026-06-09,32.7,,,,,,,2.3,unmapped
+BULL,2026-07-30,33.8,,,,,,,4.0,unmapped
+BULZ,2025-11-20,25.5,,,,,,,4.7,unmapped
+BULZ,2026-03-17,30.6,,,,,,,4.7,unmapped
+BULZ,2026-07-24,23.7,,,,,,,3.6,unmapped
+BURU,2025-12-31,31.9,,,,,,,1.5,unmapped
+BURU,2026-03-23,39.2,,,,,,,7.5,unmapped
+BURU,2026-08-13,59.4,,,,,,,-1.8,unmapped
+BVS,2026-06-04,35.4,XHE,Healthcare Equipment,9.4,2.0,XHE,9.4,-0.5,sector-driven
+BW,2025-12-11,32.2,,,,,,,1.2,unmapped
+BW,2026-02-20,74.1,,,,,,,-5.7,unmapped
+BW,2026-04-20,21.8,,,,,,,4.2,unmapped
+BWA,2026-01-13,37.3,,,,,,,-0.3,unmapped
+BWA,2026-04-28,30.4,,,,,,,5.5,unmapped
+BWET,2025-12-18,25.3,,,,,,,0.5,unmapped
+BWET,2026-06-24,47.9,,,,,,,0.7,unmapped
+BWIN,2026-02-10,20.6,KIE,Insurance,-4.3,-3.1,KIE,-4.3,-2.3,solo
+BWIN,2026-05-26,30.8,KIE,Insurance,4.7,-1.0,KIE,4.7,-2.1,sector-assisted
+BWLP,2026-03-13,33.3,,,,,,,3.9,unmapped
+BWMN,2026-07-13,56.7,,,,,,,3.2,unmapped
+BXC,2026-03-20,31.8,,,,,,,9.3,unmapped
+BXC,2026-07-08,43.8,,,,,,,3.3,unmapped
+BYND,2025-11-20,26.1,,,,,,,4.7,unmapped
+BYND,2026-03-20,66.8,,,,,,,9.3,unmapped
+BYRN,2026-05-13,29.0,,,,,,,-0.6,unmapped
+BYRN,2026-07-14,32.2,,,,,,,2.5,unmapped
+BYRN,2026-09-10,34.0,,,,,,,2.4,unmapped
+CABO,2025-11-19,28.9,,,,,,,2.1,unmapped
+CABO,2026-01-20,36.9,,,,,,,1.3,unmapped
+CACC,2026-04-02,21.2,,,,,,,9.9,unmapped
+CACI,2026-07-09,30.1,,,,,,,2.2,unmapped
+CADL,2025-11-12,31.5,XBI,Biotech,7.8,5.3,XBI,7.8,0.9,sector-assisted
+CADL,2026-03-20,45.3,XBI,Biotech,14.5,-3.6,XBI,14.5,9.3,sector-driven
+CADL,2026-07-23,25.3,XBI,Biotech,7.3,1.7,XBI,7.3,3.3,sector-assisted
+CAI,2026-07-10,33.8,,,,,,,2.4,unmapped
+CAI,2026-09-11,22.0,,,,,,,2.1,unmapped
+CAKE,2026-05-13,32.6,,,,,,,-0.6,unmapped
+CAKE,2026-07-13,35.7,,,,,,,3.2,unmapped
+CAL,2025-11-14,32.3,XRT,Retail,9.7,-4.8,XRT,9.7,1.3,sector-driven
+CAL,2026-03-12,33.0,XRT,Retail,3.4,-8.1,XRT,3.4,2.3,sector-assisted
+CAL,2026-05-13,33.5,XRT,Retail,10.0,-4.9,XRT,10.0,-0.6,sector-driven
+CALY,2025-12-23,30.8,,,,,,,0.2,unmapped
+CALY,2026-06-05,22.8,,,,,,,1.6,unmapped
+CAMT,2025-12-17,41.5,,,,,,,3.4,unmapped
+CAMT,2026-03-27,24.5,,,,,,,12.9,unmapped
+CAPR,2025-11-04,394.4,XBI,Biotech,12.8,4.2,XBI,12.8,1.3,sector-driven
+CAPR,2026-01-28,29.3,XBI,Biotech,1.4,2.1,XBI,1.4,-0.9,solo
+CAPR,2026-03-05,24.4,XBI,Biotech,4.1,-1.1,XBI,4.1,-3.5,sector-assisted
+CAPR,2026-07-29,42.5,XBI,Biotech,13.8,-6.5,XBI,13.8,5.0,sector-driven
+CAR,2026-02-25,33.0,,,,,,,-5.0,unmapped
+CARG,2026-06-03,33.0,,,,,,,-1.0,unmapped
+CARS,2026-03-13,30.2,,,,,,,3.9,unmapped
+CART,2026-09-25,30.7,XRT,Retail,6.3,-4.6,XRT,6.3,-1.5,sector-assisted
+CATX,2025-11-13,29.0,,,,,,,1.5,unmapped
+CATX,2026-01-12,96.7,,,,,,,-0.4,unmapped
+CAVA,2025-11-20,30.6,,,,,,,4.7,unmapped
+CAVA,2026-01-27,37.4,,,,,,,-0.3,unmapped
+CBIO,2026-02-03,20.4,XBI,Biotech,-1.0,6.2,XBI,-1.0,-0.6,solo
+CBIO,2026-03-18,87.9,XBI,Biotech,11.9,-3.6,XBI,11.9,6.4,sector-driven
+CBLL,2026-07-20,32.4,XHE,Healthcare Equipment,8.3,5.7,XHE,8.3,4.1,sector-driven
+CBRL,2025-12-16,41.3,,,,,,,2.3,unmapped
+CBRL,2026-05-12,49.6,,,,,,,-1.7,unmapped
+CBRL,2026-09-15,35.7,,,,,,,3.0,unmapped
+CC,2025-12-16,33.1,,,,,,,2.3,unmapped
+CC,2026-03-03,31.4,,,,,,,-4.2,unmapped
+CCC,2026-02-23,26.9,XSW,Software,5.7,-21.2,XSW,5.7,-3.7,sector-assisted
+CCC,2026-06-11,35.4,XSW,Software,8.3,7.0,XSW,8.3,1.8,sector-driven
+CCI,2026-09-28,30.4,XLRE,Real Estate,3.5,-6.3,XLRE,3.5,-0.0,sector-assisted
+CCJ,2025-12-17,37.2,URNM,Uranium,35.2,0.2,URNM,35.2,3.4,sector-driven
+CCL,2025-11-24,27.9,XLY,Consumer Discretionary,7.2,-5.3,XLY,7.2,3.2,sector-assisted
+CCOI,2025-11-12,31.6,,,,,,,0.9,unmapped
+CCOI,2026-03-20,35.1,,,,,,,9.3,unmapped
+CCS,2026-05-26,31.0,XHB,Homebuilders,11.9,-5.6,XHB,11.9,-2.1,sector-driven
+CCSI,2026-01-15,30.6,XSW,Software,-17.3,-2.9,XSW,-17.3,-1.5,solo
+CCSI,2026-04-10,42.3,XSW,Software,19.8,-9.4,XSW,19.8,8.6,sector-driven
+CDE,2025-11-20,31.7,GDX,Gold Miners,20.5,-1.1,SIL,31.4,4.7,sector-driven
+CDE,2025-12-29,39.9,GDX,Gold Miners,30.6,3.9,SIL,35.8,1.1,sector-driven
+CDE,2026-07-17,31.1,GDX,Gold Miners,26.1,-15.5,GDXJ,28.1,4.5,sector-driven
+CDLR,2025-12-30,31.1,,,,,,,1.0,unmapped
+CDLR,2026-10-05,25.6,,,,,,,-2.9,unmapped
+CDNA,2025-11-17,24.8,XBI,Biotech,6.3,4.3,XBI,6.3,2.0,sector-assisted
+CDNA,2026-03-20,24.1,XBI,Biotech,14.5,-3.6,XBI,14.5,9.3,sector-driven
+CDNA,2026-06-02,32.5,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+CDNA,2026-09-01,32.7,XBI,Biotech,-3.5,7.6,XBI,-3.5,0.4,solo
+CDNL,2026-01-28,27.6,,,,,,,-0.9,unmapped
+CDNL,2026-03-19,55.6,,,,,,,8.0,unmapped
+CDNL,2026-05-15,37.0,,,,,,,2.1,unmapped
+CDNS,2026-04-10,36.5,SMH,Semiconductors,29.7,12.6,SMH,29.7,8.6,sector-driven
+CDNS,2026-09-15,22.0,SMH,Semiconductors,8.5,-8.7,SMH,8.5,3.0,sector-driven
+CDW,2026-05-08,28.6,XLK,Tech (broad),4.9,23.1,XLK,4.9,0.2,sector-assisted
+CDZI,2025-12-17,31.1,,,,,,,3.4,unmapped
+CDZI,2026-07-28,34.4,,,,,,,3.4,unmapped
+CE,2026-01-13,32.0,,,,,,,-0.3,unmapped
+CE,2026-03-06,29.3,,,,,,,-1.7,unmapped
+CEG,2026-02-04,32.6,XLU,Utilities,9.1,0.4,XLU,9.1,-0.7,sector-driven
+CELC,2026-06-05,31.1,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+CELH,2025-12-17,33.2,,,,,,,3.4,unmapped
+CELH,2026-08-06,33.0,,,,,,,0.6,unmapped
+CENX,2025-11-20,38.3,XME,Metals & Mining,20.4,-11.5,XME,20.4,4.7,sector-driven
+CENX,2026-03-19,25.4,XME,Metals & Mining,11.9,-10.3,XME,11.9,8.0,sector-driven
+CERT,2026-05-18,32.7,,,,,,,1.6,unmapped
+CERT,2026-06-22,28.3,,,,,,,0.5,unmapped
+CERT,2026-09-11,20.9,,,,,,,2.1,unmapped
+CEVA,2026-03-23,30.9,XSD,Semiconductors (equal-wt),30.8,-6.7,XSD,30.8,7.5,sector-driven
+CEVA,2026-08-28,27.9,XSD,Semiconductors (equal-wt),9.6,-1.2,XSD,9.6,-0.2,sector-driven
+CF,2026-02-13,29.2,MOO,Agribusiness,-2.1,9.8,MOO,-2.1,-1.9,solo
+CGAU,2025-12-29,39.6,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+CGAU,2026-07-13,34.4,GDX,Gold Miners,23.3,-5.6,GDXJ,24.5,3.2,sector-driven
+CGEM,2025-11-06,44.1,XBI,Biotech,13.0,2.6,XBI,13.0,2.3,sector-driven
+CGEM,2026-01-05,32.2,XBI,Biotech,6.2,-2.2,XBI,6.2,0.3,sector-assisted
+CGEM,2026-02-05,32.8,XBI,Biotech,2.7,-4.5,XBI,2.7,-0.8,solo
+CGEM,2026-06-05,34.4,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+CGEM,2026-07-23,23.7,XBI,Biotech,7.3,1.7,XBI,7.3,3.3,sector-assisted
+CGNT,2026-02-23,28.5,,,,,,,-3.7,unmapped
+CGNT,2026-03-27,21.8,,,,,,,12.9,unmapped
+CGNX,2026-01-20,45.7,BOTZ,Robotics & AI,3.2,5.6,BOTZ,3.2,1.3,sector-assisted
+CGON,2025-12-11,29.1,XBI,Biotech,1.1,7.8,XBI,1.1,1.2,solo
+CGON,2026-06-02,27.7,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+CHA,2026-05-14,21.1,,,,,,,-0.9,unmapped
+CHEF,2026-04-01,32.5,,,,,,,9.7,unmapped
+CHPT,2026-03-24,34.2,,,,,,,8.9,unmapped
+CHPT,2026-05-19,25.4,,,,,,,1.0,unmapped
+CHPT,2026-08-06,54.4,,,,,,,0.6,unmapped
+CHRD,2026-02-24,30.6,XOP,Oil & Gas E&P,21.3,11.1,XOP,21.3,-4.7,sector-driven
+CHRN,2025-12-01,123.7,,,,,,,1.3,unmapped
+CHRN,2026-01-29,20.9,,,,,,,-1.2,unmapped
+CHRN,2026-04-07,45.9,,,,,,,9.8,unmapped
+CHRN,2026-06-12,25.3,,,,,,,1.6,unmapped
+CHTR,2026-01-16,24.9,XLC,Comm Services,-0.7,-0.2,XLC,-0.7,-1.3,solo
+CHYM,2025-11-06,33.3,,,,,,,2.3,unmapped
+CHYM,2026-03-24,28.5,,,,,,,8.9,unmapped
+CHYM,2026-06-10,27.3,,,,,,,4.4,unmapped
+CHYM,2026-07-27,49.6,,,,,,,3.3,unmapped
+CIB,2025-12-24,30.1,,,,,,,0.3,unmapped
+CIEN,2025-11-20,30.5,XLK,Tech (broad),6.3,-5.9,XLK,6.3,4.7,sector-assisted
+CIEN,2026-01-21,37.3,XLK,Tech (broad),-2.5,-0.4,XLK,-2.5,-0.1,solo
+CIEN,2026-03-30,29.8,XLK,Tech (broad),23.9,-8.5,XLK,23.9,12.7,sector-driven
+CIEN,2026-07-29,22.3,XLK,Tech (broad),9.8,-12.6,XLK,9.8,5.0,sector-driven
+CIEN,2026-09-09,32.1,XLK,Tech (broad),7.3,1.0,XLK,7.3,2.2,sector-assisted
+CIFR,2025-12-17,30.6,XSW,Software,-3.7,4.3,XSW,-3.7,3.4,solo
+CIFR,2026-03-19,32.3,XSW,Software,2.8,-0.7,XSW,2.8,8.0,solo
+CIFR,2026-05-18,37.1,XSW,Software,4.6,2.4,XSW,4.6,1.6,sector-assisted
+CLBT,2026-06-17,23.8,,,,,,,0.6,unmapped
+CLDX,2025-11-07,30.1,XBI,Biotech,13.6,3.8,XBI,13.6,1.9,sector-driven
+CLDX,2026-02-05,30.3,XBI,Biotech,2.7,-4.5,XBI,2.7,-0.8,solo
+CLDX,2026-06-05,39.5,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+CLF,2026-03-27,30.8,SLX,Steel,15.3,-12.8,SLX,15.3,12.9,sector-driven
+CLF,2026-05-15,32.2,SLX,Steel,4.9,4.3,SLX,4.9,2.1,sector-assisted
+CLF,2026-06-29,27.7,SLX,Steel,5.3,-10.5,SLX,5.3,-0.0,sector-assisted
+CLFD,2026-04-09,38.9,,,,,,,7.6,unmapped
+CLMT,2026-01-15,39.2,XOP,Oil & Gas E&P,13.8,5.1,XOP,13.8,-1.5,sector-driven
+CLMT,2026-06-18,33.1,XOP,Oil & Gas E&P,11.5,-12.3,XOP,11.5,-0.6,sector-driven
+CLMT,2026-08-05,31.8,XOP,Oil & Gas E&P,17.0,2.0,XOP,17.0,-0.6,sector-driven
+CLPT,2026-03-20,23.6,XHE,Healthcare Equipment,8.3,-10.3,XHE,8.3,9.3,sector-driven
+CLPT,2026-05-19,50.5,XHE,Healthcare Equipment,1.1,-3.6,XHE,1.1,1.0,solo
+CLS,2026-03-12,32.6,,,,,,,2.3,unmapped
+CLS,2026-09-02,34.3,,,,,,,0.1,unmapped
+CLSK,2025-11-20,23.0,XSW,Software,8.7,-11.8,XSW,8.7,4.7,sector-driven
+CLSK,2025-12-30,20.8,XSW,Software,-9.8,2.4,XSW,-9.8,1.0,solo
+CLSK,2026-03-26,37.2,XSW,Software,5.4,-6.6,XSW,5.4,10.7,sector-assisted
+CLSK,2026-05-15,30.7,XSW,Software,7.0,2.0,XSW,7.0,2.1,sector-assisted
+CLW,2026-05-15,31.2,,,,,,,2.1,unmapped
+CLW,2026-06-30,37.8,,,,,,,-2.3,unmapped
+CLYM,2025-11-13,60.4,XBI,Biotech,10.1,3.7,XBI,10.1,1.5,sector-driven
+CLYM,2026-01-14,33.1,XBI,Biotech,-2.9,3.6,XBI,-2.9,-1.3,solo
+CLYM,2026-03-20,46.8,XBI,Biotech,14.5,-3.6,XBI,14.5,9.3,sector-driven
+CLYM,2026-07-20,42.7,XBI,Biotech,5.7,7.4,XBI,5.7,4.1,sector-assisted
+CMBT,2025-12-29,30.8,,,,,,,1.1,unmapped
+CMBT,2026-04-22,33.1,,,,,,,4.2,unmapped
+CMCL,2025-12-15,36.6,GDXJ,Junior Gold Miners,15.2,16.0,GDXJ,15.2,1.7,sector-driven
+CMCL,2026-07-13,31.2,GDXJ,Junior Gold Miners,24.5,-5.6,GDXJ,24.5,3.2,sector-driven
+CMCO,2026-07-01,42.5,,,,,,,-0.5,unmapped
+CMP,2025-12-10,31.6,XME,Metals & Mining,16.9,6.6,XME,16.9,1.2,sector-driven
+CMP,2026-05-04,30.9,XME,Metals & Mining,13.6,6.1,XME,13.6,5.8,sector-driven
+CMPS,2025-11-13,27.4,,,,,,,1.5,unmapped
+CMPS,2026-03-20,74.9,,,,,,,9.3,unmapped
+CMPS,2026-07-28,37.1,,,,,,,3.4,unmapped
+CMRC,2026-04-09,33.3,,,,,,,7.6,unmapped
+CMRC,2026-08-12,42.6,,,,,,,-1.9,unmapped
+CNC,2026-03-27,35.9,XLV,Healthcare,0.1,-10.3,XLV,0.1,12.9,solo
+CNH,2026-08-07,32.0,MOO,Agribusiness,8.3,0.2,MOO,8.3,-0.4,sector-driven
+CNK,2026-05-15,23.9,,,,,,,2.1,unmapped
+CNK,2026-07-10,28.2,,,,,,,2.4,unmapped
+CNMD,2026-06-16,30.2,XHE,Healthcare Equipment,9.1,3.9,XHE,9.1,0.3,sector-driven
+CNR,2026-02-27,38.0,XME,Metals & Mining,-11.2,-5.9,XME,-11.2,-7.4,solo
+CNXC,2026-08-17,25.2,,,,,,,-2.0,unmapped
+CNXC,2026-09-28,25.8,,,,,,,-0.0,unmapped
+COCO,2026-03-31,39.7,,,,,,,9.5,unmapped
+CODI,2025-12-26,40.5,,,,,,,0.8,unmapped
+CODI,2026-03-06,50.9,,,,,,,-1.7,unmapped
+COHR,2025-11-21,36.9,XLK,Tech (broad),6.5,-7.0,XLK,6.5,4.3,sector-assisted
+COHR,2026-01-08,31.5,XLK,Tech (broad),-2.2,-2.4,XLK,-2.2,0.2,solo
+COHR,2026-03-20,37.0,XLK,Tech (broad),14.4,-4.0,XLK,14.4,9.3,sector-driven
+COHR,2026-07-20,23.1,XLK,Tech (broad),8.3,-8.1,XLK,8.3,4.1,sector-driven
+COHU,2026-03-12,35.9,,,,,,,2.3,unmapped
+COHU,2026-05-18,41.2,,,,,,,1.6,unmapped
+COHU,2026-07-29,29.8,,,,,,,5.0,unmapped
+COHU,2026-08-28,37.6,,,,,,,-0.2,unmapped
+COIN,2026-02-05,35.0,XLF,Financials,-5.2,-4.2,ARKK,9.2,-0.8,solo
+COIN,2026-03-27,22.1,XLF,Financials,8.4,-6.6,ARKK,18.4,12.9,sector-driven
+COIN,2026-07-31,22.1,XLF,Financials,2.0,2.4,ARKK,18.7,3.0,solo
+COKE,2026-01-26,30.9,,,,,,,-0.8,unmapped
+COLD,2026-04-29,31.8,,,,,,,6.1,unmapped
+COMP,2026-05-04,22.2,,,,,,,5.8,unmapped
+COMP,2026-06-03,65.8,,,,,,,-1.0,unmapped
+CORT,2026-03-12,29.4,XPH,Pharma,4.3,-6.6,XPH,4.3,2.3,sector-assisted
+CORT,2026-07-13,33.0,XPH,Pharma,4.9,11.9,XPH,4.9,3.2,sector-assisted
+CORZ,2025-12-17,39.2,XSW,Software,-3.7,4.3,XSW,-3.7,3.4,solo
+CORZ,2026-03-26,32.2,XSW,Software,5.4,-6.6,XSW,5.4,10.7,sector-assisted
+CPRI,2025-11-04,32.2,,,,,,,1.3,unmapped
+CPRI,2026-10-05,38.4,,,,,,,-2.9,unmapped
+CPS,2026-01-15,37.2,,,,,,,-1.5,unmapped
+CRAI,2026-06-30,33.5,,,,,,,-2.3,unmapped
+CRBP,2026-02-10,31.7,,,,,,,-2.3,unmapped
+CRCL,2025-11-20,28.7,XSW,Software,8.7,-11.8,ARKK,11.9,4.7,sector-driven
+CRCL,2026-01-30,50.4,XSW,Software,-9.0,-10.7,ARKK,-0.9,-0.8,solo
+CRCL,2026-04-09,33.1,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+CRCL,2026-07-23,34.5,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+CRCT,2026-07-08,41.8,,,,,,,3.3,unmapped
+CRDO,2026-03-16,36.5,XSD,Semiconductors (equal-wt),16.7,-8.0,XSD,16.7,4.1,sector-driven
+CRDO,2026-05-15,50.7,XSD,Semiconductors (equal-wt),15.0,32.6,XSD,15.0,2.1,sector-driven
+CRDO,2026-07-17,28.2,XSD,Semiconductors (equal-wt),8.8,-15.7,XSD,8.8,4.5,sector-driven
+CRDO,2026-09-03,33.2,XSD,Semiconductors (equal-wt),16.1,-8.1,XSD,16.1,-0.2,sector-driven
+CRGY,2026-01-07,23.9,XOP,Oil & Gas E&P,14.4,-7.1,XOP,14.4,-1.7,sector-driven
+CRGY,2026-07-27,32.2,XOP,Oil & Gas E&P,10.2,9.4,XOP,10.2,3.3,sector-driven
+CRI,2026-01-28,27.4,,,,,,,-0.9,unmapped
+CRL,2026-06-02,31.1,BBH,Biotech (VanEck),12.5,-2.1,IBB,15.8,-1.6,sector-driven
+CRL,2026-07-24,30.3,BBH,Biotech (VanEck),18.5,3.6,BBH,18.5,3.6,sector-driven
+CRL,2026-10-01,31.1,BBH,Biotech (VanEck),7.6,-1.7,XLV,10.7,0.7,sector-assisted
+CRM,2026-07-23,30.9,XLK,Tech (broad),2.6,-2.5,XSW,20.2,3.3,solo
+CRMD,2025-11-25,29.7,XPH,Pharma,6.4,11.0,XPH,6.4,2.6,sector-assisted
+CRML,2025-12-08,41.0,,,,,,,1.2,unmapped
+CRML,2026-03-19,49.3,,,,,,,8.0,unmapped
+CRML,2026-07-28,43.1,,,,,,,3.4,unmapped
+CRNC,2025-11-05,33.0,XSW,Software,-1.3,-3.6,XSW,-1.3,1.0,solo
+CRNC,2026-03-20,31.6,XSW,Software,5.7,-1.4,XSW,5.7,9.3,sector-assisted
+CROX,2026-03-13,28.6,,,,,,,3.9,unmapped
+CROX,2026-05-13,29.9,,,,,,,-0.6,unmapped
+CRS,2026-02-02,28.8,XAR,Aerospace & Defense (SPDR),5.2,7.9,ITA,6.0,-2.2,sector-assisted
+CRS,2026-05-14,30.7,XAR,Aerospace & Defense (SPDR),3.2,-0.5,ITA,4.2,-0.9,sector-assisted
+CRSP,2026-02-05,23.1,XBI,Biotech,2.7,-4.5,ARKK,9.2,-0.8,solo
+CRSR,2026-02-03,24.2,,,,,,,-0.6,unmapped
+CRSR,2026-04-10,38.5,,,,,,,8.6,unmapped
+CRSR,2026-05-15,26.8,,,,,,,2.1,unmapped
+CRSR,2026-07-13,44.8,,,,,,,3.2,unmapped
+CRVS,2025-12-18,180.2,XBI,Biotech,4.8,4.8,XBI,4.8,0.5,sector-assisted
+CRVS,2026-03-24,35.7,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+CRVS,2026-06-03,31.3,XBI,Biotech,23.7,-3.0,XBI,23.7,-1.0,sector-driven
+CRWD,2026-04-10,39.2,XLK,Tech (broad),23.1,3.6,XLK,23.1,8.6,sector-driven
+CRWD,2026-08-24,31.1,XLK,Tech (broad),9.1,3.3,HACK,11.3,1.5,sector-driven
+CRWV,2025-12-16,36.7,ARKK,Innovation,2.2,6.2,ARKK,2.2,2.3,solo
+CRWV,2026-03-13,36.0,ARKK,Innovation,2.4,2.6,ARKK,2.4,3.9,solo
+CRWV,2026-07-15,39.7,ARKK,Innovation,2.2,-0.0,ARKK,2.2,2.3,solo
+CSCO,2026-04-16,36.7,XLK,Tech (broad),18.1,10.4,XLK,18.1,6.7,sector-driven
+CSGP,2026-09-28,24.7,XLRE,Real Estate,3.5,-6.3,XLRE,3.5,-0.0,sector-assisted
+CSIQ,2026-04-06,24.0,TAN,Solar,7.8,1.7,TAN,7.8,9.0,sector-assisted
+CSTL,2026-07-13,40.8,,,,,,,3.2,unmapped
+CSTM,2026-03-20,35.3,,,,,,,9.3,unmapped
+CSW,2025-11-17,29.0,,,,,,,2.0,unmapped
+CTEV,2026-03-19,34.2,,,,,,,8.0,unmapped
+CTEV,2026-05-15,120.7,,,,,,,2.1,unmapped
+CTEV,2026-07-16,37.3,,,,,,,3.6,unmapped
+CTGO,2025-11-20,35.7,XME,Metals & Mining,20.4,-11.5,GDXJ,26.7,4.7,sector-driven
+CTGO,2026-03-18,22.9,XME,Metals & Mining,7.5,-7.9,GDXJ,11.2,6.4,sector-assisted
+CTGO,2026-07-20,29.3,XME,Metals & Mining,20.8,-16.4,GDXJ,31.3,4.1,sector-driven
+CTMX,2025-12-18,38.4,XBI,Biotech,4.8,4.8,XBI,4.8,0.5,sector-assisted
+CTMX,2026-06-08,30.3,XBI,Biotech,27.0,-4.7,XBI,27.0,1.1,sector-driven
+CTNM,2026-01-05,52.1,XPH,Pharma,3.7,1.6,XPH,3.7,0.3,sector-assisted
+CTNM,2026-06-02,23.1,XPH,Pharma,17.4,-5.8,XPH,17.4,-1.6,sector-driven
+CTOS,2026-03-23,32.6,,,,,,,7.5,unmapped
+CTRI,2025-11-13,26.9,,,,,,,1.5,unmapped
+CTRI,2026-04-02,31.6,,,,,,,9.9,unmapped
+CTRN,2026-05-15,33.5,XRT,Retail,10.6,-9.1,XRT,10.6,2.1,sector-driven
+CTSH,2026-06-30,44.5,XLK,Tech (broad),-12.6,-2.6,XSW,6.3,-2.3,solo
+CUE,2025-12-19,40.1,,,,,,,0.7,unmapped
+CUE,2026-03-12,65.0,,,,,,,2.3,unmapped
+CUE,2026-05-19,31.7,,,,,,,1.0,unmapped
+CUE,2026-08-18,33.0,,,,,,,-1.8,unmapped
+CVCO,2026-05-15,30.0,XHB,Homebuilders,12.6,-10.3,XHB,12.6,2.1,sector-driven
+CVI,2026-02-17,32.4,XOP,Oil & Gas E&P,17.2,11.8,XOP,17.2,-1.8,sector-driven
+CVI,2026-06-23,28.2,XOP,Oil & Gas E&P,14.0,-9.5,XOP,14.0,1.9,sector-driven
+CVI,2026-08-05,37.6,XOP,Oil & Gas E&P,17.0,2.0,XOP,17.0,-0.6,sector-driven
+CVLG,2026-03-27,31.5,,,,,,,12.9,unmapped
+CVLT,2026-03-30,30.3,XSW,Software,8.8,-8.9,XSW,8.8,12.7,sector-driven
+CVNA,2025-11-06,37.8,XLY,Consumer Discretionary,1.7,0.1,XRT,9.5,2.3,solo
+CVNA,2026-03-19,31.7,XLY,Consumer Discretionary,10.0,-5.7,XLY,10.0,8.0,sector-driven
+CVS,2026-04-15,30.8,XLV,Healthcare,-0.7,-0.9,XLV,-0.7,6.1,solo
+CWH,2025-12-17,35.3,XRT,Retail,3.9,11.0,XRT,3.9,3.4,sector-assisted
+CXM,2026-07-23,30.9,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+CXM,2026-09-25,32.0,XSW,Software,10.1,-7.0,XSW,10.1,-1.5,sector-driven
+CXT,2026-06-01,40.5,,,,,,,-1.3,unmapped
+CXW,2026-05-12,34.9,,,,,,,-1.7,unmapped
+CYD,2025-12-26,32.5,,,,,,,0.8,unmapped
+CYD,2026-04-23,32.9,,,,,,,4.9,unmapped
+CYH,2026-06-03,39.3,,,,,,,-1.0,unmapped
+CYRX,2026-03-20,31.7,,,,,,,9.3,unmapped
+CYTK,2026-04-29,28.9,XBI,Biotech,5.5,0.9,XBI,5.5,6.1,sector-assisted
+CYTK,2026-06-10,26.5,XBI,Biotech,23.6,-4.5,XBI,23.6,4.4,sector-driven
+CZR,2026-02-05,30.0,,,,,,,-0.8,unmapped
+DAN,2025-12-23,32.0,,,,,,,0.2,unmapped
+DAR,2026-01-07,28.3,MOO,Agribusiness,11.5,3.4,MOO,11.5,-1.7,sector-driven
+DASH,2026-07-23,31.0,XLY,Consumer Discretionary,7.3,-5.5,XLY,7.3,3.3,sector-assisted
+DAVE,2026-02-04,33.8,,,,,,,-0.7,unmapped
+DAVE,2026-03-25,51.6,,,,,,,7.9,unmapped
+DAVE,2026-05-15,30.9,,,,,,,2.1,unmapped
+DBI,2025-11-04,30.3,,,,,,,1.3,unmapped
+DBI,2026-03-16,32.5,,,,,,,4.1,unmapped
+DBI,2026-05-07,20.9,,,,,,,0.8,unmapped
+DBO,2026-02-06,32.5,,,,,,,-1.8,unmapped
+DBO,2026-06-24,32.1,,,,,,,0.7,unmapped
+DBVT,2025-11-11,49.9,,,,,,,0.7,unmapped
+DBVT,2026-01-08,25.1,,,,,,,0.2,unmapped
+DBX,2026-04-10,31.0,XSW,Software,19.8,-9.4,XSW,19.8,8.6,sector-driven
+DC,2025-11-04,39.0,XME,Metals & Mining,10.7,-9.0,GDXJ,22.6,1.3,sector-driven
+DC,2026-03-20,35.2,XME,Metals & Mining,17.3,-13.4,GDXJ,25.6,9.3,sector-driven
+DC,2026-07-10,33.3,XME,Metals & Mining,11.6,-7.7,GDXJ,19.0,2.4,sector-driven
+DCH,2025-12-23,29.4,,,,,,,0.2,unmapped
+DCH,2026-07-14,33.3,,,,,,,2.5,unmapped
+DCTH,2026-07-17,30.6,XHE,Healthcare Equipment,8.8,9.3,XHE,8.8,4.5,sector-driven
+DDOG,2026-04-09,73.2,XLK,Tech (broad),19.5,1.3,XLK,19.5,7.6,sector-driven
+DDOG,2026-09-02,32.1,XLK,Tech (broad),7.9,-1.2,XLK,7.9,0.1,sector-assisted
+DEC,2026-02-25,33.1,XOP,Oil & Gas E&P,23.2,9.8,XOP,23.2,-5.0,sector-driven
+DEI,2026-04-09,28.8,,,,,,,7.6,unmapped
+DELL,2026-01-30,34.2,XLK,Tech (broad),-3.0,-0.1,XLK,-3.0,-0.8,solo
+DELL,2026-03-30,25.1,XLK,Tech (broad),23.9,-8.5,XLK,23.9,12.7,sector-driven
+DELL,2026-07-29,25.5,XLK,Tech (broad),9.8,-12.6,XLK,9.8,5.0,sector-driven
+DELL,2026-09-01,26.6,XLK,Tech (broad),6.7,-1.7,XLK,6.7,0.4,sector-assisted
+DFDV,2025-12-12,40.3,,,,,,,2.1,unmapped
+DFDV,2026-02-05,21.2,,,,,,,-0.8,unmapped
+DFDV,2026-03-27,21.3,,,,,,,12.9,unmapped
+DFDV,2026-07-23,31.4,,,,,,,3.3,unmapped
+DFIN,2026-02-12,29.0,,,,,,,-2.8,unmapped
+DFIN,2026-10-02,43.7,,,,,,,-1.8,unmapped
+DFNS,2026-06-30,134.9,,,,,,,-2.3,unmapped
+DFTX,2025-12-26,33.8,XPH,Pharma,-1.1,5.0,XPH,-1.1,0.8,solo
+DFTX,2026-03-23,31.7,XPH,Pharma,9.8,-7.7,XPH,9.8,7.5,sector-driven
+DFTX,2026-05-21,61.9,XPH,Pharma,7.4,1.2,XPH,7.4,0.5,sector-assisted
+DG,2025-11-06,38.0,XLP,Consumer Staples,3.9,-3.2,XRT,9.5,2.3,sector-assisted
+DGII,2025-11-10,30.2,,,,,,,0.2,unmapped
+DGII,2026-07-15,33.2,,,,,,,2.3,unmapped
+DGP,2025-12-29,48.0,,,,,,,1.1,unmapped
+DGP,2026-07-23,31.6,,,,,,,3.3,unmapped
+DGXX,2025-12-17,35.2,,,,,,,3.4,unmapped
+DGXX,2026-02-05,26.5,,,,,,,-0.8,unmapped
+DGXX,2026-03-20,58.4,,,,,,,9.3,unmapped
+DHC,2026-04-22,31.4,,,,,,,4.2,unmapped
+DHT,2026-01-22,30.2,,,,,,,0.1,unmapped
+DIN,2025-11-06,37.0,,,,,,,2.3,unmapped
+DINO,2026-04-09,24.9,XOP,Oil & Gas E&P,-1.0,2.3,XOP,-1.0,7.6,solo
+DINO,2026-06-16,30.4,XOP,Oil & Gas E&P,6.4,-10.9,XOP,6.4,0.3,sector-assisted
+DINO,2026-08-07,29.5,XOP,Oil & Gas E&P,14.7,5.0,XOP,14.7,-0.4,sector-driven
+DIOD,2026-01-13,43.8,XSD,Semiconductors (equal-wt),5.4,6.7,XSD,5.4,-0.3,sector-assisted
+DIOD,2026-03-12,34.7,XSD,Semiconductors (equal-wt),14.0,-11.7,XSD,14.0,2.3,sector-driven
+DJCO,2025-11-17,35.8,XSW,Software,4.9,-9.8,XSW,4.9,2.0,sector-assisted
+DJCO,2025-12-31,20.3,XSW,Software,-10.7,0.8,XSW,-10.7,1.5,solo
+DJT,2025-11-19,44.4,,,,,,,2.1,unmapped
+DJT,2026-06-25,21.2,,,,,,,0.6,unmapped
+DK,2026-01-20,29.7,XOP,Oil & Gas E&P,14.3,4.6,XOP,14.3,1.3,sector-driven
+DK,2026-04-17,20.4,XOP,Oil & Gas E&P,9.1,-8.5,XOP,9.1,4.1,sector-driven
+DK,2026-06-15,33.3,XOP,Oil & Gas E&P,4.6,-9.1,XOP,4.6,0.3,sector-assisted
+DLB,2026-07-23,30.6,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+DLO,2026-06-03,30.5,,,,,,,-1.0,unmapped
+DLTR,2025-11-19,27.0,XLP,Consumer Staples,3.6,-4.2,XRT,11.5,2.1,sector-assisted
+DLTR,2026-05-12,23.9,XLP,Consumer Staples,1.3,3.7,XRT,5.3,-1.7,solo
+DMRA,2025-11-04,271.5,XBI,Biotech,12.8,4.2,XBI,12.8,1.3,sector-driven
+DMRA,2026-01-02,25.4,XBI,Biotech,4.8,0.1,XBI,4.8,1.8,sector-assisted
+DMRA,2026-02-05,27.8,XBI,Biotech,2.7,-4.5,XBI,2.7,-0.8,solo
+DMRA,2026-03-19,38.5,XBI,Biotech,13.4,-3.5,XBI,13.4,8.0,sector-driven
+DMRA,2026-06-03,34.3,XBI,Biotech,23.7,-3.0,XBI,23.7,-1.0,sector-driven
+DNA,2026-03-26,22.8,,,,,,,10.7,unmapped
+DNA,2026-08-24,38.2,,,,,,,1.5,unmapped
+DNLI,2025-11-04,27.3,XBI,Biotech,12.8,4.2,XBI,12.8,1.3,sector-driven
+DNLI,2025-12-30,31.6,XBI,Biotech,4.2,1.9,XBI,4.2,1.0,sector-assisted
+DNLI,2026-05-22,32.9,XBI,Biotech,11.8,-1.2,XBI,11.8,-1.4,sector-driven
+DNN,2025-12-15,37.4,,,,,,,1.7,unmapped
+DNN,2026-07-28,35.3,,,,,,,3.4,unmapped
+DNTH,2025-12-30,30.3,XBI,Biotech,4.2,1.9,XBI,4.2,1.0,sector-assisted
+DNTH,2026-02-12,64.0,XBI,Biotech,-1.1,-2.9,XBI,-1.1,-2.8,solo
+DNTH,2026-06-10,27.7,XBI,Biotech,23.6,-4.5,XBI,23.6,4.4,sector-driven
+DNUT,2026-02-17,22.9,,,,,,,-1.8,unmapped
+DNUT,2026-05-14,32.6,,,,,,,-0.9,unmapped
+DOCN,2026-01-20,37.6,,,,,,,1.3,unmapped
+DOCN,2026-02-24,35.4,,,,,,,-4.7,unmapped
+DOCN,2026-04-14,112.0,,,,,,,6.3,unmapped
+DOCN,2026-08-24,30.9,,,,,,,1.5,unmapped
+DOCS,2026-07-22,25.7,,,,,,,2.9,unmapped
+DOCU,2026-06-30,31.0,XSW,Software,6.3,-8.4,XSW,6.3,-2.3,sector-assisted
+DOW,2026-01-07,23.4,XLB,Materials,8.3,8.1,XLB,8.3,-1.7,sector-driven
+DOW,2026-02-25,32.0,XLB,Materials,-6.6,6.2,XLB,-6.6,-5.0,solo
+DPRO,2025-12-10,30.0,,,,,,,1.2,unmapped
+DPRO,2026-03-25,24.4,,,,,,,7.9,unmapped
+DPRO,2026-04-29,53.6,,,,,,,6.1,unmapped
+DPRO,2026-08-05,30.5,,,,,,,-0.6,unmapped
+DRD,2026-07-23,44.3,GDXJ,Junior Gold Miners,32.3,1.6,GDXJ,32.3,3.3,sector-driven
+DRS,2025-12-17,30.8,XAR,Aerospace & Defense (SPDR),28.0,2.4,XAR,28.0,3.4,sector-driven
+DRTS,2025-11-13,30.6,,,,,,,1.5,unmapped
+DRTS,2026-04-13,35.3,,,,,,,7.8,unmapped
+DRTS,2026-06-08,37.7,,,,,,,1.1,unmapped
+DRTS,2026-07-29,33.8,,,,,,,5.0,unmapped
+DRUG,2025-11-03,36.7,,,,,,,-0.3,unmapped
+DRUG,2026-03-30,30.0,,,,,,,12.7,unmapped
+DRUG,2026-06-15,28.3,,,,,,,0.3,unmapped
+DSGN,2026-03-23,30.7,XBI,Biotech,12.1,-4.2,XBI,12.1,7.5,sector-driven
+DSGN,2026-05-29,35.9,XBI,Biotech,15.9,4.1,XBI,15.9,-1.8,sector-driven
+DSGN,2026-07-22,35.3,XBI,Biotech,11.5,3.5,XBI,11.5,2.9,sector-driven
+DSGR,2026-03-10,31.0,,,,,,,0.1,unmapped
+DSP,2025-11-19,26.3,,,,,,,2.1,unmapped
+DSP,2026-02-12,27.9,,,,,,,-2.8,unmapped
+DSP,2026-09-17,28.2,,,,,,,1.5,unmapped
+DUOT,2025-12-17,23.5,,,,,,,3.4,unmapped
+DUOT,2026-03-27,26.5,,,,,,,12.9,unmapped
+DUOT,2026-05-13,45.3,,,,,,,-0.6,unmapped
+DUOT,2026-07-21,37.0,,,,,,,2.6,unmapped
+DVA,2026-01-07,34.4,XLV,Healthcare,-3.1,6.0,XLV,-3.1,-1.7,solo
+DVA,2026-04-08,30.6,XLV,Healthcare,-2.9,-1.9,XLV,-2.9,8.6,solo
+DXC,2026-06-30,33.0,XSW,Software,6.3,-8.4,XSW,6.3,-2.3,sector-assisted
+DXC,2026-09-21,30.9,XSW,Software,-0.3,-0.1,XSW,-0.3,-0.9,solo
+DXCM,2026-05-11,31.8,XLV,Healthcare,8.1,-3.4,XLV,8.1,-0.3,sector-driven
+DXPE,2025-11-24,33.5,,,,,,,3.2,unmapped
+DXPE,2026-01-05,31.5,,,,,,,0.3,unmapped
+DXPE,2026-07-29,28.8,,,,,,,5.0,unmapped
+DXYZ,2025-11-11,32.4,,,,,,,0.7,unmapped
+DXYZ,2026-04-06,37.2,,,,,,,9.0,unmapped
+DXYZ,2026-07-20,38.4,,,,,,,4.1,unmapped
+DYN,2026-02-17,22.1,XBI,Biotech,-0.4,0.4,XBI,-0.4,-1.8,solo
+DYN,2026-06-05,39.8,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+EAF,2025-11-04,35.3,,,,,,,1.3,unmapped
+EAF,2026-03-10,30.7,,,,,,,0.1,unmapped
+EAF,2026-06-29,32.6,,,,,,,-0.0,unmapped
+EAF,2026-08-21,37.0,,,,,,,1.3,unmapped
+EAT,2026-06-04,29.1,,,,,,,-0.5,unmapped
+EAT,2026-07-23,26.0,,,,,,,3.3,unmapped
+EBS,2025-11-20,36.8,XBI,Biotech,8.5,5.9,XBI,8.5,4.7,sector-driven
+EBS,2026-08-07,28.3,XBI,Biotech,4.1,-1.0,XBI,4.1,-0.4,sector-assisted
+EC,2025-12-17,31.0,,,,,,,3.4,unmapped
+ECG,2026-01-27,38.6,,,,,,,-0.3,unmapped
+ECG,2026-04-07,41.0,,,,,,,9.8,unmapped
+ECHO,2025-11-11,45.9,XLC,Comm Services,2.5,-0.3,XLC,2.5,0.7,solo
+ECO,2026-02-05,22.5,,,,,,,-0.8,unmapped
+ECO,2026-08-18,36.6,,,,,,,-1.8,unmapped
+ECPG,2026-02-03,33.5,,,,,,,-0.6,unmapped
+EE,2025-12-30,31.2,,,,,,,1.0,unmapped
+EFOR,2026-06-30,31.0,XSW,Software,6.3,-8.4,XSW,6.3,-2.3,sector-assisted
+EFOR,2026-09-25,31.6,XSW,Software,10.1,-7.0,XSW,10.1,-1.5,sector-driven
+EFX,2026-09-29,24.8,XLI,Industrials,-0.7,-3.2,XLI,-0.7,0.7,solo
+EFXT,2026-01-09,21.9,,,,,,,-0.0,unmapped
+EFXT,2026-04-01,34.8,,,,,,,9.7,unmapped
+EGBN,2025-11-05,30.7,KRE,Regional Banks,7.3,-4.3,KRE,7.3,1.0,sector-assisted
+EGBN,2025-12-30,25.8,KRE,Regional Banks,5.6,3.5,KRE,5.6,1.0,sector-assisted
+EGO,2025-11-20,32.5,GDX,Gold Miners,20.5,-1.1,GDXJ,26.7,4.7,sector-driven
+EGO,2026-07-13,34.2,GDX,Gold Miners,23.3,-5.6,GDXJ,24.5,3.2,sector-driven
+EGY,2025-12-16,30.9,XOP,Oil & Gas E&P,5.1,-5.1,XOP,5.1,2.3,sector-assisted
+ELE,2025-12-12,33.2,GDXJ,Junior Gold Miners,13.0,16.4,GDXJ,13.0,2.1,sector-driven
+ELE,2026-07-15,30.1,GDXJ,Junior Gold Miners,23.8,-13.7,GDXJ,23.8,2.3,sector-driven
+ELF,2026-05-20,26.6,,,,,,,1.0,unmapped
+ELF,2026-07-29,32.2,,,,,,,5.0,unmapped
+ELVA,2025-11-12,36.1,,,,,,,0.9,unmapped
+ELVA,2026-03-20,37.6,,,,,,,9.3,unmapped
+ELVN,2025-12-11,33.4,XPH,Pharma,-1.2,10.8,XPH,-1.2,1.2,solo
+ELVN,2026-03-03,36.3,XPH,Pharma,-2.8,-2.3,XPH,-2.8,-4.2,solo
+ELVN,2026-06-01,35.3,XPH,Pharma,15.6,-1.9,XPH,15.6,-1.3,sector-driven
+ELVR,2026-01-30,28.9,,,,,,,-0.8,unmapped
+ELVR,2026-03-18,47.9,,,,,,,6.4,unmapped
+ELVR,2026-05-15,32.1,,,,,,,2.1,unmapped
+ELVR,2026-07-28,23.7,,,,,,,3.4,unmapped
+EMBC,2026-07-10,36.4,,,,,,,2.4,unmapped
+ENLT,2025-12-10,31.0,,,,,,,1.2,unmapped
+ENLT,2026-03-27,35.4,,,,,,,12.9,unmapped
+ENOV,2026-06-16,30.1,XHE,Healthcare Equipment,9.1,3.9,XHE,9.1,0.3,sector-driven
+ENPH,2026-01-09,42.8,TAN,Solar,16.7,3.1,TAN,16.7,-0.0,sector-driven
+ENPH,2026-04-15,30.5,TAN,Solar,15.3,-4.2,TAN,15.3,6.1,sector-driven
+ENTA,2026-06-03,34.4,,,,,,,-1.0,unmapped
+ENTG,2025-11-20,22.2,,,,,,,4.7,unmapped
+ENTG,2025-12-31,40.1,,,,,,,1.5,unmapped
+ENTG,2026-03-26,34.8,,,,,,,10.7,unmapped
+ENTG,2026-05-19,26.7,,,,,,,1.0,unmapped
+ENTG,2026-07-29,33.1,,,,,,,5.0,unmapped
+ENVA,2025-11-18,37.0,,,,,,,1.7,unmapped
+ENVA,2026-03-27,33.8,,,,,,,12.9,unmapped
+ENVA,2026-05-22,34.0,,,,,,,-1.4,unmapped
+ENVX,2026-03-18,35.1,,,,,,,6.4,unmapped
+ENVX,2026-05-19,21.0,,,,,,,1.0,unmapped
+EOLS,2026-02-09,24.5,XPH,Pharma,-2.3,2.2,XPH,-2.3,-2.4,solo
+EOLS,2026-03-27,30.2,XPH,Pharma,11.6,-9.5,XPH,11.6,12.9,sector-driven
+EOLS,2026-07-14,33.0,XPH,Pharma,3.8,11.5,XPH,3.8,2.5,sector-assisted
+EOSE,2025-12-16,26.9,,,,,,,2.3,unmapped
+EOSE,2026-03-18,34.7,,,,,,,6.4,unmapped
+EPAM,2026-06-30,34.7,XSW,Software,6.3,-8.4,XSW,6.3,-2.3,sector-assisted
+EPAM,2026-10-05,30.8,XSW,Software,3.2,-0.8,XSW,3.2,-2.9,sector-assisted
+EPC,2026-05-14,37.5,,,,,,,-0.9,unmapped
+EQNR,2026-02-17,35.2,,,,,,,-1.8,unmapped
+EQNR,2026-06-26,24.0,,,,,,,1.4,unmapped
+EQX,2025-11-04,32.9,GDX,Gold Miners,18.9,-11.4,GDXJ,22.6,1.3,sector-driven
+EQX,2026-01-30,31.1,GDX,Gold Miners,22.4,9.8,GDXJ,24.9,-0.8,sector-driven
+EQX,2026-03-20,28.4,GDX,Gold Miners,23.7,-24.6,GDXJ,25.6,9.3,sector-driven
+EQX,2026-07-16,28.2,GDX,Gold Miners,23.6,-18.2,GDXJ,25.1,3.6,sector-driven
+ERAS,2025-12-29,192.8,XBI,Biotech,2.1,0.5,XBI,2.1,1.1,solo
+ERAS,2026-03-17,36.2,XBI,Biotech,9.9,-0.4,XBI,9.9,4.7,sector-driven
+ERAS,2026-04-29,33.9,XBI,Biotech,5.5,0.9,XBI,5.5,6.1,sector-assisted
+ERO,2025-12-29,31.2,,,,,,,1.1,unmapped
+ERO,2026-03-20,20.3,,,,,,,9.3,unmapped
+ERO,2026-05-04,31.6,,,,,,,5.8,unmapped
+ERO,2026-07-10,34.1,,,,,,,2.4,unmapped
+ESE,2026-01-12,30.3,,,,,,,-0.4,unmapped
+ESEA,2026-02-04,27.4,,,,,,,-0.7,unmapped
+ESLT,2025-12-04,30.8,,,,,,,0.8,unmapped
+ESLT,2026-02-04,30.6,,,,,,,-0.7,unmapped
+ESTA,2026-06-01,26.0,,,,,,,-1.3,unmapped
+ESTC,2026-04-30,39.3,XSW,Software,17.2,6.0,XSW,17.2,5.3,sector-driven
+ESTC,2026-07-16,38.5,XSW,Software,14.1,7.2,XSW,14.1,3.6,sector-driven
+ETH,2026-08-03,32.9,,,,,,,1.2,unmapped
+ETHA,2026-07-31,30.6,,,,,,,3.0,unmapped
+ETHE,2026-07-31,30.4,,,,,,,3.0,unmapped
+ETHW,2026-07-31,30.5,,,,,,,3.0,unmapped
+ETON,2026-04-21,39.7,XPH,Pharma,-3.5,9.8,XPH,-3.5,4.2,solo
+ETON,2026-06-02,33.7,XPH,Pharma,17.4,-5.8,XPH,17.4,-1.6,sector-driven
+ETON,2026-08-12,39.2,XPH,Pharma,-2.6,2.7,XPH,-2.6,-1.9,solo
+ETOR,2025-11-06,28.5,,,,,,,2.3,unmapped
+ETOR,2026-02-05,28.5,,,,,,,-0.8,unmapped
+ETOR,2026-03-20,32.3,,,,,,,9.3,unmapped
+ETSY,2026-03-24,33.6,XRT,Retail,9.8,-9.0,XRT,9.8,8.9,sector-driven
+ETSY,2026-09-24,31.7,XRT,Retail,8.6,-6.8,XRT,8.6,-0.4,sector-driven
+EVC,2026-04-08,143.4,,,,,,,8.6,unmapped
+EVC,2026-06-09,31.6,,,,,,,2.3,unmapped
+EVER,2026-04-07,55.1,,,,,,,9.8,unmapped
+EVER,2026-06-03,38.4,,,,,,,-1.0,unmapped
+EVER,2026-09-24,30.6,,,,,,,-0.4,unmapped
+EVH,2026-03-24,37.8,,,,,,,8.9,unmapped
+EVH,2026-05-27,35.2,,,,,,,-1.9,unmapped
+EVH,2026-07-28,30.7,,,,,,,3.4,unmapped
+EVH,2026-09-17,32.7,,,,,,,1.5,unmapped
+EVLV,2025-11-20,27.4,,,,,,,4.7,unmapped
+EVMN,2025-12-16,23.6,,,,,,,2.3,unmapped
+EVMN,2026-01-16,85.7,,,,,,,-1.3,unmapped
+EVMN,2026-03-13,22.8,,,,,,,3.9,unmapped
+EVMN,2026-07-22,31.7,,,,,,,2.9,unmapped
+EVR,2026-03-13,30.7,,,,,,,3.9,unmapped
+EVTC,2026-06-03,31.3,,,,,,,-1.0,unmapped
+EWTX,2025-12-18,35.8,XPH,Pharma,2.4,6.0,XPH,2.4,0.5,solo
+EWTX,2026-05-01,31.5,XPH,Pharma,-1.9,6.9,XPH,-1.9,5.3,solo
+EWTX,2026-06-08,32.9,XPH,Pharma,21.7,-3.0,XPH,21.7,1.1,sector-driven
+EXK,2025-11-17,23.9,GDX,Gold Miners,13.3,-6.8,GDXJ,18.4,2.0,sector-driven
+EXK,2025-12-29,44.7,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+EXK,2026-07-13,30.6,GDX,Gold Miners,23.3,-5.6,GDXJ,24.5,3.2,sector-driven
+EXLS,2026-06-30,39.2,,,,,,,-2.3,unmapped
+EXPE,2026-02-23,25.5,XLY,Consumer Discretionary,-4.1,-6.6,XLY,-4.1,-3.7,solo
+EXTR,2026-03-31,44.9,,,,,,,9.5,unmapped
+EYPT,2025-11-05,51.8,XPH,Pharma,11.7,0.4,XPH,11.7,1.0,sector-driven
+EYPT,2026-01-30,35.7,XPH,Pharma,3.9,-1.0,XPH,3.9,-0.8,sector-assisted
+EZPW,2026-08-11,22.6,,,,,,,-1.1,unmapped
+F,2026-04-29,36.0,XLY,Consumer Discretionary,4.5,7.2,XLY,4.5,6.1,sector-assisted
+FA,2026-02-23,25.9,,,,,,,-3.7,unmapped
+FA,2026-04-09,41.3,,,,,,,7.6,unmapped
+FA,2026-06-08,25.0,,,,,,,1.1,unmapped
+FBIN,2026-05-29,30.9,,,,,,,-1.8,unmapped
+FCEL,2025-11-17,28.7,,,,,,,2.0,unmapped
+FCEL,2026-03-20,31.3,,,,,,,9.3,unmapped
+FCEL,2026-06-09,31.5,,,,,,,2.3,unmapped
+FCN,2026-10-02,34.0,,,,,,,-1.8,unmapped
+FCX,2026-03-19,30.9,XLB,Materials,9.2,-9.8,COPX,20.5,8.0,sector-driven
+FCX,2026-07-29,31.7,XLB,Materials,3.7,1.8,COPX,25.5,5.0,sector-assisted
+FDMT,2026-01-05,30.0,XBI,Biotech,6.2,-2.2,XBI,6.2,0.3,sector-assisted
+FDMT,2026-05-22,34.9,XBI,Biotech,11.8,-1.2,XBI,11.8,-1.4,sector-driven
+FDMT,2026-07-22,52.9,XBI,Biotech,11.5,3.5,XBI,11.5,2.9,sector-driven
+FDS,2026-05-14,20.7,XLF,Financials,4.0,-1.4,XLF,4.0,-0.9,sector-assisted
+FEIM,2025-11-13,68.1,,,,,,,1.5,unmapped
+FEIM,2026-03-18,38.1,,,,,,,6.4,unmapped
+FEIM,2026-04-29,60.3,,,,,,,6.1,unmapped
+FEIM,2026-07-08,21.3,,,,,,,3.3,unmapped
+FEIM,2026-08-19,25.5,,,,,,,-0.8,unmapped
+FET,2026-07-02,33.4,,,,,,,0.3,unmapped
+FFAI,2026-03-23,51.8,,,,,,,7.5,unmapped
+FFIV,2026-04-27,33.3,XLK,Tech (broad),15.3,23.7,HACK,20.0,5.0,sector-driven
+FIG,2026-02-02,28.1,,,,,,,-2.2,unmapped
+FIG,2026-04-21,24.3,,,,,,,4.2,unmapped
+FIG,2026-06-16,30.2,,,,,,,0.3,unmapped
+FIG,2026-07-23,36.5,,,,,,,3.3,unmapped
+FIGR,2025-11-25,34.1,,,,,,,2.6,unmapped
+FIGR,2026-02-27,22.6,,,,,,,-7.4,unmapped
+FIGR,2026-07-24,41.7,,,,,,,3.6,unmapped
+FIGS,2026-01-29,37.9,,,,,,,-1.2,unmapped
+FIGS,2026-07-10,42.0,,,,,,,2.4,unmapped
+FIGS,2026-09-15,35.5,,,,,,,3.0,unmapped
+FIP,2025-12-29,27.4,,,,,,,1.1,unmapped
+FIVN,2026-04-02,48.2,XSW,Software,8.2,-8.2,XSW,8.2,9.9,sector-driven
+FIVN,2026-06-17,32.1,XSW,Software,9.3,1.7,XSW,9.3,0.6,sector-driven
+FIX,2026-02-04,20.4,XLI,Industrials,1.6,4.6,XLI,1.6,-0.7,solo
+FIX,2026-03-26,27.0,XLI,Industrials,7.0,-8.5,XLI,7.0,10.7,sector-assisted
+FJET,2026-02-05,53.1,,,,,,,-0.8,unmapped
+FJET,2026-04-29,31.0,,,,,,,6.1,unmapped
+FLEX,2026-03-20,36.7,XLK,Tech (broad),14.4,-4.0,XLK,14.4,9.3,sector-driven
+FLGT,2026-05-06,30.7,,,,,,,3.2,unmapped
+FLNC,2025-11-12,34.3,,,,,,,0.9,unmapped
+FLNC,2025-12-17,45.8,,,,,,,3.4,unmapped
+FLNC,2026-04-09,39.9,,,,,,,7.6,unmapped
+FLXS,2026-01-08,40.3,,,,,,,0.2,unmapped
+FLXS,2026-06-03,25.5,,,,,,,-1.0,unmapped
+FLY,2025-11-20,45.7,XAR,Aerospace & Defense (SPDR),10.3,-11.2,XAR,10.3,4.7,sector-driven
+FLY,2026-02-25,35.3,XAR,Aerospace & Defense (SPDR),-4.9,-1.6,XAR,-4.9,-5.0,solo
+FLY,2026-05-01,30.9,XAR,Aerospace & Defense (SPDR),9.2,-1.2,XAR,9.2,5.3,sector-driven
+FLY,2026-07-16,40.7,XAR,Aerospace & Defense (SPDR),12.8,-8.1,XAR,12.8,3.6,sector-driven
+FLYW,2026-04-08,47.6,,,,,,,8.6,unmapped
+FLYW,2026-06-05,28.8,,,,,,,1.6,unmapped
+FMC,2026-03-16,26.2,MOO,Agribusiness,1.5,-2.1,MOO,1.5,4.1,solo
+FN,2025-11-20,22.8,,,,,,,4.7,unmapped
+FN,2026-02-03,25.7,,,,,,,-0.6,unmapped
+FN,2026-03-13,37.4,,,,,,,3.9,unmapped
+FNGD,2026-01-13,24.4,,,,,,,-0.3,unmapped
+FNGD,2026-05-29,24.4,,,,,,,-1.8,unmapped
+FNGD,2026-10-05,37.1,,,,,,,-2.9,unmapped
+FNGU,2026-03-20,38.8,,,,,,,9.3,unmapped
+FNGU,2026-07-23,22.1,,,,,,,3.3,unmapped
+FNKO,2025-12-19,25.7,,,,,,,0.7,unmapped
+FNKO,2026-02-09,21.8,,,,,,,-2.4,unmapped
+FNKO,2026-03-20,33.8,,,,,,,9.3,unmapped
+FNKO,2026-09-29,22.3,,,,,,,0.7,unmapped
+FORM,2025-12-12,30.9,,,,,,,2.1,unmapped
+FORM,2026-03-11,31.9,,,,,,,0.8,unmapped
+FORM,2026-06-01,39.0,,,,,,,-1.3,unmapped
+FORM,2026-07-20,31.2,,,,,,,4.1,unmapped
+FORM,2026-08-31,35.4,,,,,,,-0.1,unmapped
+FOSL,2026-01-23,31.4,,,,,,,-1.0,unmapped
+FOSL,2026-03-19,30.2,,,,,,,8.0,unmapped
+FOSL,2026-07-06,41.9,,,,,,,0.9,unmapped
+FOSL,2026-09-01,34.6,,,,,,,0.4,unmapped
+FOUR,2026-06-04,30.8,,,,,,,-0.5,unmapped
+FOXF,2025-11-17,34.0,,,,,,,2.0,unmapped
+FRMI,2025-12-26,25.9,,,,,,,0.8,unmapped
+FRMI,2026-04-20,21.3,,,,,,,4.2,unmapped
+FRMI,2026-05-20,56.2,,,,,,,1.0,unmapped
+FRO,2025-12-30,30.3,,,,,,,1.0,unmapped
+FROG,2026-04-10,63.2,,,,,,,8.6,unmapped
+FROG,2026-07-29,26.6,,,,,,,5.0,unmapped
+FRPT,2026-07-08,31.7,,,,,,,3.3,unmapped
+FRSH,2026-07-23,33.2,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+FSLR,2026-04-24,33.1,XSD,Semiconductors (equal-wt),26.1,45.9,XSD,26.1,4.5,sector-driven
+FSLY,2026-01-14,74.3,HACK,Cybersecurity,-5.4,-2.0,HACK,-5.4,-1.3,solo
+FSLY,2026-07-07,34.2,HACK,Cybersecurity,4.0,12.8,HACK,4.0,3.2,sector-assisted
+FSLY,2026-09-01,23.6,HACK,Cybersecurity,8.4,-1.9,HACK,8.4,0.4,sector-driven
+FSM,2026-01-30,38.7,GDX,Gold Miners,22.4,9.8,GDXJ,24.9,-0.8,sector-driven
+FSM,2026-07-16,27.5,GDX,Gold Miners,23.6,-18.2,GDXJ,25.1,3.6,sector-driven
+FSOL,2026-07-28,32.9,,,,,,,3.4,unmapped
+FTAI,2025-12-05,35.3,XAR,Aerospace & Defense (SPDR),15.4,-0.9,XAR,15.4,1.2,sector-driven
+FTAI,2026-04-29,23.3,XAR,Aerospace & Defense (SPDR),16.0,-1.7,XAR,16.0,6.1,sector-driven
+FTH,2025-12-02,30.1,XBI,Biotech,3.3,7.9,XBI,3.3,0.4,sector-assisted
+FTH,2026-01-20,173.2,XBI,Biotech,0.2,4.8,XBI,0.2,1.3,solo
+FTH,2026-05-21,32.1,XBI,Biotech,10.0,-1.3,XBI,10.0,0.5,sector-driven
+FTH,2026-06-29,25.5,XBI,Biotech,-5.4,15.9,XBI,-5.4,-0.0,solo
+FTH,2026-08-04,35.3,XBI,Biotech,7.6,-7.3,XBI,7.6,-1.2,sector-assisted
+FTK,2025-11-24,30.7,,,,,,,3.2,unmapped
+FTK,2026-04-17,25.5,,,,,,,4.1,unmapped
+FTK,2026-07-08,56.2,,,,,,,3.3,unmapped
+FTK,2026-08-24,29.0,,,,,,,1.5,unmapped
+FTNT,2026-04-09,33.9,XLK,Tech (broad),19.5,1.3,XLK,19.5,7.6,sector-driven
+FTRE,2025-11-04,50.3,,,,,,,1.3,unmapped
+FTRE,2026-04-06,36.0,,,,,,,9.0,unmapped
+FUBO,2026-03-26,24.3,,,,,,,10.7,unmapped
+FUL,2026-03-20,31.6,,,,,,,9.3,unmapped
+FULC,2025-12-02,26.4,,,,,,,0.4,unmapped
+FUN,2025-12-22,33.2,,,,,,,0.6,unmapped
+FWDI,2026-07-24,32.1,,,,,,,3.6,unmapped
+FWRD,2025-11-03,38.9,,,,,,,-0.3,unmapped
+FWRD,2026-03-18,32.6,,,,,,,6.4,unmapped
+FWRD,2026-05-12,33.4,,,,,,,-1.7,unmapped
+FWRD,2026-07-08,26.5,,,,,,,3.3,unmapped
+FWRG,2026-03-27,27.6,,,,,,,12.9,unmapped
+FWRG,2026-06-04,26.3,,,,,,,-0.5,unmapped
+G,2026-06-30,33.5,,,,,,,-2.3,unmapped
+GBUG,2025-12-29,30.3,,,,,,,1.1,unmapped
+GBUG,2026-07-16,27.6,,,,,,,3.6,unmapped
+GCO,2025-12-11,33.8,,,,,,,1.2,unmapped
+GCO,2026-03-13,30.5,,,,,,,3.9,unmapped
+GCO,2026-05-13,34.7,,,,,,,-0.6,unmapped
+GCT,2026-02-12,20.1,,,,,,,-2.8,unmapped
+GCT,2026-06-30,31.6,,,,,,,-2.3,unmapped
+GDS,2025-12-24,33.6,,,,,,,0.3,unmapped
+GDXD,2026-02-18,38.6,,,,,,,-3.7,unmapped
+GDXD,2026-04-17,32.2,,,,,,,4.1,unmapped
+GDXD,2026-05-26,41.2,,,,,,,-2.1,unmapped
+GDXD,2026-08-25,31.0,,,,,,,0.5,unmapped
+GDXU,2025-12-29,113.7,,,,,,,1.1,unmapped
+GDXU,2026-03-18,24.6,,,,,,,6.4,unmapped
+GDXU,2026-07-08,38.0,,,,,,,3.3,unmapped
+GDYN,2026-04-09,30.7,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+GDYN,2026-07-14,33.3,XSW,Software,10.6,7.3,XSW,10.6,2.5,sector-driven
+GDYN,2026-10-02,66.6,XSW,Software,5.9,-4.7,XSW,5.9,-1.8,sector-assisted
+GEMI,2026-02-05,33.4,,,,,,,-0.8,unmapped
+GEMI,2026-04-29,25.6,,,,,,,6.1,unmapped
+GEMI,2026-08-17,20.6,,,,,,,-2.0,unmapped
+GEN,2026-04-23,32.1,XLK,Tech (broad),14.6,14.0,HACK,18.7,4.9,sector-driven
+GEN,2026-10-02,32.5,XLK,Tech (broad),-10.2,7.6,XSW,5.9,-1.8,solo
+GENI,2025-11-20,24.1,,,,,,,4.7,unmapped
+GENI,2026-04-29,31.8,,,,,,,6.1,unmapped
+GENI,2026-07-08,30.8,,,,,,,3.3,unmapped
+GEO,2026-03-09,27.8,,,,,,,-2.6,unmapped
+GEV,2026-01-26,32.1,XLI,Industrials,7.7,4.4,XLI,7.7,-0.8,sector-assisted
+GEV,2026-03-26,31.6,XLI,Industrials,7.0,-8.5,XLI,7.0,10.7,sector-assisted
+GEV,2026-06-10,25.9,XLI,Industrials,7.5,-2.7,XLI,7.5,4.4,sector-assisted
+GFF,2026-03-20,33.0,,,,,,,9.3,unmapped
+GFI,2025-12-29,41.1,GDX,Gold Miners,30.6,3.9,GDX,30.6,1.1,sector-driven
+GFI,2026-07-20,32.8,GDX,Gold Miners,29.9,-14.3,GDX,29.9,4.1,sector-driven
+GFS,2025-12-26,32.4,,,,,,,0.8,unmapped
+GFS,2026-03-20,36.4,,,,,,,9.3,unmapped
+GGAL,2026-05-13,32.6,,,,,,,-0.6,unmapped
+GGB,2026-03-18,29.9,SLX,Steel,12.5,-10.2,SLX,12.5,6.4,sector-driven
+GH,2026-04-23,34.3,BBH,Biotech (VanEck),-2.1,1.4,BBH,-2.1,4.9,solo
+GHRS,2025-12-12,21.5,,,,,,,2.1,unmapped
+GHRS,2026-03-20,53.9,,,,,,,9.3,unmapped
+GHRS,2026-06-05,25.5,,,,,,,1.6,unmapped
+GILT,2025-12-11,30.6,,,,,,,1.2,unmapped
+GILT,2026-02-12,24.2,,,,,,,-2.8,unmapped
+GKOS,2026-05-28,35.6,XHE,Healthcare Equipment,7.4,2.5,XHE,7.4,-3.2,sector-assisted
+GKOS,2026-10-01,48.6,XHE,Healthcare Equipment,6.4,-5.6,XHE,6.4,0.7,sector-assisted
+GLAS,2025-11-13,32.1,,,,,,,1.5,unmapped
+GLAS,2026-03-27,33.7,,,,,,,12.9,unmapped
+GLAS,2026-05-13,43.7,,,,,,,-0.6,unmapped
+GLL,2026-02-23,39.2,,,,,,,-3.7,unmapped
+GLL,2026-05-12,32.7,,,,,,,-1.7,unmapped
+GLNK,2026-07-31,39.8,,,,,,,3.0,unmapped
+GLOB,2026-06-30,31.8,,,,,,,-2.3,unmapped
+GLOB,2026-09-24,31.4,,,,,,,-0.4,unmapped
+GLSI,2025-11-12,35.4,,,,,,,0.9,unmapped
+GLSI,2026-04-29,34.2,,,,,,,6.1,unmapped
+GLSI,2026-07-22,30.7,,,,,,,2.9,unmapped
+GLUE,2025-12-23,38.6,XBI,Biotech,2.5,4.8,XBI,2.5,0.2,solo
+GLUE,2026-03-23,39.0,XBI,Biotech,12.1,-4.2,XBI,12.1,7.5,sector-driven
+GLUE,2026-06-02,35.4,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+GLW,2026-01-08,43.2,XLK,Tech (broad),-2.2,-2.4,XLK,-2.2,0.2,solo
+GLW,2026-03-12,32.0,XLK,Tech (broad),3.6,-3.6,XLK,3.6,2.3,sector-assisted
+GLW,2026-05-04,25.3,XLK,Tech (broad),22.4,18.5,XLK,22.4,5.8,sector-driven
+GLW,2026-07-29,23.2,XLK,Tech (broad),9.8,-12.6,XLK,9.8,5.0,sector-driven
+GLXY,2025-12-16,31.6,,,,,,,2.3,unmapped
+GLXY,2026-02-05,22.1,,,,,,,-0.8,unmapped
+GLXY,2026-03-26,32.6,,,,,,,10.7,unmapped
+GLXY,2026-07-29,34.9,,,,,,,5.0,unmapped
+GMAB,2026-09-30,60.6,IBB,Biotech (large),2.8,-0.1,IBB,2.8,1.3,solo
+GME,2026-08-24,33.2,XRT,Retail,-5.6,-0.8,ESPO,1.0,1.5,solo
+GNRC,2026-01-13,36.3,XLI,Industrials,6.7,5.0,XLI,6.7,-0.3,sector-assisted
+GNRC,2026-04-01,30.2,XLI,Industrials,6.2,-6.3,XLI,6.2,9.7,sector-assisted
+GO,2026-03-19,30.0,XRT,Retail,9.2,-9.3,XRT,9.2,8.0,sector-driven
+GO,2026-05-18,30.2,XRT,Retail,9.5,-9.6,XRT,9.5,1.6,sector-driven
+GO,2026-07-28,32.9,XRT,Retail,-4.0,4.1,XRT,-4.0,3.4,solo
+GOGO,2026-02-05,33.4,,,,,,,-0.8,unmapped
+GOGO,2026-06-29,31.7,,,,,,,-0.0,unmapped
+GOLD,2025-11-25,30.9,,,,,,,2.6,unmapped
+GOLF,2026-05-28,32.6,,,,,,,-3.2,unmapped
+GOOG,2026-04-02,30.1,XLC,Comm Services,4.5,-5.4,XLC,4.5,9.9,sector-assisted
+GOOGL,2026-04-02,30.4,XLC,Comm Services,4.5,-5.4,AIQ,20.2,9.9,sector-assisted
+GOSS,2026-07-13,22.2,,,,,,,3.2,unmapped
+GPC,2026-06-03,34.9,XLY,Consumer Discretionary,0.5,-1.1,XLY,0.5,-1.0,solo
+GPCR,2025-12-01,96.1,,,,,,,1.3,unmapped
+GPCR,2026-05-29,31.4,,,,,,,-1.8,unmapped
+GPGI,2025-12-17,30.2,,,,,,,3.4,unmapped
+GPGI,2026-06-01,32.9,,,,,,,-1.3,unmapped
+GPRE,2026-01-07,32.3,XOP,Oil & Gas E&P,14.4,-7.1,XOP,14.4,-1.7,sector-driven
+GPRE,2026-06-17,32.3,XOP,Oil & Gas E&P,9.8,-12.9,XOP,9.8,0.6,sector-driven
+GRAL,2026-04-09,32.3,XBI,Biotech,1.4,4.3,XBI,1.4,7.6,solo
+GRAL,2026-06-16,23.5,XBI,Biotech,12.4,6.0,XBI,12.4,0.3,sector-driven
+GRAL,2026-07-29,25.5,XBI,Biotech,13.8,-6.5,XBI,13.8,5.0,sector-driven
+GRAL,2026-09-01,75.6,XBI,Biotech,-3.5,7.6,XBI,-3.5,0.4,solo
+GRC,2026-01-09,30.1,,,,,,,-0.0,unmapped
+GRMN,2026-07-21,25.7,XLY,Consumer Discretionary,1.3,-0.1,XLY,1.3,2.6,solo
+GRND,2026-06-02,34.0,,,,,,,-1.6,unmapped
+GRNT,2026-09-25,32.0,,,,,,,-1.5,unmapped
+GROY,2025-11-04,24.9,GDXJ,Junior Gold Miners,22.6,-13.4,GDXJ,22.6,1.3,sector-driven
+GROY,2026-07-23,31.4,GDXJ,Junior Gold Miners,32.3,1.6,GDXJ,32.3,3.3,sector-driven
+GRPN,2026-03-18,44.6,XRT,Retail,7.3,-10.4,XRT,7.3,6.4,sector-assisted
+GRPN,2026-06-05,63.1,XRT,Retail,5.7,-2.0,XRT,5.7,1.6,sector-assisted
+GRRR,2025-12-26,31.0,,,,,,,0.8,unmapped
+GRRR,2026-03-20,36.9,,,,,,,9.3,unmapped
+GRRR,2026-05-15,33.0,,,,,,,2.1,unmapped
+GRRR,2026-07-16,34.4,,,,,,,3.6,unmapped
+GSAT,2026-03-05,30.8,,,,,,,-3.5,unmapped
+GSHD,2026-05-28,33.0,,,,,,,-3.2,unmapped
+GSIT,2025-12-12,33.8,,,,,,,2.1,unmapped
+GSIT,2026-02-04,25.2,,,,,,,-0.7,unmapped
+GSIT,2026-03-26,33.2,,,,,,,10.7,unmapped
+GSM,2026-07-10,37.3,,,,,,,2.4,unmapped
+GSOL,2026-07-28,32.9,,,,,,,3.4,unmapped
+GTE,2025-12-16,28.7,,,,,,,2.3,unmapped
+GTE,2026-02-12,51.5,,,,,,,-2.8,unmapped
+GTE,2026-07-02,26.7,,,,,,,0.3,unmapped
+GTE,2026-08-04,51.4,,,,,,,-1.2,unmapped
+GTLB,2026-04-09,31.8,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+GTLB,2026-05-13,28.8,XSW,Software,7.0,3.2,XSW,7.0,-0.6,sector-assisted
+GTLB,2026-06-22,27.2,XSW,Software,10.0,-1.1,XSW,10.0,0.5,sector-driven
+GTLB,2026-07-23,39.2,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+GTM,2026-07-09,40.8,,,,,,,2.2,unmapped
+GTN,2026-01-28,39.7,,,,,,,-0.9,unmapped
+GTN,2026-03-19,34.6,,,,,,,8.0,unmapped
+GTN,2026-07-10,42.1,,,,,,,2.4,unmapped
+GTX,2026-04-01,37.7,,,,,,,9.7,unmapped
+GWRE,2026-02-05,34.0,XSW,Software,5.5,-22.5,FINX,6.4,-0.8,sector-assisted
+GWRE,2026-06-17,34.9,XSW,Software,9.3,1.7,XSW,9.3,0.6,sector-driven
+GWRE,2026-09-25,29.8,XSW,Software,10.1,-7.0,XSW,10.1,-1.5,sector-driven
+HAE,2026-05-06,32.6,XHE,Healthcare Equipment,2.0,-0.3,XHE,2.0,3.2,solo
+HAE,2026-07-21,34.0,XHE,Healthcare Equipment,9.7,7.7,XHE,9.7,2.6,sector-driven
+HALO,2026-07-10,35.3,XBI,Biotech,-1.0,23.6,IBB,2.9,2.4,solo
+HAS,2026-09-23,31.8,XLY,Consumer Discretionary,4.4,-6.0,XLY,4.4,0.7,sector-assisted
+HAYW,2026-10-02,30.0,,,,,,,-1.8,unmapped
+HBM,2025-11-20,32.2,,,,,,,4.7,unmapped
+HBM,2026-03-19,38.8,,,,,,,8.0,unmapped
+HBM,2026-05-01,34.2,,,,,,,5.3,unmapped
+HBM,2026-07-13,33.7,,,,,,,3.2,unmapped
+HCC,2026-05-04,31.3,XME,Metals & Mining,13.6,6.1,XME,13.6,5.8,sector-driven
+HCC,2026-07-24,33.3,XME,Metals & Mining,17.3,-6.4,XME,17.3,3.6,sector-driven
+HEI,2026-04-29,32.2,XAR,Aerospace & Defense (SPDR),16.0,-1.7,XAR,16.0,6.1,sector-driven
+HELE,2026-03-20,33.2,,,,,,,9.3,unmapped
+HELP,2025-11-24,33.3,,,,,,,3.2,unmapped
+HELP,2026-05-27,35.9,,,,,,,-1.9,unmapped
+HGV,2026-03-27,22.5,,,,,,,12.9,unmapped
+HII,2025-12-17,32.6,XAR,Aerospace & Defense (SPDR),28.0,2.4,XAR,28.0,3.4,sector-driven
+HIMS,2026-02-10,50.1,,,,,,,-2.3,unmapped
+HIMS,2026-04-07,35.0,,,,,,,9.8,unmapped
+HIMS,2026-05-18,41.2,,,,,,,1.6,unmapped
+HIMX,2026-02-12,27.0,,,,,,,-2.8,unmapped
+HIMX,2026-03-30,46.3,,,,,,,12.7,unmapped
+HL,2026-07-20,31.7,GDX,Gold Miners,29.9,-14.3,GDXJ,31.3,4.1,sector-driven
+HLF,2025-12-26,27.1,,,,,,,0.8,unmapped
+HLIT,2026-04-10,31.4,,,,,,,8.6,unmapped
+HLNE,2026-07-22,29.2,,,,,,,2.9,unmapped
+HMY,2025-12-29,30.5,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+HMY,2026-03-19,36.8,GDX,Gold Miners,21.0,-20.5,GDXJ,22.2,8.0,sector-driven
+HMY,2026-07-10,30.4,GDX,Gold Miners,19.0,2.3,GDX,19.0,2.4,sector-driven
+HNGE,2026-02-03,38.2,,,,,,,-0.6,unmapped
+HNGE,2026-04-07,30.9,,,,,,,9.8,unmapped
+HNI,2026-06-02,32.2,,,,,,,-1.6,unmapped
+HNRG,2026-04-14,30.9,,,,,,,6.3,unmapped
+HNST,2026-02-05,31.4,,,,,,,-0.8,unmapped
+HNST,2026-07-13,34.1,,,,,,,3.2,unmapped
+HOG,2026-03-16,30.0,,,,,,,4.1,unmapped
+HOOD,2026-03-24,28.0,XLF,Financials,6.0,-2.9,ARKK,14.9,8.9,sector-assisted
+HOOD,2026-05-19,41.9,XLF,Financials,5.8,-2.3,ARKK,6.3,1.0,sector-assisted
+HOOD,2026-08-06,37.5,XLF,Financials,1.3,4.1,ARKK,15.1,0.6,solo
+HOV,2026-05-20,34.5,XHB,Homebuilders,12.3,-9.1,XHB,12.3,1.0,sector-driven
+HP,2026-07-20,32.7,OIH,Oil Services,13.7,-2.7,OIH,13.7,4.1,sector-driven
+HPE,2026-07-16,32.6,XLK,Tech (broad),7.5,-4.7,XLK,7.5,3.6,sector-assisted
+HPE,2026-09-04,31.5,XLK,Tech (broad),7.4,-0.4,XLK,7.4,0.8,sector-assisted
+HPK,2026-01-21,30.4,,,,,,,-0.1,unmapped
+HPK,2026-03-05,29.2,,,,,,,-3.5,unmapped
+HPK,2026-04-17,32.8,,,,,,,4.1,unmapped
+HPK,2026-09-21,43.3,,,,,,,-0.9,unmapped
+HPP,2026-03-20,50.6,,,,,,,9.3,unmapped
+HPQ,2026-05-01,40.9,XLK,Tech (broad),21.0,19.1,XLK,21.0,5.3,sector-driven
+HRB,2026-04-24,28.5,,,,,,,4.5,unmapped
+HRB,2026-07-23,32.8,,,,,,,3.3,unmapped
+HRI,2025-11-19,29.0,,,,,,,2.1,unmapped
+HRI,2026-03-30,38.3,,,,,,,12.7,unmapped
+HRI,2026-09-30,33.1,,,,,,,1.3,unmapped
+HROW,2025-11-05,32.0,XPH,Pharma,11.7,0.4,XPH,11.7,1.0,sector-driven
+HROW,2026-01-30,30.9,XPH,Pharma,3.9,-1.0,XPH,3.9,-0.8,sector-assisted
+HROW,2026-05-19,36.7,XPH,Pharma,8.6,-3.5,XPH,8.6,1.0,sector-driven
+HRTG,2026-07-22,27.1,,,,,,,2.9,unmapped
+HSAI,2025-11-19,35.0,,,,,,,2.1,unmapped
+HSAI,2026-03-27,27.0,,,,,,,12.9,unmapped
+HSAI,2026-07-23,26.2,,,,,,,3.3,unmapped
+HSHP,2025-11-04,35.3,,,,,,,1.3,unmapped
+HSHP,2026-01-13,32.3,,,,,,,-0.3,unmapped
+HTFL,2025-12-15,36.5,,,,,,,1.7,unmapped
+HTFL,2026-03-12,29.6,,,,,,,2.3,unmapped
+HTFL,2026-07-17,69.1,,,,,,,4.5,unmapped
+HTLD,2025-11-18,26.6,,,,,,,1.7,unmapped
+HTLD,2026-03-30,33.7,,,,,,,12.7,unmapped
+HTZ,2026-03-09,41.3,,,,,,,-2.6,unmapped
+HTZ,2026-07-14,33.2,,,,,,,2.5,unmapped
+HUBS,2026-02-05,32.7,XSW,Software,5.5,-22.5,XSW,5.5,-0.8,sector-assisted
+HUBS,2026-06-18,31.3,XSW,Software,9.8,0.2,XSW,9.8,-0.6,sector-driven
+HUBS,2026-07-23,26.2,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+HUBS,2026-09-28,30.1,XSW,Software,12.1,-7.9,XSW,12.1,-0.0,sector-driven
+HUCK,2026-03-30,25.8,,,,,,,12.7,unmapped
+HUCK,2026-06-16,62.4,,,,,,,0.3,unmapped
+HUM,2026-03-27,32.2,XLV,Healthcare,0.1,-10.3,XLV,0.1,12.9,solo
+HUN,2025-11-03,29.3,,,,,,,-0.3,unmapped
+HUN,2026-03-20,31.1,,,,,,,9.3,unmapped
+HURN,2026-06-18,24.4,,,,,,,-0.6,unmapped
+HUT,2025-11-20,30.7,XSW,Software,8.7,-11.8,XSW,8.7,4.7,sector-driven
+HUT,2025-12-29,32.3,XSW,Software,-6.8,2.2,FINX,-5.7,1.1,solo
+HUT,2026-03-12,36.1,XSW,Software,-9.4,-1.9,FINX,-4.3,2.3,solo
+HUT,2026-08-24,34.0,XSW,Software,-0.2,14.1,XSW,-0.2,1.5,solo
+HY,2026-03-20,32.8,,,,,,,9.3,unmapped
+HYMC,2026-03-19,39.1,XME,Metals & Mining,11.9,-10.3,GDXJ,22.2,8.0,sector-driven
+HYMC,2026-07-13,33.6,XME,Metals & Mining,15.1,-13.7,GDXJ,24.5,3.2,sector-driven
+HZO,2026-07-13,52.2,XRT,Retail,3.6,-0.0,XRT,3.6,3.2,sector-assisted
+IA,2025-11-13,29.5,,,,,,,1.5,unmapped
+IA,2026-01-28,32.6,,,,,,,-0.9,unmapped
+IA,2026-07-20,33.7,,,,,,,4.1,unmapped
+IAG,2025-12-29,33.7,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+IAG,2026-02-05,21.0,GDX,Gold Miners,9.7,1.5,GDXJ,12.4,-0.8,sector-driven
+IAG,2026-07-17,29.4,GDX,Gold Miners,26.1,-15.5,GDXJ,28.1,4.5,sector-driven
+IART,2026-04-07,41.7,XHE,Healthcare Equipment,3.0,-5.9,XHE,3.0,9.8,sector-assisted
+IBIT,2026-08-14,25.6,,,,,,,-2.0,unmapped
+IBM,2026-05-01,38.0,XLK,Tech (broad),21.0,19.1,AIQ,22.2,5.3,sector-driven
+IBRX,2025-12-15,36.0,XBI,Biotech,3.6,7.8,XBI,3.6,1.7,sector-assisted
+IBRX,2026-02-17,36.4,XBI,Biotech,-0.4,0.4,XBI,-0.4,-1.8,solo
+IBRX,2026-06-03,31.5,XBI,Biotech,23.7,-3.0,XBI,23.7,-1.0,sector-driven
+IBRX,2026-09-10,28.4,XBI,Biotech,-4.8,-1.6,XBI,-4.8,2.4,solo
+IBTA,2026-02-05,21.6,,,,,,,-0.8,unmapped
+IBTA,2026-03-10,39.8,,,,,,,0.1,unmapped
+IBTA,2026-07-21,27.0,,,,,,,2.6,unmapped
+ICHR,2025-11-17,22.9,,,,,,,2.0,unmapped
+ICHR,2026-03-12,38.1,,,,,,,2.3,unmapped
+ICHR,2026-05-18,28.8,,,,,,,1.6,unmapped
+ICL,2026-04-17,22.3,MOO,Agribusiness,-2.5,1.1,MOO,-2.5,4.1,solo
+ICLR,2026-02-12,22.8,BBH,Biotech (VanEck),-2.7,-0.3,BBH,-2.7,-2.8,solo
+ICLR,2026-05-13,27.7,BBH,Biotech (VanEck),0.3,-3.5,BBH,0.3,-0.6,solo
+ICLR,2026-10-01,33.1,BBH,Biotech (VanEck),7.6,-1.7,BBH,7.6,0.7,sector-assisted
+IDCC,2026-07-10,30.1,XSW,Software,10.6,8.2,XSW,10.6,2.4,sector-driven
+IDR,2025-11-05,28.4,XME,Metals & Mining,11.0,-11.2,GDXJ,19.4,1.0,sector-driven
+IDR,2026-03-18,30.3,XME,Metals & Mining,7.5,-7.9,GDXJ,11.2,6.4,sector-assisted
+IDYA,2026-06-02,29.8,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+IE,2025-11-20,28.1,XME,Metals & Mining,20.4,-11.5,XME,20.4,4.7,sector-driven
+IE,2026-03-19,35.4,XME,Metals & Mining,11.9,-10.3,XME,11.9,8.0,sector-driven
+IE,2026-07-16,26.0,XME,Metals & Mining,16.5,-17.0,XME,16.5,3.6,sector-driven
+IESC,2025-11-13,28.4,,,,,,,1.5,unmapped
+IESC,2026-01-30,32.1,,,,,,,-0.8,unmapped
+IESC,2026-03-30,36.1,,,,,,,12.7,unmapped
+IESC,2026-07-13,24.6,,,,,,,3.2,unmapped
+IHRT,2026-03-13,39.7,,,,,,,3.9,unmapped
+ILMN,2026-04-29,31.8,BBH,Biotech (VanEck),3.4,-3.1,XLV,5.7,6.1,sector-assisted
+ILMN,2026-09-01,32.1,BBH,Biotech (VanEck),2.1,15.1,BBH,2.1,0.4,solo
+ILPT,2026-03-27,33.5,,,,,,,12.9,unmapped
+IMAX,2026-05-19,33.8,,,,,,,1.0,unmapped
+IMAX,2026-07-06,36.6,,,,,,,0.9,unmapped
+IMCR,2025-11-05,30.6,,,,,,,1.0,unmapped
+IMMX,2025-12-01,31.0,XBI,Biotech,1.9,6.4,XBI,1.9,1.3,solo
+IMMX,2026-01-08,32.4,XBI,Biotech,1.5,2.4,XBI,1.5,0.2,solo
+IMMX,2026-06-05,51.6,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+IMMX,2026-07-20,28.9,XBI,Biotech,5.7,7.4,XBI,5.7,4.1,sector-assisted
+IMNM,2025-11-05,30.9,XBI,Biotech,12.9,3.6,XBI,12.9,1.0,sector-driven
+IMNM,2026-01-05,36.8,XBI,Biotech,6.2,-2.2,XBI,6.2,0.3,sector-assisted
+IMNM,2026-06-05,31.3,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+IMNM,2026-07-31,21.1,XBI,Biotech,10.5,-8.4,XBI,10.5,3.0,sector-driven
+IMOS,2025-12-12,28.1,,,,,,,2.1,unmapped
+IMOS,2026-02-19,21.3,,,,,,,-3.6,unmapped
+IMOS,2026-03-24,34.4,,,,,,,8.9,unmapped
+IMOS,2026-05-19,20.4,,,,,,,1.0,unmapped
+IMOS,2026-09-03,47.7,,,,,,,-0.2,unmapped
+IMPP,2026-02-04,25.8,,,,,,,-0.7,unmapped
+IMRX,2026-06-08,40.7,,,,,,,1.1,unmapped
+IMRX,2026-07-29,27.0,,,,,,,5.0,unmapped
+IMSR,2025-12-15,27.4,,,,,,,1.7,unmapped
+IMSR,2026-03-24,30.4,,,,,,,8.9,unmapped
+IMSR,2026-05-19,23.8,,,,,,,1.0,unmapped
+IMSR,2026-07-17,27.4,,,,,,,4.5,unmapped
+IMTX,2025-11-05,32.8,,,,,,,1.0,unmapped
+IMUX,2026-01-14,33.9,,,,,,,-1.3,unmapped
+IMUX,2026-04-20,22.1,,,,,,,4.2,unmapped
+IMUX,2026-06-10,26.1,,,,,,,4.4,unmapped
+IMVT,2026-04-29,24.3,XBI,Biotech,5.5,0.9,XBI,5.5,6.1,sector-assisted
+IMVT,2026-06-08,30.9,XBI,Biotech,27.0,-4.7,XBI,27.0,1.1,sector-driven
+IMXI,2026-08-12,24.0,,,,,,,-1.9,unmapped
+INBX,2026-03-19,36.0,XBI,Biotech,13.4,-3.5,XBI,13.4,8.0,sector-driven
+INBX,2026-07-28,54.0,XBI,Biotech,12.9,-5.4,XBI,12.9,3.4,sector-driven
+INDI,2026-03-20,32.4,XSD,Semiconductors (equal-wt),31.4,-9.6,XSD,31.4,9.3,sector-driven
+INDI,2026-04-23,21.9,XSD,Semiconductors (equal-wt),27.9,32.6,XSD,27.9,4.9,sector-driven
+INDI,2026-07-28,23.4,XSD,Semiconductors (equal-wt),4.1,-20.4,XSD,4.1,3.4,sector-assisted
+INDV,2026-04-10,29.3,XPH,Pharma,5.4,4.3,XPH,5.4,8.6,sector-assisted
+INFQ,2025-11-25,30.3,,,,,,,2.6,unmapped
+INFQ,2026-03-16,33.8,,,,,,,4.1,unmapped
+INFQ,2026-05-07,20.2,,,,,,,0.8,unmapped
+INFQ,2026-07-16,34.4,,,,,,,3.6,unmapped
+INGM,2026-03-13,31.7,,,,,,,3.9,unmapped
+INNV,2025-11-05,29.1,,,,,,,1.0,unmapped
+INNV,2026-01-06,44.1,,,,,,,-0.8,unmapped
+INNV,2026-05-26,31.6,,,,,,,-2.1,unmapped
+INOD,2025-12-15,28.3,,,,,,,1.7,unmapped
+INOD,2026-03-30,21.6,,,,,,,12.7,unmapped
+INOD,2026-04-29,148.7,,,,,,,6.1,unmapped
+INOD,2026-09-01,20.4,,,,,,,0.4,unmapped
+INR,2025-11-06,32.3,,,,,,,2.3,unmapped
+INSM,2026-07-29,20.6,BBH,Biotech (VanEck),16.3,2.7,BBH,16.3,5.0,sector-driven
+INSP,2026-08-17,30.4,XHE,Healthcare Equipment,-3.4,8.3,XHE,-3.4,-2.0,solo
+INSW,2026-01-05,30.4,,,,,,,0.3,unmapped
+INSW,2026-02-05,23.5,,,,,,,-0.8,unmapped
+INTA,2026-02-23,33.2,XSW,Software,5.7,-21.2,XSW,5.7,-3.7,sector-assisted
+INTA,2026-06-17,32.2,XSW,Software,9.3,1.7,XSW,9.3,0.6,sector-driven
+INTA,2026-09-25,32.9,XSW,Software,10.1,-7.0,XSW,10.1,-1.5,sector-driven
+INTC,2025-12-16,29.5,SMH,Semiconductors,13.0,3.4,SMH,13.0,2.3,sector-driven
+INTC,2026-03-12,37.9,SMH,Semiconductors,12.6,-6.4,XSD,14.0,2.3,sector-driven
+INTC,2026-08-21,35.2,SMH,Semiconductors,6.4,-0.1,XLK,6.4,1.3,sector-assisted
+INTR,2026-09-09,31.0,,,,,,,2.2,unmapped
+INTU,2026-02-23,27.1,XLK,Tech (broad),-1.0,-4.5,FINX,7.3,-3.7,solo
+INTU,2026-09-28,26.2,XLK,Tech (broad),-4.2,4.9,XSW,12.1,-0.0,solo
+INV,2025-11-14,58.0,,,,,,,1.3,unmapped
+INV,2026-02-25,33.9,,,,,,,-5.0,unmapped
+INVX,2026-07-07,31.5,OIH,Oil Services,7.1,-11.7,OIH,7.1,3.2,sector-assisted
+IONQ,2025-11-21,29.1,XSD,Semiconductors (equal-wt),12.7,-14.5,XSD,12.7,4.3,sector-driven
+IONQ,2026-03-18,38.0,XSD,Semiconductors (equal-wt),23.0,-8.6,XSD,23.0,6.4,sector-driven
+IONQ,2026-07-17,33.0,XSD,Semiconductors (equal-wt),8.8,-15.7,XSD,8.8,4.5,sector-driven
+IOT,2026-02-05,45.8,XSW,Software,5.5,-22.5,XSW,5.5,-0.8,sector-assisted
+IOT,2026-05-06,21.7,XSW,Software,9.8,10.7,XSW,9.8,3.2,sector-driven
+IOT,2026-07-23,23.8,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+IOVA,2025-12-02,27.9,XBI,Biotech,3.3,7.9,XBI,3.3,0.4,sector-assisted
+IOVA,2026-01-26,30.8,XBI,Biotech,1.0,1.2,XBI,1.0,-0.8,solo
+IOVA,2026-04-29,29.9,XBI,Biotech,5.5,0.9,XBI,5.5,6.1,sector-assisted
+IOVA,2026-06-22,35.0,XBI,Biotech,5.9,10.0,XBI,5.9,0.5,sector-assisted
+IOVA,2026-07-29,77.2,XBI,Biotech,13.8,-6.5,XBI,13.8,5.0,sector-driven
+IPAR,2026-06-03,35.2,,,,,,,-1.0,unmapped
+IPGP,2026-01-07,29.5,,,,,,,-1.7,unmapped
+IPGP,2026-05-05,33.9,,,,,,,4.2,unmapped
+IPI,2025-12-16,31.2,,,,,,,2.3,unmapped
+IPI,2026-02-12,41.1,,,,,,,-2.8,unmapped
+IPX,2025-12-15,46.4,REMX,Rare Earth,31.7,0.6,REMX,31.7,1.7,sector-driven
+IPX,2026-03-19,30.0,REMX,Rare Earth,22.5,-7.9,REMX,22.5,8.0,sector-driven
+IRD,2025-11-12,27.1,,,,,,,0.9,unmapped
+IRD,2025-12-24,37.7,,,,,,,0.3,unmapped
+IRD,2026-02-02,83.2,,,,,,,-2.2,unmapped
+IRD,2026-07-22,33.4,,,,,,,2.9,unmapped
+IRD,2026-08-26,28.2,,,,,,,0.4,unmapped
+IRDM,2026-02-11,34.2,,,,,,,-3.8,unmapped
+IRDM,2026-03-16,44.5,,,,,,,4.1,unmapped
+IREN,2025-12-12,32.0,,,,,,,2.1,unmapped
+IREN,2026-03-26,35.2,,,,,,,10.7,unmapped
+IREN,2026-05-19,21.7,,,,,,,1.0,unmapped
+IREN,2026-07-17,31.1,,,,,,,4.5,unmapped
+IRON,2026-10-01,30.2,XBI,Biotech,2.1,-6.6,XBI,2.1,0.7,solo
+IRWD,2025-12-17,33.5,XBI,Biotech,3.0,5.0,XBI,3.0,3.4,sector-assisted
+IRWD,2026-03-17,34.5,XBI,Biotech,9.9,-0.4,XBI,9.9,4.7,sector-driven
+IRWD,2026-06-02,25.6,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+IT,2026-07-07,32.0,XLK,Tech (broad),4.3,-0.5,XSW,7.9,3.2,sector-assisted
+IT,2026-09-24,30.7,XLK,Tech (broad),-6.4,6.6,XSW,7.3,-0.4,solo
+ITGR,2026-07-06,33.2,XHE,Healthcare Equipment,4.7,9.4,XHE,4.7,0.9,sector-assisted
+ITUB,2026-01-13,31.1,,,,,,,-0.3,unmapped
+IVA,2025-12-17,48.6,,,,,,,3.4,unmapped
+IVA,2026-06-17,30.9,,,,,,,0.6,unmapped
+JACK,2025-11-11,34.2,,,,,,,0.7,unmapped
+JACK,2026-03-27,36.1,,,,,,,12.9,unmapped
+JACK,2026-05-29,33.3,,,,,,,-1.8,unmapped
+JACK,2026-07-23,20.6,,,,,,,3.3,unmapped
+JBIO,2026-03-11,30.0,XBI,Biotech,4.3,0.8,XBI,4.3,0.8,sector-assisted
+JBIO,2026-06-05,32.5,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+JBL,2026-03-20,30.2,XLK,Tech (broad),14.4,-4.0,XLK,14.4,9.3,sector-driven
+JBLU,2026-01-12,22.9,JETS,Airlines,5.6,4.4,JETS,5.6,-0.4,sector-assisted
+JBLU,2026-03-16,31.5,JETS,Airlines,9.6,-16.3,JETS,9.6,4.1,sector-driven
+JBLU,2026-06-10,24.9,JETS,Airlines,17.8,3.7,JETS,17.8,4.4,sector-driven
+JHX,2026-05-15,30.6,,,,,,,2.1,unmapped
+JMIA,2025-11-20,35.9,,,,,,,4.7,unmapped
+JOBY,2026-04-10,30.3,,,,,,,8.6,unmapped
+KALU,2026-03-19,32.5,XME,Metals & Mining,11.9,-10.3,XME,11.9,8.0,sector-driven
+KARO,2026-06-16,38.2,,,,,,,0.3,unmapped
+KC,2025-12-26,35.2,,,,,,,0.8,unmapped
+KC,2026-03-17,28.7,,,,,,,4.7,unmapped
+KC,2026-07-06,30.3,,,,,,,0.9,unmapped
+KD,2026-09-25,27.2,XSW,Software,10.1,-7.0,XSW,10.1,-1.5,sector-driven
+KDK,2025-11-17,31.5,,,,,,,2.0,unmapped
+KDK,2026-03-19,35.0,,,,,,,8.0,unmapped
+KEEL,2025-12-17,27.2,XSW,Software,-3.7,4.3,XSW,-3.7,3.4,solo
+KEEL,2026-03-20,32.7,XSW,Software,5.7,-1.4,XSW,5.7,9.3,sector-assisted
+KELYA,2026-06-22,39.4,,,,,,,0.5,unmapped
+KEP,2025-12-19,37.6,,,,,,,0.7,unmapped
+KEYS,2026-01-26,40.6,XLK,Tech (broad),-4.0,-0.2,XLK,-4.0,-0.8,solo
+KFRC,2026-03-31,59.8,,,,,,,9.5,unmapped
+KFRC,2026-06-22,30.8,,,,,,,0.5,unmapped
+KGC,2025-12-18,30.6,GDX,Gold Miners,20.9,12.2,GDX,20.9,0.5,sector-driven
+KGC,2026-03-20,30.7,GDX,Gold Miners,23.7,-24.6,GDX,23.7,9.3,sector-driven
+KGC,2026-07-23,32.8,GDX,Gold Miners,33.1,0.6,GDX,33.1,3.3,sector-driven
+KGS,2026-01-07,31.7,,,,,,,-1.7,unmapped
+KIDS,2026-07-17,29.1,XHE,Healthcare Equipment,8.8,9.3,XHE,8.8,4.5,sector-driven
+KIDS,2026-09-30,38.3,XHE,Healthcare Equipment,3.7,-3.5,XHE,3.7,1.3,sector-assisted
+KLAC,2025-12-17,33.8,SMH,Semiconductors,18.4,1.8,SMH,18.4,3.4,sector-driven
+KLAC,2026-03-26,33.3,SMH,Semiconductors,33.0,-7.6,SMH,33.0,10.7,sector-driven
+KLAC,2026-05-13,30.4,SMH,Semiconductors,6.5,26.4,SMH,6.5,-0.6,sector-assisted
+KLAR,2026-04-30,31.4,FINX,Fintech,4.0,10.3,FINX,4.0,5.3,sector-assisted
+KLC,2026-03-13,53.3,,,,,,,3.9,unmapped
+KLC,2026-06-08,28.1,,,,,,,1.1,unmapped
+KLIC,2025-11-13,27.8,,,,,,,1.5,unmapped
+KLIC,2025-12-31,25.8,,,,,,,1.5,unmapped
+KLIC,2026-03-20,30.6,,,,,,,9.3,unmapped
+KMPR,2026-10-05,35.9,KIE,Insurance,8.9,-6.5,KIE,8.9,-2.9,sector-driven
+KMT,2026-01-07,31.2,,,,,,,-1.7,unmapped
+KMTS,2026-06-01,26.0,XHE,Healthcare Equipment,7.0,-3.6,XHE,7.0,-1.3,sector-assisted
+KMTS,2026-07-22,33.6,XHE,Healthcare Equipment,13.8,4.7,XHE,13.8,2.9,sector-driven
+KMX,2026-05-13,39.1,XRT,Retail,10.0,-4.9,XRT,10.0,-0.6,sector-driven
+KNF,2026-01-27,29.1,,,,,,,-0.3,unmapped
+KNSA,2026-04-16,29.2,,,,,,,6.7,unmapped
+KNSA,2026-06-01,32.0,,,,,,,-1.3,unmapped
+KNX,2026-05-11,29.8,,,,,,,-0.3,unmapped
+KOD,2025-11-18,40.3,XBI,Biotech,5.0,5.2,XBI,5.0,1.7,sector-assisted
+KOD,2026-02-26,42.1,XBI,Biotech,-3.0,1.4,XBI,-3.0,-6.2,solo
+KOD,2026-06-08,37.2,XBI,Biotech,27.0,-4.7,XBI,27.0,1.1,sector-driven
+KOD,2026-08-28,138.4,XBI,Biotech,-3.6,10.5,XBI,-3.6,-0.2,solo
+KODK,2025-11-20,22.3,,,,,,,4.7,unmapped
+KODK,2026-03-02,24.3,,,,,,,-7.7,unmapped
+KODK,2026-07-17,30.5,,,,,,,4.5,unmapped
+KOLD,2025-11-19,34.8,,,,,,,2.1,unmapped
+KOLD,2026-01-29,31.7,,,,,,,-1.2,unmapped
+KOLD,2026-03-11,35.6,,,,,,,0.8,unmapped
+KOLD,2026-06-26,34.0,,,,,,,1.4,unmapped
+KOPN,2025-12-17,44.1,XSD,Semiconductors (equal-wt),13.4,5.9,XSD,13.4,3.4,sector-driven
+KOPN,2026-03-13,34.6,XSD,Semiconductors (equal-wt),16.4,-8.9,XSD,16.4,3.9,sector-driven
+KOPN,2026-07-14,38.3,XSD,Semiconductors (equal-wt),-3.1,-9.6,XSD,-3.1,2.5,solo
+KPTI,2025-11-24,33.8,,,,,,,3.2,unmapped
+KPTI,2026-01-15,28.8,,,,,,,-1.5,unmapped
+KPTI,2026-03-23,37.7,,,,,,,7.5,unmapped
+KPTI,2026-05-18,27.5,,,,,,,1.6,unmapped
+KRMN,2025-11-21,31.3,XAR,Aerospace & Defense (SPDR),13.6,-12.0,XAR,13.6,4.3,sector-driven
+KRMN,2026-02-11,24.5,XAR,Aerospace & Defense (SPDR),0.7,-5.2,XAR,0.7,-3.8,solo
+KRMN,2026-07-13,37.7,XAR,Aerospace & Defense (SPDR),9.1,-7.1,XAR,9.1,3.2,sector-driven
+KRMN,2026-10-01,30.7,XAR,Aerospace & Defense (SPDR),1.6,-7.4,XAR,1.6,0.7,solo
+KRNT,2026-01-27,20.8,,,,,,,-0.3,unmapped
+KRO,2026-03-11,29.1,,,,,,,0.8,unmapped
+KRO,2026-07-09,39.5,,,,,,,2.2,unmapped
+KROS,2025-11-06,34.1,,,,,,,2.3,unmapped
+KRT,2026-03-10,31.3,,,,,,,0.1,unmapped
+KRT,2026-06-17,30.2,,,,,,,0.6,unmapped
+KRUS,2025-12-12,39.6,,,,,,,2.1,unmapped
+KRUS,2026-06-03,30.5,,,,,,,-1.0,unmapped
+KSS,2026-03-30,21.4,XRT,Retail,7.9,-8.9,XRT,7.9,12.7,sector-assisted
+KSS,2026-05-13,43.4,XRT,Retail,10.0,-4.9,XRT,10.0,-0.6,sector-driven
+KSS,2026-09-17,34.2,XRT,Retail,6.3,-6.8,XRT,6.3,1.5,sector-assisted
+KTB,2026-05-15,28.3,,,,,,,2.1,unmapped
+KTOS,2025-12-09,35.1,XAR,Aerospace & Defense (SPDR),16.3,-2.5,XAR,16.3,1.3,sector-driven
+KTOS,2026-07-13,32.9,XAR,Aerospace & Defense (SPDR),9.1,-7.1,XAR,9.1,3.2,sector-driven
+KURA,2026-06-05,37.2,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+KURA,2026-07-28,46.0,XBI,Biotech,12.9,-5.4,XBI,12.9,3.4,sector-driven
+KVYO,2026-06-17,31.3,XSW,Software,9.3,1.7,XSW,9.3,0.6,sector-driven
+KVYO,2026-09-25,33.6,XSW,Software,10.1,-7.0,XSW,10.1,-1.5,sector-driven
+KYIV,2025-11-14,29.8,,,,,,,1.3,unmapped
+KYIV,2026-03-30,24.4,,,,,,,12.7,unmapped
+KYMR,2025-11-07,60.8,XBI,Biotech,13.6,3.8,XBI,13.6,1.9,sector-driven
+KYMR,2026-01-28,33.5,XBI,Biotech,1.4,2.1,XBI,1.4,-0.9,solo
+KYMR,2026-05-27,42.5,XBI,Biotech,12.9,2.5,XBI,12.9,-1.9,sector-driven
+KYTX,2025-11-13,35.5,,,,,,,1.5,unmapped
+KYTX,2025-12-17,21.0,,,,,,,3.4,unmapped
+KYTX,2026-03-20,41.7,,,,,,,9.3,unmapped
+LAC,2025-12-17,29.3,REMX,Rare Earth,26.8,-0.0,REMX,26.8,3.4,sector-driven
+LAC,2026-03-20,34.2,REMX,Rare Earth,30.4,-11.1,REMX,30.4,9.3,sector-driven
+LAD,2026-06-30,47.2,XRT,Retail,4.2,5.6,XRT,4.2,-2.3,sector-assisted
+LAES,2026-04-07,37.3,,,,,,,9.8,unmapped
+LAR,2025-12-15,74.2,REMX,Rare Earth,31.7,0.6,REMX,31.7,1.7,sector-driven
+LAR,2026-03-18,50.0,REMX,Rare Earth,18.9,-5.2,REMX,18.9,6.4,sector-driven
+LASR,2025-11-18,21.2,,,,,,,1.7,unmapped
+LASR,2026-01-05,31.2,,,,,,,0.3,unmapped
+LASR,2026-03-30,21.8,,,,,,,12.7,unmapped
+LASR,2026-07-07,30.8,,,,,,,3.2,unmapped
+LB,2026-01-06,21.8,,,,,,,-0.8,unmapped
+LB,2026-06-25,25.3,,,,,,,0.6,unmapped
+LBRT,2025-12-30,35.6,OIH,Oil Services,22.0,-0.4,OIH,22.0,1.0,sector-driven
+LBRX,2025-11-07,46.6,XPH,Pharma,17.0,2.1,XPH,17.0,1.9,sector-driven
+LBRX,2026-03-20,34.6,XPH,Pharma,12.1,-7.6,XPH,12.1,9.3,sector-driven
+LBRX,2026-07-17,52.1,XPH,Pharma,3.5,13.3,XPH,3.5,4.5,sector-assisted
+LCID,2026-06-16,28.7,,,,,,,0.3,unmapped
+LDOS,2026-07-13,30.5,XLI,Industrials,2.4,3.3,XLI,2.4,3.2,solo
+LE,2025-12-24,32.6,,,,,,,0.3,unmapped
+LEGN,2026-03-20,44.0,,,,,,,9.3,unmapped
+LEGN,2026-05-18,23.7,,,,,,,1.6,unmapped
+LENZ,2025-11-05,29.9,,,,,,,1.0,unmapped
+LEU,2025-12-15,34.5,XME,Metals & Mining,22.1,9.8,XME,22.1,1.7,sector-driven
+LEU,2026-03-30,22.0,XME,Metals & Mining,13.2,-15.2,XME,13.2,12.7,sector-driven
+LEU,2026-07-16,30.4,XME,Metals & Mining,16.5,-17.0,XME,16.5,3.6,sector-driven
+LFMD,2026-02-10,33.1,,,,,,,-2.3,unmapped
+LFMD,2026-04-07,49.6,,,,,,,9.8,unmapped
+LFST,2026-04-09,36.4,,,,,,,7.6,unmapped
+LFST,2026-05-28,31.6,,,,,,,-3.2,unmapped
+LGIH,2026-01-02,20.4,XHB,Homebuilders,4.4,-4.5,XHB,4.4,1.8,sector-assisted
+LGIH,2026-03-20,34.8,XHB,Homebuilders,14.0,-19.2,XHB,14.0,9.3,sector-driven
+LGIH,2026-05-15,32.4,XHB,Homebuilders,12.6,-10.3,XHB,12.6,2.1,sector-driven
+LGN,2026-03-19,43.3,,,,,,,8.0,unmapped
+LGND,2026-05-29,35.4,XPH,Pharma,14.1,1.1,XPH,14.1,-1.8,sector-driven
+LIF,2026-05-29,35.5,XSW,Software,-3.9,17.2,XSW,-3.9,-1.8,solo
+LILA,2026-05-29,33.5,,,,,,,-1.8,unmapped
+LILAK,2026-05-29,35.5,,,,,,,-1.8,unmapped
+LINC,2026-01-26,35.2,,,,,,,-0.8,unmapped
+LINC,2026-04-24,23.8,,,,,,,4.5,unmapped
+LIND,2026-01-23,25.8,,,,,,,-1.0,unmapped
+LIND,2026-04-29,30.1,,,,,,,6.1,unmapped
+LIND,2026-06-03,20.6,,,,,,,-1.0,unmapped
+LIND,2026-07-15,30.6,,,,,,,2.3,unmapped
+LIND,2026-09-02,32.5,,,,,,,0.1,unmapped
+LION,2025-12-04,25.5,,,,,,,0.8,unmapped
+LION,2026-02-12,22.0,,,,,,,-2.8,unmapped
+LION,2026-03-20,35.0,,,,,,,9.3,unmapped
+LION,2026-05-18,30.3,,,,,,,1.6,unmapped
+LITE,2026-01-08,58.5,XLK,Tech (broad),-2.2,-2.4,XLK,-2.2,0.2,solo
+LITE,2026-03-12,45.6,XLK,Tech (broad),3.6,-3.6,XLK,3.6,2.3,sector-assisted
+LITE,2026-07-16,24.7,XLK,Tech (broad),7.5,-4.7,XLK,7.5,3.6,sector-assisted
+LIVN,2026-05-05,23.9,XHE,Healthcare Equipment,-2.7,3.0,XHE,-2.7,4.2,solo
+LLY,2026-04-29,32.4,XLV,Healthcare,5.7,-2.6,XLV,5.7,6.1,sector-assisted
+LMAT,2026-01-28,33.7,XHE,Healthcare Equipment,2.9,-2.8,XHE,2.9,-0.9,solo
+LMB,2026-03-20,40.2,,,,,,,9.3,unmapped
+LMND,2025-12-29,29.1,KIE,Insurance,-4.9,1.7,KIE,-4.9,1.1,solo
+LMND,2026-02-23,32.4,KIE,Insurance,-2.7,-2.3,KIE,-2.7,-3.7,solo
+LMND,2026-06-03,35.8,KIE,Insurance,18.7,-4.1,KIE,18.7,-1.0,sector-driven
+LMRI,2026-01-30,29.6,,,,,,,-0.8,unmapped
+LMRI,2026-05-14,33.7,,,,,,,-0.9,unmapped
+LMT,2025-12-31,31.1,XAR,Aerospace & Defense (SPDR),13.2,6.9,XAR,13.2,1.5,sector-driven
+LNG,2026-02-24,33.3,,,,,,,-4.7,unmapped
+LOCO,2026-02-17,30.3,,,,,,,-1.8,unmapped
+LODE,2025-11-04,26.1,,,,,,,1.3,unmapped
+LODE,2026-02-05,38.0,,,,,,,-0.8,unmapped
+LODE,2026-05-05,23.3,,,,,,,4.2,unmapped
+LODE,2026-07-29,28.7,,,,,,,5.0,unmapped
+LOVE,2026-03-09,36.9,,,,,,,-2.6,unmapped
+LOVE,2026-06-16,31.0,,,,,,,0.3,unmapped
+LPG,2026-04-22,32.0,,,,,,,4.2,unmapped
+LPG,2026-06-30,31.4,,,,,,,-2.3,unmapped
+LPL,2026-01-28,40.6,,,,,,,-0.9,unmapped
+LPL,2026-03-24,31.6,,,,,,,8.9,unmapped
+LPL,2026-04-29,22.1,,,,,,,6.1,unmapped
+LPTH,2025-11-13,21.6,,,,,,,1.5,unmapped
+LPTH,2025-12-16,79.7,,,,,,,2.3,unmapped
+LPTH,2026-02-04,20.5,,,,,,,-0.7,unmapped
+LPTH,2026-03-13,37.1,,,,,,,3.9,unmapped
+LPTH,2026-05-04,30.4,,,,,,,5.8,unmapped
+LPTH,2026-07-16,24.6,,,,,,,3.6,unmapped
+LQDA,2026-01-02,40.8,XPH,Pharma,3.3,2.3,XPH,3.3,1.8,sector-assisted
+LQDA,2026-04-13,36.8,XPH,Pharma,3.2,6.4,XPH,3.2,7.8,sector-assisted
+LQDA,2026-09-30,51.1,XPH,Pharma,-0.7,-7.2,XPH,-0.7,1.3,solo
+LQDT,2025-11-04,30.5,,,,,,,1.3,unmapped
+LRCX,2025-12-05,30.4,SMH,Semiconductors,6.7,3.8,SMH,6.7,1.2,sector-assisted
+LRCX,2026-03-30,25.7,SMH,Semiconductors,35.5,-10.8,SMH,35.5,12.7,sector-driven
+LRCX,2026-05-15,36.6,SMH,Semiconductors,16.3,19.9,SMH,16.3,2.1,sector-driven
+LRCX,2026-07-29,24.0,SMH,Semiconductors,10.2,-23.1,SMH,10.2,5.0,sector-driven
+LRMR,2026-01-27,62.1,,,,,,,-0.3,unmapped
+LRMR,2026-07-06,21.0,,,,,,,0.9,unmapped
+LRN,2025-12-31,30.3,,,,,,,1.5,unmapped
+LSCC,2026-01-30,25.1,XSD,Semiconductors (equal-wt),2.7,7.8,XSD,2.7,-0.8,solo
+LSCC,2026-03-20,34.1,XSD,Semiconductors (equal-wt),31.4,-9.6,XSD,31.4,9.3,sector-driven
+LSTR,2026-05-14,33.5,,,,,,,-0.9,unmapped
+LTBR,2025-12-17,35.0,,,,,,,3.4,unmapped
+LTBR,2026-03-30,27.3,,,,,,,12.7,unmapped
+LTBR,2026-07-16,21.1,,,,,,,3.6,unmapped
+LTRX,2025-11-13,28.2,,,,,,,1.5,unmapped
+LTRX,2026-03-30,27.0,,,,,,,12.7,unmapped
+LTRX,2026-08-28,34.5,,,,,,,-0.2,unmapped
+LULU,2025-11-20,27.2,XLY,Consumer Discretionary,10.3,-7.3,XLY,10.3,4.7,sector-driven
+LUMN,2026-03-18,29.7,,,,,,,6.4,unmapped
+LUNR,2025-11-12,34.4,XAR,Aerospace & Defense (SPDR),1.9,-2.9,XAR,1.9,0.9,solo
+LUNR,2026-03-05,35.8,XAR,Aerospace & Defense (SPDR),-6.9,5.2,XAR,-6.9,-3.5,solo
+LUNR,2026-05-01,49.1,XAR,Aerospace & Defense (SPDR),9.2,-1.2,XAR,9.2,5.3,sector-driven
+LUNR,2026-07-16,30.7,XAR,Aerospace & Defense (SPDR),12.8,-8.1,XAR,12.8,3.6,sector-driven
+LUV,2025-11-17,32.4,XLI,Industrials,3.7,-2.0,JETS,20.0,2.0,sector-assisted
+LUV,2026-01-23,21.3,XLI,Industrials,6.5,4.6,XLI,6.5,-1.0,sector-assisted
+LW,2026-09-30,28.3,,,,,,,1.3,unmapped
+LWAY,2026-03-18,36.9,,,,,,,6.4,unmapped
+LWAY,2026-06-02,30.4,,,,,,,-1.6,unmapped
+LWLG,2025-12-16,53.0,,,,,,,2.3,unmapped
+LWLG,2026-01-30,53.0,,,,,,,-0.8,unmapped
+LWLG,2026-07-17,21.5,,,,,,,4.5,unmapped
+LXU,2026-02-02,30.5,,,,,,,-2.2,unmapped
+LYB,2026-02-17,27.2,XLB,Materials,-6.1,8.4,XLB,-6.1,-1.8,solo
+LYTS,2026-04-02,29.1,,,,,,,9.9,unmapped
+LZ,2026-06-08,29.8,,,,,,,1.1,unmapped
+LZ,2026-09-28,29.5,,,,,,,-0.0,unmapped
+LZB,2025-11-13,29.2,,,,,,,1.5,unmapped
+M,2026-05-13,35.9,XRT,Retail,10.0,-4.9,XRT,10.0,-0.6,sector-driven
+MAMA,2025-11-10,36.5,,,,,,,0.2,unmapped
+MAMA,2026-05-26,33.6,,,,,,,-2.1,unmapped
+MAN,2026-05-13,30.4,,,,,,,-0.6,unmapped
+MAN,2026-06-22,65.0,,,,,,,0.5,unmapped
+MANH,2026-06-30,46.5,XSW,Software,6.3,-8.4,XSW,6.3,-2.3,sector-assisted
+MARA,2026-02-12,28.6,XSW,Software,0.6,-20.1,XSW,0.6,-2.8,solo
+MARA,2026-03-20,37.5,XSW,Software,5.7,-1.4,XSW,5.7,9.3,sector-assisted
+MARA,2026-08-13,30.1,XSW,Software,-4.3,14.1,XSW,-4.3,-1.8,solo
+MASS,2025-12-29,23.1,,,,,,,1.1,unmapped
+MASS,2026-04-29,37.4,,,,,,,6.1,unmapped
+MASS,2026-07-16,36.4,,,,,,,3.6,unmapped
+MASS,2026-09-09,21.6,,,,,,,2.2,unmapped
+MAT,2026-09-17,30.1,,,,,,,1.5,unmapped
+MATV,2026-07-09,51.7,,,,,,,2.2,unmapped
+MATX,2026-01-02,34.0,,,,,,,1.8,unmapped
+MAX,2026-02-11,27.0,,,,,,,-3.8,unmapped
+MAX,2026-05-28,33.6,,,,,,,-3.2,unmapped
+MAX,2026-09-24,31.3,,,,,,,-0.4,unmapped
+MAZE,2025-11-05,40.7,XPH,Pharma,11.7,0.4,XPH,11.7,1.0,sector-driven
+MAZE,2026-06-05,35.3,XPH,Pharma,22.6,-4.5,XPH,22.6,1.6,sector-driven
+MAZE,2026-09-21,32.6,XPH,Pharma,-7.8,-7.2,XPH,-7.8,-0.9,solo
+MBC,2026-05-13,31.5,,,,,,,-0.6,unmapped
+MBIN,2026-01-12,33.0,,,,,,,-0.4,unmapped
+MBLY,2026-03-26,35.3,,,,,,,10.7,unmapped
+MBX,2025-12-16,47.4,XPH,Pharma,0.7,8.5,XPH,0.7,2.3,solo
+MBX,2026-05-19,36.9,XPH,Pharma,8.6,-3.5,XPH,8.6,1.0,sector-driven
+MCHP,2025-11-17,27.5,SMH,Semiconductors,3.4,-2.0,XSD,7.1,2.0,sector-assisted
+MCHP,2026-03-25,39.1,SMH,Semiconductors,20.8,-6.4,XSD,32.6,7.9,sector-driven
+MCHPP,2025-11-20,24.0,,,,,,,4.7,unmapped
+MCHPP,2026-03-25,33.9,,,,,,,7.9,unmapped
+MCS,2026-05-19,33.4,,,,,,,1.0,unmapped
+MCS,2026-07-07,41.8,,,,,,,3.2,unmapped
+MDA,2025-12-18,52.6,,,,,,,0.5,unmapped
+MDA,2026-03-26,21.4,,,,,,,10.7,unmapped
+MDA,2026-05-04,38.9,,,,,,,5.8,unmapped
+MDB,2025-11-20,30.9,,,,,,,4.7,unmapped
+MDB,2026-04-10,32.5,,,,,,,8.6,unmapped
+MDB,2026-07-15,31.5,,,,,,,2.3,unmapped
+MEC,2026-05-21,50.1,,,,,,,0.5,unmapped
+MEI,2025-11-04,31.5,,,,,,,1.3,unmapped
+MEI,2026-01-09,28.7,,,,,,,-0.0,unmapped
+MEI,2026-03-12,30.2,,,,,,,2.3,unmapped
+MEI,2026-06-11,38.5,,,,,,,1.8,unmapped
+MEI,2026-07-29,32.0,,,,,,,5.0,unmapped
+MEOH,2026-03-06,23.6,,,,,,,-1.7,unmapped
+MEOH,2026-07-01,24.2,,,,,,,-0.5,unmapped
+MESO,2025-11-20,36.0,,,,,,,4.7,unmapped
+MESO,2026-06-15,32.6,,,,,,,0.3,unmapped
+META,2026-03-27,29.1,XLC,Comm Services,8.2,-9.1,AIQ,21.8,12.9,sector-driven
+META,2026-08-21,34.8,XLC,Comm Services,3.3,4.8,ARKK,5.2,1.3,sector-assisted
+METC,2025-12-11,35.4,XME,Metals & Mining,15.1,8.9,XME,15.1,1.2,sector-driven
+METC,2026-07-28,32.5,XME,Metals & Mining,19.2,-4.8,XME,19.2,3.4,sector-driven
+MG,2026-07-29,25.3,,,,,,,5.0,unmapped
+MGA,2026-01-28,22.6,,,,,,,-0.9,unmapped
+MGM,2026-05-01,31.7,XLY,Consumer Discretionary,-0.4,9.7,XLY,-0.4,5.3,solo
+MGNI,2026-05-14,30.8,,,,,,,-0.9,unmapped
+MGNI,2026-07-17,30.2,,,,,,,4.5,unmapped
+MGNX,2025-12-08,36.1,,,,,,,1.2,unmapped
+MGNX,2026-02-05,31.2,,,,,,,-0.8,unmapped
+MGNX,2026-04-23,33.3,,,,,,,4.9,unmapped
+MGTX,2026-03-05,31.3,,,,,,,-3.5,unmapped
+MGTX,2026-06-01,37.9,,,,,,,-1.3,unmapped
+MH,2026-07-16,38.9,,,,,,,3.6,unmapped
+MIDD,2025-11-18,27.0,,,,,,,1.7,unmapped
+MIR,2026-10-01,30.1,,,,,,,0.7,unmapped
+MIRM,2025-12-10,33.9,XBI,Biotech,2.4,7.1,XBI,2.4,1.2,solo
+MIRM,2026-06-02,30.7,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+MITK,2026-01-15,32.8,XSW,Software,-17.3,-2.9,XSW,-17.3,-1.5,solo
+MITK,2026-05-14,21.2,XSW,Software,6.1,3.5,XSW,6.1,-0.9,sector-assisted
+MKSI,2025-12-17,37.2,,,,,,,3.4,unmapped
+MKSI,2026-03-30,27.3,,,,,,,12.7,unmapped
+MKTX,2026-07-01,42.2,,,,,,,-0.5,unmapped
+MLAB,2026-03-20,31.1,,,,,,,9.3,unmapped
+MLKN,2025-11-19,34.9,,,,,,,2.1,unmapped
+MLKN,2026-06-01,33.0,,,,,,,-1.3,unmapped
+MLTX,2025-11-04,31.8,,,,,,,1.3,unmapped
+MLTX,2025-12-17,20.1,,,,,,,3.4,unmapped
+MLYS,2026-03-19,31.4,XBI,Biotech,13.4,-3.5,XBI,13.4,8.0,sector-driven
+MLYS,2026-06-08,35.1,XBI,Biotech,27.0,-4.7,XBI,27.0,1.1,sector-driven
+MMYT,2026-03-27,30.1,,,,,,,12.9,unmapped
+MMYT,2026-06-03,31.3,,,,,,,-1.0,unmapped
+MNDY,2026-04-10,22.5,,,,,,,8.6,unmapped
+MNDY,2026-07-23,27.3,,,,,,,3.3,unmapped
+MNDY,2026-09-28,31.3,,,,,,,-0.0,unmapped
+MNKD,2026-04-08,36.4,XBI,Biotech,5.4,2.5,XBI,5.4,8.6,sector-assisted
+MNKD,2026-05-18,29.4,XBI,Biotech,6.0,-7.4,XBI,6.0,1.6,sector-assisted
+MNPR,2026-04-29,28.6,XBI,Biotech,5.5,0.9,XBI,5.5,6.1,sector-assisted
+MNPR,2026-06-03,61.5,XBI,Biotech,23.7,-3.0,XBI,23.7,-1.0,sector-driven
+MNTN,2026-02-04,31.3,,,,,,,-0.7,unmapped
+MNTN,2026-06-10,23.1,,,,,,,4.4,unmapped
+MNTN,2026-07-17,40.0,,,,,,,4.5,unmapped
+MNTS,2025-12-23,32.9,,,,,,,0.2,unmapped
+MNTS,2026-03-17,50.5,,,,,,,4.7,unmapped
+MNTS,2026-05-12,112.4,,,,,,,-1.7,unmapped
+MOD,2025-12-30,30.8,XHB,Homebuilders,6.2,-4.0,XHB,6.2,1.0,sector-assisted
+MOD,2026-03-13,36.3,XHB,Homebuilders,5.2,-15.7,XHB,5.2,3.9,sector-assisted
+MOH,2026-03-27,33.7,,,,,,,12.9,unmapped
+MOH,2026-05-29,32.2,,,,,,,-1.8,unmapped
+MOV,2026-05-04,41.5,,,,,,,5.8,unmapped
+MP,2025-12-15,30.1,XME,Metals & Mining,22.1,9.8,REMX,31.7,1.7,sector-driven
+MP,2026-03-20,30.9,XME,Metals & Mining,17.3,-13.4,REMX,30.4,9.3,sector-driven
+MP,2026-07-23,23.3,XME,Metals & Mining,11.2,-3.8,XME,11.2,3.3,sector-driven
+MPC,2026-08-07,30.4,XLE,Energy,11.5,4.4,XOP,14.7,-0.4,sector-driven
+MPLT,2025-11-24,37.4,,,,,,,3.2,unmapped
+MPLT,2026-03-11,55.0,,,,,,,0.8,unmapped
+MPLT,2026-06-02,32.0,,,,,,,-1.6,unmapped
+MPTI,2026-04-23,29.8,,,,,,,4.9,unmapped
+MPWR,2025-12-31,24.0,SMH,Semiconductors,12.0,0.5,SMH,12.0,1.5,sector-driven
+MPWR,2026-03-12,30.9,SMH,Semiconductors,12.6,-6.4,XSD,14.0,2.3,sector-driven
+MRAM,2025-12-05,39.1,XSD,Semiconductors (equal-wt),3.0,2.9,XSD,3.0,1.2,sector-assisted
+MRAM,2026-03-19,30.9,XSD,Semiconductors (equal-wt),25.2,-6.6,XSD,25.2,8.0,sector-driven
+MRAM,2026-07-20,37.6,XSD,Semiconductors (equal-wt),9.6,-21.2,XSD,9.6,4.1,sector-driven
+MRCY,2025-12-12,33.1,XAR,Aerospace & Defense (SPDR),19.0,4.2,XAR,19.0,2.1,sector-driven
+MRCY,2026-04-29,44.6,XAR,Aerospace & Defense (SPDR),16.0,-1.7,XAR,16.0,6.1,sector-driven
+MRLN,2026-03-12,30.7,,,,,,,2.3,unmapped
+MRNA,2025-11-20,51.2,BBH,Biotech (VanEck),1.3,6.8,XBI,8.5,4.7,solo
+MRNA,2026-02-11,31.8,BBH,Biotech (VanEck),-4.4,2.0,XBI,-1.6,-3.8,solo
+MRNA,2026-05-19,35.2,BBH,Biotech (VanEck),3.9,-5.1,XBI,9.9,1.0,sector-assisted
+MRNA,2026-07-22,200.3,BBH,Biotech (VanEck),21.3,5.4,BBH,21.3,2.9,sector-driven
+MRNA,2026-09-17,49.6,BBH,Biotech (VanEck),4.1,-3.0,XLV,5.4,1.5,sector-assisted
+MRVI,2025-11-04,22.3,,,,,,,1.3,unmapped
+MRVI,2026-03-31,23.0,,,,,,,9.5,unmapped
+MRVI,2026-07-28,31.2,,,,,,,3.4,unmapped
+MRVL,2026-03-04,36.7,SMH,Semiconductors,-1.8,0.4,SMH,-1.8,-4.1,solo
+MRVL,2026-07-27,21.2,SMH,Semiconductors,-0.3,-10.3,XLK,3.3,3.3,solo
+MRVL,2026-09-03,30.4,SMH,Semiconductors,14.1,-3.3,XSD,16.1,-0.2,sector-driven
+MRX,2026-03-09,30.4,,,,,,,-2.6,unmapped
+MRX,2026-06-02,27.9,,,,,,,-1.6,unmapped
+MRX,2026-08-11,26.3,,,,,,,-1.1,unmapped
+MSBI,2025-11-12,31.0,KRE,Regional Banks,9.8,-0.7,KRE,9.8,0.9,sector-driven
+MSFT,2026-07-09,30.0,XLK,Tech (broad),-0.0,2.7,XSW,6.2,2.2,solo
+MSTR,2026-02-05,24.8,XSW,Software,5.5,-22.5,XSW,5.5,-0.8,sector-assisted
+MSTR,2026-03-24,31.6,XSW,Software,9.0,-1.3,XSW,9.0,8.9,sector-driven
+MSTR,2026-07-24,30.1,XSW,Software,19.1,6.2,XSW,19.1,3.6,sector-driven
+MT,2026-01-09,32.2,SLX,Steel,13.6,6.3,SLX,13.6,-0.0,sector-driven
+MT,2026-03-20,30.7,SLX,Steel,18.9,-13.6,SLX,18.9,9.3,sector-driven
+MTA,2026-07-17,34.3,GDXJ,Junior Gold Miners,28.1,-16.0,GDXJ,28.1,4.5,sector-driven
+MTH,2026-05-29,29.2,XHB,Homebuilders,12.7,-3.2,XHB,12.7,-1.8,sector-driven
+MTRN,2026-03-19,34.4,XME,Metals & Mining,11.9,-10.3,XME,11.9,8.0,sector-driven
+MTRN,2026-05-19,36.0,XME,Metals & Mining,7.5,-6.2,XME,7.5,1.0,sector-assisted
+MTRN,2026-07-29,24.7,XME,Metals & Mining,23.3,-8.7,XME,23.3,5.0,sector-driven
+MTRN,2026-09-04,30.7,XME,Metals & Mining,-9.1,2.5,XME,-9.1,0.8,solo
+MTSI,2025-12-17,31.1,XSD,Semiconductors (equal-wt),13.4,5.9,XSD,13.4,3.4,sector-driven
+MTSI,2026-03-30,26.8,XSD,Semiconductors (equal-wt),45.1,-14.0,XSD,45.1,12.7,sector-driven
+MTSI,2026-09-14,27.9,XSD,Semiconductors (equal-wt),7.3,-12.8,XSD,7.3,2.5,sector-assisted
+MTW,2026-07-10,47.2,,,,,,,2.4,unmapped
+MU,2025-11-20,32.1,SMH,Semiconductors,9.6,-5.7,XSD,13.7,4.7,sector-driven
+MU,2026-03-26,39.7,SMH,Semiconductors,33.0,-7.6,XSD,45.9,10.7,sector-driven
+MU,2026-07-29,27.0,SMH,Semiconductors,10.2,-23.1,AIQ,12.7,5.0,sector-driven
+MUR,2026-02-26,30.9,XOP,Oil & Gas E&P,24.6,9.4,XOP,24.6,-6.2,sector-driven
+MUX,2025-12-29,53.9,XME,Metals & Mining,22.0,8.8,SIL,35.8,1.1,sector-driven
+MUX,2026-03-19,32.5,XME,Metals & Mining,11.9,-10.3,GDXJ,22.2,8.0,sector-driven
+MXL,2025-11-07,32.2,XSD,Semiconductors (equal-wt),5.3,3.5,XSD,5.3,1.9,sector-assisted
+MXL,2026-03-17,30.9,XSD,Semiconductors (equal-wt),18.4,-7.7,XSD,18.4,4.7,sector-driven
+MXL,2026-06-09,31.9,XSD,Semiconductors (equal-wt),-1.3,0.3,XSD,-1.3,2.3,solo
+MXL,2026-08-24,39.3,XSD,Semiconductors (equal-wt),11.0,-2.3,XSD,11.0,1.5,sector-driven
+MYE,2026-05-27,32.8,,,,,,,-1.9,unmapped
+MYGN,2026-05-15,20.7,XBI,Biotech,4.4,-5.8,XBI,4.4,2.1,sector-assisted
+MYGN,2026-08-18,34.5,XBI,Biotech,-3.7,3.6,XBI,-3.7,-1.8,solo
+MYRG,2026-04-01,39.9,,,,,,,9.7,unmapped
+NABL,2026-06-09,33.1,,,,,,,2.3,unmapped
+NABL,2026-08-11,22.2,,,,,,,-1.1,unmapped
+NAMS,2026-04-28,27.3,,,,,,,5.5,unmapped
+NAT,2026-02-06,32.2,,,,,,,-1.8,unmapped
+NAVN,2025-12-09,30.1,,,,,,,1.3,unmapped
+NAVN,2026-02-27,25.4,,,,,,,-7.4,unmapped
+NAVN,2026-04-02,52.9,,,,,,,9.9,unmapped
+NAVN,2026-06-12,29.5,,,,,,,1.6,unmapped
+NAVN,2026-07-23,28.5,,,,,,,3.3,unmapped
+NAVN,2026-09-23,35.4,,,,,,,0.7,unmapped
+NB,2025-12-17,25.2,,,,,,,3.4,unmapped
+NB,2026-03-19,40.7,,,,,,,8.0,unmapped
+NBIS,2025-12-15,25.7,,,,,,,1.7,unmapped
+NBIS,2026-02-05,20.9,,,,,,,-0.8,unmapped
+NBIS,2026-03-10,29.6,,,,,,,0.1,unmapped
+NBIS,2026-07-16,48.5,,,,,,,3.6,unmapped
+NBR,2026-04-01,29.3,OIH,Oil Services,13.1,3.4,OIH,13.1,9.7,sector-driven
+NBTX,2026-01-12,31.7,,,,,,,-0.4,unmapped
+NBTX,2026-04-08,35.9,,,,,,,8.6,unmapped
+NBTX,2026-10-02,21.8,,,,,,,-1.8,unmapped
+NCLH,2025-11-20,31.7,XLY,Consumer Discretionary,10.3,-7.3,XLY,10.3,4.7,sector-driven
+NCLH,2026-05-18,33.2,XLY,Consumer Discretionary,1.8,-3.0,XLY,1.8,1.6,solo
+NCNO,2026-03-27,25.6,XSW,Software,9.1,-8.2,XSW,9.1,12.9,sector-driven
+NCNO,2026-09-29,27.7,XSW,Software,11.8,-8.4,XSW,11.8,0.7,sector-driven
+NE,2026-01-07,28.0,OIH,Oil Services,15.3,2.6,OIH,15.3,-1.7,sector-driven
+NEM,2026-07-17,31.3,XLB,Materials,4.0,-2.5,GDX,26.1,4.5,sector-assisted
+NEO,2026-05-11,32.1,,,,,,,-0.3,unmapped
+NEOG,2025-11-19,34.1,MOO,Agribusiness,5.4,-4.1,XHE,8.5,2.1,sector-assisted
+NEOG,2026-07-08,23.1,MOO,Agribusiness,0.4,4.2,XHE,6.6,3.3,solo
+NEOV,2025-12-17,33.0,,,,,,,3.4,unmapped
+NEOV,2026-02-26,35.5,,,,,,,-6.2,unmapped
+NEOV,2026-05-20,23.0,,,,,,,1.0,unmapped
+NEOV,2026-07-17,72.0,,,,,,,4.5,unmapped
+NESR,2025-12-19,34.8,,,,,,,0.7,unmapped
+NESR,2026-07-27,24.4,,,,,,,3.3,unmapped
+NET,2026-02-23,37.7,HACK,Cybersecurity,10.5,-10.0,HACK,10.5,-3.7,sector-driven
+NET,2026-04-09,33.0,HACK,Cybersecurity,13.2,-4.6,HACK,13.2,7.6,sector-driven
+NET,2026-05-11,22.0,HACK,Cybersecurity,11.4,14.9,HACK,11.4,-0.3,sector-driven
+NET,2026-09-02,28.7,HACK,Cybersecurity,11.3,-4.6,HACK,11.3,0.1,sector-driven
+NEWP,2025-11-03,30.1,GDXJ,Junior Gold Miners,17.0,-10.4,GDXJ,17.0,-0.3,sector-driven
+NEWP,2026-01-27,33.9,GDXJ,Junior Gold Miners,0.3,21.2,GDXJ,0.3,-0.3,solo
+NEWP,2026-03-18,40.6,GDXJ,Junior Gold Miners,11.2,-13.2,GDXJ,11.2,6.4,sector-driven
+NEWP,2026-07-07,35.4,GDXJ,Junior Gold Miners,3.0,-1.7,GDXJ,3.0,3.2,sector-assisted
+NEXA,2025-11-04,32.3,,,,,,,1.3,unmapped
+NEXA,2026-03-17,31.3,,,,,,,4.7,unmapped
+NEXA,2026-07-29,28.1,,,,,,,5.0,unmapped
+NEXN,2026-02-05,30.9,,,,,,,-0.8,unmapped
+NEXT,2026-02-20,33.8,,,,,,,-5.7,unmapped
+NEXT,2026-04-17,33.3,,,,,,,4.1,unmapped
+NFE,2025-12-22,45.3,,,,,,,0.6,unmapped
+NFE,2026-04-06,36.3,,,,,,,9.0,unmapped
+NFLX,2026-02-12,25.6,XLC,Comm Services,-0.2,-1.7,XLC,-0.2,-2.8,solo
+NG,2025-11-04,28.8,GDXJ,Junior Gold Miners,22.6,-13.4,GDXJ,22.6,1.3,sector-driven
+NG,2026-01-30,62.7,GDXJ,Junior Gold Miners,24.9,9.1,GDXJ,24.9,-0.8,sector-driven
+NG,2026-03-19,38.5,GDXJ,Junior Gold Miners,22.2,-21.0,GDXJ,22.2,8.0,sector-driven
+NG,2026-07-13,30.8,GDXJ,Junior Gold Miners,24.5,-5.6,GDXJ,24.5,3.2,sector-driven
+NGL,2026-01-07,31.2,,,,,,,-1.7,unmapped
+NGL,2026-03-30,31.9,,,,,,,12.7,unmapped
+NGNE,2026-02-03,36.2,XBI,Biotech,-1.0,6.2,XBI,-1.0,-0.6,solo
+NGNE,2026-03-19,45.1,XBI,Biotech,13.4,-3.5,XBI,13.4,8.0,sector-driven
+NGNE,2026-06-03,34.8,XBI,Biotech,23.7,-3.0,XBI,23.7,-1.0,sector-driven
+NICE,2026-02-17,24.7,,,,,,,-1.8,unmapped
+NIO,2026-03-03,31.4,,,,,,,-4.2,unmapped
+NIQ,2025-11-03,25.5,,,,,,,-0.3,unmapped
+NIQ,2026-06-05,31.7,,,,,,,1.6,unmapped
+NIQ,2026-08-04,60.0,,,,,,,-1.2,unmapped
+NKTR,2026-01-12,44.4,XBI,Biotech,1.1,1.1,XBI,1.1,-0.4,solo
+NKTR,2026-03-20,39.0,XBI,Biotech,14.5,-3.6,XBI,14.5,9.3,sector-driven
+NKTR,2026-06-05,30.7,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+NMAX,2025-11-17,27.1,,,,,,,2.0,unmapped
+NMAX,2026-02-12,32.6,,,,,,,-2.8,unmapped
+NMAX,2026-05-04,53.0,,,,,,,5.8,unmapped
+NMAX,2026-07-20,26.5,,,,,,,4.1,unmapped
+NN,2025-11-06,34.3,XSW,Software,1.0,-6.0,XSW,1.0,2.3,solo
+NN,2026-04-07,24.8,XSW,Software,11.0,-7.2,XSW,11.0,9.8,sector-driven
+NN,2026-07-16,41.0,XSW,Software,14.1,7.2,XSW,14.1,3.6,sector-driven
+NNE,2025-12-29,30.8,,,,,,,1.1,unmapped
+NNE,2026-03-27,27.0,,,,,,,12.9,unmapped
+NNE,2026-05-04,31.1,,,,,,,5.8,unmapped
+NNE,2026-07-24,20.9,,,,,,,3.6,unmapped
+NOG,2026-07-27,32.4,XOP,Oil & Gas E&P,10.2,9.4,XOP,10.2,3.3,sector-driven
+NOK,2026-03-20,32.8,,,,,,,9.3,unmapped
+NOVT,2026-04-29,31.8,,,,,,,6.1,unmapped
+NOW,2026-04-30,40.8,XLK,Tech (broad),19.8,18.3,XLK,19.8,5.3,sector-driven
+NOW,2026-07-22,33.2,XLK,Tech (broad),1.9,-2.1,XSW,18.4,2.9,solo
+NP,2025-11-24,30.6,,,,,,,3.2,unmapped
+NP,2026-03-09,28.0,,,,,,,-2.6,unmapped
+NP,2026-06-02,35.8,,,,,,,-1.6,unmapped
+NPCE,2026-03-30,31.5,XHE,Healthcare Equipment,6.5,-13.0,XHE,6.5,12.7,sector-assisted
+NRDS,2026-09-23,29.0,,,,,,,0.7,unmapped
+NRGU,2025-12-31,34.5,,,,,,,1.5,unmapped
+NRGU,2026-04-17,33.0,,,,,,,4.1,unmapped
+NRGU,2026-06-17,31.5,,,,,,,0.6,unmapped
+NRGU,2026-08-05,56.4,,,,,,,-0.6,unmapped
+NRGU,2026-09-21,34.2,,,,,,,-0.9,unmapped
+NRGV,2025-11-12,57.6,,,,,,,0.9,unmapped
+NRGV,2026-03-30,30.4,,,,,,,12.7,unmapped
+NRGV,2026-07-24,31.9,,,,,,,3.6,unmapped
+NRGV,2026-09-01,21.4,,,,,,,0.4,unmapped
+NRIX,2026-05-29,34.3,XBI,Biotech,15.9,4.1,XBI,15.9,-1.8,sector-driven
+NSIT,2026-04-24,33.5,,,,,,,4.5,unmapped
+NSIT,2026-07-15,34.9,,,,,,,2.3,unmapped
+NSLR,2026-03-16,30.1,,,,,,,4.1,unmapped
+NSP,2026-03-02,30.3,,,,,,,-7.7,unmapped
+NSP,2026-05-14,26.5,,,,,,,-0.9,unmapped
+NTAP,2026-04-28,31.8,XLK,Tech (broad),16.9,23.9,XLK,16.9,5.5,sector-driven
+NTGR,2026-03-20,28.7,,,,,,,9.3,unmapped
+NTLA,2025-12-12,30.2,XBI,Biotech,0.9,10.1,ARKK,3.5,2.1,solo
+NTLA,2026-02-05,21.2,XBI,Biotech,2.7,-4.5,ARKK,9.2,-0.8,solo
+NTLA,2026-06-02,31.3,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+NTNX,2026-04-10,33.7,XSW,Software,19.8,-9.4,XSW,19.8,8.6,sector-driven
+NTRA,2026-06-03,31.8,BBH,Biotech (VanEck),13.8,-0.3,XBI,23.7,-1.0,sector-driven
+NTRA,2026-07-28,33.5,BBH,Biotech (VanEck),16.0,3.1,BBH,16.0,3.4,sector-driven
+NTRA,2026-09-08,23.6,BBH,Biotech (VanEck),1.7,5.7,BBH,1.7,2.0,solo
+NTSK,2026-03-27,26.6,XSW,Software,9.1,-8.2,HACK,9.4,12.9,sector-driven
+NTSK,2026-06-09,38.0,XSW,Software,8.2,3.6,HACK,17.7,2.3,sector-driven
+NTSK,2026-07-30,25.0,XSW,Software,15.8,2.8,XSW,15.8,4.0,sector-driven
+NTSK,2026-09-01,24.1,XSW,Software,-4.4,5.3,HACK,8.4,0.4,solo
+NUAI,2025-12-12,31.6,XOP,Oil & Gas E&P,-0.8,-0.1,XOP,-0.8,2.1,solo
+NUAI,2026-02-17,40.2,XOP,Oil & Gas E&P,17.2,11.8,XOP,17.2,-1.8,sector-driven
+NUAI,2026-04-29,26.0,XOP,Oil & Gas E&P,-7.2,-2.3,XOP,-7.2,6.1,solo
+NUAI,2026-07-07,21.1,XOP,Oil & Gas E&P,9.3,-4.8,XOP,9.3,3.2,sector-driven
+NUAI,2026-08-21,57.6,XOP,Oil & Gas E&P,-2.1,8.9,XOP,-2.1,1.3,solo
+NUE,2026-03-24,31.7,SLX,Steel,15.2,-10.8,SLX,15.2,8.9,sector-driven
+NUTX,2025-11-17,65.2,,,,,,,2.0,unmapped
+NUTX,2026-04-02,38.3,,,,,,,9.9,unmapped
+NUTX,2026-06-01,33.5,,,,,,,-1.3,unmapped
+NUTX,2026-07-24,27.4,,,,,,,3.6,unmapped
+NUVB,2026-05-26,37.7,XPH,Pharma,11.1,0.3,XPH,11.1,-2.1,sector-driven
+NVAX,2025-12-12,32.0,XBI,Biotech,0.9,10.1,XBI,0.9,2.1,solo
+NVAX,2026-02-05,26.8,XBI,Biotech,2.7,-4.5,XBI,2.7,-0.8,solo
+NVAX,2026-04-28,40.0,XBI,Biotech,2.5,10.4,XBI,2.5,5.5,solo
+NVAX,2026-08-04,32.1,XBI,Biotech,7.6,-7.3,XBI,7.6,-1.2,sector-assisted
+NVCR,2026-02-05,29.2,XHE,Healthcare Equipment,-2.1,-8.8,XHE,-2.1,-0.8,solo
+NVCR,2026-04-01,40.3,XHE,Healthcare Equipment,2.2,-8.6,XHE,2.2,9.7,solo
+NVCR,2026-06-24,35.8,XHE,Healthcare Equipment,2.8,1.9,XHE,2.8,0.7,solo
+NVDA,2026-03-30,29.1,SMH,Semiconductors,35.5,-10.8,XSD,45.1,12.7,sector-driven
+NVEC,2025-12-29,22.9,XSD,Semiconductors (equal-wt),11.1,1.4,XSD,11.1,1.1,sector-driven
+NVEC,2026-05-15,27.4,XSD,Semiconductors (equal-wt),15.0,32.6,XSD,15.0,2.1,sector-driven
+NVEC,2026-06-24,47.2,XSD,Semiconductors (equal-wt),-11.3,-6.7,XSD,-11.3,0.7,solo
+NVMI,2025-12-17,48.1,,,,,,,3.4,unmapped
+NVMI,2026-03-30,20.7,,,,,,,12.7,unmapped
+NVO,2025-12-17,30.5,,,,,,,3.4,unmapped
+NVST,2026-01-13,30.3,XHE,Healthcare Equipment,-2.3,-1.2,XHE,-2.3,-0.3,solo
+NVT,2026-04-02,34.7,,,,,,,9.9,unmapped
+NVTS,2025-12-15,26.1,XSD,Semiconductors (equal-wt),8.2,4.7,XSD,8.2,1.7,sector-driven
+NVTS,2026-02-13,26.4,XSD,Semiconductors (equal-wt),-8.0,3.0,XSD,-8.0,-1.9,solo
+NVTS,2026-03-25,95.3,XSD,Semiconductors (equal-wt),32.6,-6.3,XSD,32.6,7.9,sector-driven
+NVTS,2026-07-28,24.3,XSD,Semiconductors (equal-wt),4.1,-20.4,XSD,4.1,3.4,sector-assisted
+NWL,2026-03-20,30.1,,,,,,,9.3,unmapped
+NWL,2026-05-18,29.9,,,,,,,1.6,unmapped
+NWPX,2026-04-02,34.3,,,,,,,9.9,unmapped
+NX,2025-11-17,32.7,,,,,,,2.0,unmapped
+NX,2026-07-08,30.5,,,,,,,3.3,unmapped
+NXE,2025-11-21,21.0,,,,,,,4.3,unmapped
+NXE,2025-12-26,38.2,,,,,,,0.8,unmapped
+NXH,2025-12-23,21.2,,,,,,,0.2,unmapped
+NXH,2026-03-20,31.5,,,,,,,9.3,unmapped
+NXH,2026-04-28,35.0,,,,,,,5.5,unmapped
+NXPI,2026-03-30,22.9,SMH,Semiconductors,35.5,-10.8,XSD,45.1,12.7,sector-driven
+NXT,2025-12-29,33.0,TAN,Solar,14.4,2.5,TAN,14.4,1.1,sector-driven
+NXT,2026-04-16,33.6,TAN,Solar,19.2,-3.7,TAN,19.2,6.7,sector-driven
+OBE,2026-04-01,60.6,,,,,,,9.7,unmapped
+OBE,2026-06-24,33.8,,,,,,,0.7,unmapped
+OBE,2026-08-05,33.0,,,,,,,-0.6,unmapped
+OC,2026-06-02,25.1,XHB,Homebuilders,8.2,2.9,XHB,8.2,-1.6,sector-driven
+OCS,2025-12-18,33.5,,,,,,,0.5,unmapped
+OCS,2026-06-08,27.9,,,,,,,1.1,unmapped
+OCUL,2025-11-07,48.5,XPH,Pharma,17.0,2.1,XPH,17.0,1.9,sector-driven
+OCUL,2026-02-17,24.2,XPH,Pharma,-5.5,3.2,XPH,-5.5,-1.8,solo
+OCUL,2026-03-27,26.1,XPH,Pharma,11.6,-9.5,XPH,11.6,12.9,sector-driven
+OCUL,2026-07-22,36.6,XPH,Pharma,8.8,7.7,XPH,8.8,2.9,sector-driven
+ODC,2026-05-19,25.9,,,,,,,1.0,unmapped
+ODD,2026-06-02,72.9,,,,,,,-1.6,unmapped
+ODD,2026-08-11,32.1,,,,,,,-1.1,unmapped
+ODFL,2026-05-12,23.5,XLI,Industrials,-2.7,0.6,XLI,-2.7,-1.7,solo
+OEC,2026-03-06,27.9,,,,,,,-1.7,unmapped
+OEC,2026-07-06,24.9,,,,,,,0.9,unmapped
+OFIX,2026-06-22,29.9,XHE,Healthcare Equipment,7.7,-1.0,XHE,7.7,0.5,sector-assisted
+OGC,2025-12-29,41.4,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+OGC,2026-07-20,33.0,GDX,Gold Miners,29.9,-14.3,GDXJ,31.3,4.1,sector-driven
+OGG,2025-11-20,21.6,GDXJ,Junior Gold Miners,26.7,-2.8,GDXJ,26.7,4.7,sector-driven
+OGG,2026-01-30,42.7,GDXJ,Junior Gold Miners,24.9,9.1,GDXJ,24.9,-0.8,sector-driven
+OGG,2026-03-20,32.9,GDXJ,Junior Gold Miners,25.6,-26.2,GDXJ,25.6,9.3,sector-driven
+OGG,2026-07-24,35.8,GDXJ,Junior Gold Miners,35.6,-0.1,GDXJ,35.6,3.6,sector-driven
+OGN,2025-12-18,38.3,XPH,Pharma,2.4,6.0,XPH,2.4,0.5,solo
+OGN,2026-03-12,39.5,XPH,Pharma,4.3,-6.6,XPH,4.3,2.3,sector-assisted
+OII,2026-06-24,32.3,OIH,Oil Services,3.1,-16.2,OIH,3.1,0.7,sector-assisted
+OILD,2026-03-27,26.7,,,,,,,12.9,unmapped
+OILD,2026-05-19,38.1,,,,,,,1.0,unmapped
+OILU,2025-12-19,32.0,,,,,,,0.7,unmapped
+OILU,2026-06-24,34.6,,,,,,,0.7,unmapped
+OILU,2026-08-05,45.5,,,,,,,-0.6,unmapped
+OILU,2026-09-25,34.4,,,,,,,-1.5,unmapped
+OKLO,2025-12-17,25.0,,,,,,,3.4,unmapped
+OKLO,2026-03-24,31.8,,,,,,,8.9,unmapped
+OKTA,2026-04-10,33.3,HACK,Cybersecurity,20.3,-8.7,HACK,20.3,8.6,sector-driven
+OKTA,2026-08-17,33.0,HACK,Cybersecurity,4.4,5.0,HACK,4.4,-2.0,sector-assisted
+OLMA,2026-06-10,21.3,XBI,Biotech,23.6,-4.5,XBI,23.6,4.4,sector-driven
+OMCL,2026-03-30,40.7,XHE,Healthcare Equipment,6.5,-13.0,XHE,6.5,12.7,sector-assisted
+OMDA,2026-02-11,28.2,,,,,,,-3.8,unmapped
+OMDA,2026-04-09,36.9,,,,,,,7.6,unmapped
+OMDA,2026-06-12,36.8,,,,,,,1.6,unmapped
+OMDA,2026-08-05,22.0,,,,,,,-0.6,unmapped
+OMER,2025-11-12,53.7,XPH,Pharma,10.8,5.0,XPH,10.8,0.9,sector-driven
+OMER,2025-12-16,39.3,XPH,Pharma,0.7,8.5,XPH,0.7,2.3,solo
+OMER,2026-03-24,31.3,XPH,Pharma,10.3,-9.5,XPH,10.3,8.9,sector-driven
+OMER,2026-06-26,30.8,XPH,Pharma,4.0,12.7,XPH,4.0,1.4,sector-assisted
+ON,2026-03-18,32.2,SMH,Semiconductors,15.5,-4.6,XSD,23.0,6.4,sector-driven
+ONDS,2025-12-15,76.3,,,,,,,1.7,unmapped
+ONDS,2026-03-30,28.6,,,,,,,12.7,unmapped
+ONDS,2026-04-29,39.6,,,,,,,6.1,unmapped
+ONDS,2026-07-13,33.8,,,,,,,3.2,unmapped
+ONON,2025-11-04,30.0,,,,,,,1.3,unmapped
+ONON,2026-09-15,32.6,,,,,,,3.0,unmapped
+ONT,2026-01-29,31.6,,,,,,,-1.2,unmapped
+ONT,2026-06-02,31.3,,,,,,,-1.6,unmapped
+ONTO,2025-11-14,22.0,,,,,,,1.3,unmapped
+ONTO,2025-12-30,33.2,,,,,,,1.0,unmapped
+ONTO,2026-03-12,39.3,,,,,,,2.3,unmapped
+ONTO,2026-05-18,24.2,,,,,,,1.6,unmapped
+ONTO,2026-07-28,20.6,,,,,,,3.4,unmapped
+OOMA,2026-04-08,29.8,XSW,Software,10.7,-5.6,XSW,10.7,8.6,sector-driven
+OPCH,2026-09-08,30.6,,,,,,,2.0,unmapped
+OPRA,2026-02-05,29.7,,,,,,,-0.8,unmapped
+OPRA,2026-03-30,31.0,,,,,,,12.7,unmapped
+OPRT,2026-03-18,29.3,,,,,,,6.4,unmapped
+OPRT,2026-07-15,32.6,,,,,,,2.3,unmapped
+OPRX,2026-06-17,31.7,,,,,,,0.6,unmapped
+OPRX,2026-07-30,24.9,,,,,,,4.0,unmapped
+OPTX,2025-11-20,34.9,,,,,,,4.7,unmapped
+OPTX,2026-03-06,42.6,,,,,,,-1.7,unmapped
+OPTX,2026-04-29,59.5,,,,,,,6.1,unmapped
+OPTX,2026-07-28,22.9,,,,,,,3.4,unmapped
+OPTX,2026-09-15,22.6,,,,,,,3.0,unmapped
+OPY,2026-03-13,30.8,,,,,,,3.9,unmapped
+OR,2025-12-29,31.6,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+OR,2026-03-20,30.0,GDX,Gold Miners,23.7,-24.6,GDXJ,25.6,9.3,sector-driven
+OR,2026-07-28,32.2,GDX,Gold Miners,42.2,-1.9,GDX,42.2,3.4,sector-driven
+ORCL,2026-03-26,21.3,XLK,Tech (broad),21.0,-5.9,XLK,21.0,10.7,sector-driven
+ORCL,2026-07-24,27.4,XLK,Tech (broad),4.2,-4.7,XSW,19.1,3.6,sector-assisted
+ORIC,2025-12-17,47.4,XBI,Biotech,3.0,5.0,XBI,3.0,3.4,sector-assisted
+ORIC,2026-02-13,22.3,XBI,Biotech,0.9,-1.2,XBI,0.9,-1.9,solo
+ORIC,2026-04-01,32.2,XBI,Biotech,2.2,1.7,XBI,2.2,9.7,solo
+ORIC,2026-06-02,42.9,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+ORIC,2026-08-03,22.5,XBI,Biotech,10.3,-8.4,XBI,10.3,1.2,sector-driven
+ORKA,2026-01-05,28.5,XBI,Biotech,6.2,-2.2,XBI,6.2,0.3,sector-assisted
+ORKA,2026-02-26,32.5,XBI,Biotech,-3.0,1.4,XBI,-3.0,-6.2,solo
+ORKA,2026-05-21,45.5,XBI,Biotech,10.0,-1.3,XBI,10.0,0.5,sector-driven
+ORN,2025-11-20,21.8,,,,,,,4.7,unmapped
+ORN,2026-01-07,35.4,,,,,,,-1.7,unmapped
+ORN,2026-04-06,31.8,,,,,,,9.0,unmapped
+OSCR,2026-03-20,30.2,KIE,Insurance,8.1,-5.9,KIE,8.1,9.3,sector-driven
+OSG,2026-04-09,47.2,,,,,,,7.6,unmapped
+OSPN,2026-05-01,34.7,XSW,Software,19.6,8.2,XSW,19.6,5.3,sector-driven
+OSPN,2026-10-02,41.6,XSW,Software,5.9,-4.7,XSW,5.9,-1.8,sector-assisted
+OSS,2025-11-04,30.7,,,,,,,1.3,unmapped
+OSS,2026-01-05,38.3,,,,,,,0.3,unmapped
+OSS,2026-02-18,34.6,,,,,,,-3.7,unmapped
+OSS,2026-03-27,29.8,,,,,,,12.9,unmapped
+OSW,2026-10-01,32.4,,,,,,,0.7,unmapped
+OUST,2025-12-17,26.8,,,,,,,3.4,unmapped
+OUST,2026-03-20,35.4,,,,,,,9.3,unmapped
+OUST,2026-05-19,37.0,,,,,,,1.0,unmapped
+OUST,2026-07-16,28.4,,,,,,,3.6,unmapped
+OUST,2026-09-01,21.3,,,,,,,0.4,unmapped
+OWL,2026-04-10,28.3,,,,,,,8.6,unmapped
+OWL,2026-07-16,31.6,,,,,,,3.6,unmapped
+OXM,2026-03-18,37.5,,,,,,,6.4,unmapped
+P,2026-04-13,38.1,XLK,Tech (broad),22.2,6.6,XLK,22.2,7.8,sector-driven
+P,2026-07-13,30.0,XLK,Tech (broad),2.8,-0.9,XLK,2.8,3.2,solo
+P,2026-09-08,45.5,XLK,Tech (broad),7.6,0.8,XLK,7.6,2.0,sector-assisted
+PACK,2025-11-20,26.8,,,,,,,4.7,unmapped
+PACK,2026-04-01,40.6,,,,,,,9.7,unmapped
+PACS,2026-06-10,25.9,,,,,,,4.4,unmapped
+PAHC,2026-01-08,33.6,XPH,Pharma,1.8,0.8,XPH,1.8,0.2,solo
+PALL,2025-11-24,33.0,,,,,,,3.2,unmapped
+PANL,2026-01-02,31.7,,,,,,,1.8,unmapped
+PANW,2026-04-10,33.5,XLK,Tech (broad),23.1,3.6,XLK,23.1,8.6,sector-driven
+PAR,2026-06-03,34.4,XSW,Software,0.7,8.9,XSW,0.7,-1.0,solo
+PAR,2026-09-24,30.3,XSW,Software,7.3,-0.4,XSW,7.3,-0.4,sector-assisted
+PARR,2026-02-25,59.5,XOP,Oil & Gas E&P,23.2,9.8,XOP,23.2,-5.0,sector-driven
+PARR,2026-06-12,31.8,XOP,Oil & Gas E&P,0.8,-2.3,XOP,0.8,1.6,solo
+PATH,2025-11-06,32.0,XSW,Software,1.0,-6.0,XSW,1.0,2.3,solo
+PATH,2026-07-22,47.5,XSW,Software,18.4,4.6,XSW,18.4,2.9,sector-driven
+PAY,2026-06-04,33.0,,,,,,,-0.5,unmapped
+PAYC,2026-06-30,34.4,,,,,,,-2.3,unmapped
+PAYO,2026-05-12,30.3,,,,,,,-1.7,unmapped
+PAYS,2026-02-25,51.9,,,,,,,-5.0,unmapped
+PAYS,2026-05-14,20.7,,,,,,,-0.9,unmapped
+PAYS,2026-07-23,64.7,,,,,,,3.3,unmapped
+PAYS,2026-09-16,28.3,,,,,,,2.3,unmapped
+PBF,2026-02-10,21.8,XOP,Oil & Gas E&P,13.3,14.4,XOP,13.3,-2.3,sector-driven
+PBF,2026-06-09,32.1,XOP,Oil & Gas E&P,-2.4,-2.8,XOP,-2.4,2.3,solo
+PBI,2026-03-23,38.4,,,,,,,7.5,unmapped
+PBR,2025-12-26,30.0,,,,,,,0.8,unmapped
+PBT,2026-04-15,33.4,,,,,,,6.1,unmapped
+PBT,2026-07-10,22.2,,,,,,,2.4,unmapped
+PBYI,2026-03-11,30.0,,,,,,,0.8,unmapped
+PCOR,2026-07-10,31.7,XSW,Software,10.6,8.2,XSW,10.6,2.4,sector-driven
+PCRX,2026-09-10,44.6,XPH,Pharma,-6.4,-2.6,XPH,-6.4,2.4,solo
+PCT,2025-12-15,43.1,,,,,,,1.7,unmapped
+PCT,2026-03-24,35.7,,,,,,,8.9,unmapped
+PCTY,2026-06-29,31.2,,,,,,,-0.0,unmapped
+PCVX,2026-06-08,26.7,XBI,Biotech,27.0,-4.7,XBI,27.0,1.1,sector-driven
+PD,2026-04-30,49.6,XSW,Software,17.2,6.0,XSW,17.2,5.3,sector-driven
+PD,2026-07-22,38.0,XSW,Software,18.4,4.6,XSW,18.4,2.9,sector-driven
+PDFS,2026-03-20,32.9,,,,,,,9.3,unmapped
+PDFS,2026-05-15,45.6,,,,,,,2.1,unmapped
+PDFS,2026-09-14,23.1,,,,,,,2.5,unmapped
+PDM,2026-03-30,31.1,,,,,,,12.7,unmapped
+PDS,2026-09-30,30.9,,,,,,,1.3,unmapped
+PDYN,2025-12-12,47.3,,,,,,,2.1,unmapped
+PDYN,2026-02-05,40.1,,,,,,,-0.8,unmapped
+PDYN,2026-04-29,51.5,,,,,,,6.1,unmapped
+PDYN,2026-07-16,29.7,,,,,,,3.6,unmapped
+PEB,2026-05-15,31.6,,,,,,,2.1,unmapped
+PEGA,2026-07-22,30.2,XSW,Software,18.4,4.6,XSW,18.4,2.9,sector-driven
+PENG,2026-03-13,35.6,XSD,Semiconductors (equal-wt),16.4,-8.9,XSD,16.4,3.9,sector-driven
+PENG,2026-09-09,42.2,XSD,Semiconductors (equal-wt),10.7,-6.5,XSD,10.7,2.2,sector-driven
+PENN,2026-05-12,36.5,,,,,,,-1.7,unmapped
+PERI,2026-10-05,34.1,,,,,,,-2.9,unmapped
+PESI,2026-05-29,33.7,,,,,,,-1.8,unmapped
+PGEN,2025-12-08,31.4,XBI,Biotech,2.6,13.6,XBI,2.6,1.2,solo
+PGEN,2026-03-12,26.8,XBI,Biotech,5.6,-1.6,XBI,5.6,2.3,sector-assisted
+PGEN,2026-05-29,36.4,XBI,Biotech,15.9,4.1,XBI,15.9,-1.8,sector-driven
+PGEN,2026-07-15,33.8,XBI,Biotech,2.0,14.6,XBI,2.0,2.3,solo
+PGNY,2026-04-10,45.5,,,,,,,8.6,unmapped
+PGY,2026-03-18,36.7,,,,,,,6.4,unmapped
+PGY,2026-06-03,27.4,,,,,,,-1.0,unmapped
+PGY,2026-07-20,22.5,,,,,,,4.1,unmapped
+PHVS,2025-11-04,35.7,,,,,,,1.3,unmapped
+PI,2025-12-09,33.2,XSD,Semiconductors (equal-wt),0.2,2.6,XSD,0.2,1.3,solo
+PI,2026-04-01,42.2,XSD,Semiconductors (equal-wt),47.0,-2.0,XSD,47.0,9.7,sector-driven
+PI,2026-07-16,27.0,XSD,Semiconductors (equal-wt),5.6,-14.9,XSD,5.6,3.6,sector-assisted
+PII,2026-04-15,32.8,,,,,,,6.1,unmapped
+PK,2026-05-13,32.8,,,,,,,-0.6,unmapped
+PKE,2026-03-20,31.8,XAR,Aerospace & Defense (SPDR),6.8,-8.2,XAR,6.8,9.3,sector-assisted
+PKX,2026-03-30,34.9,SLX,Steel,15.5,-12.0,SLX,15.5,12.7,sector-driven
+PL,2025-11-12,40.4,,,,,,,0.9,unmapped
+PL,2026-02-20,41.5,,,,,,,-5.7,unmapped
+PL,2026-03-30,25.6,,,,,,,12.7,unmapped
+PL,2026-05-01,25.9,,,,,,,5.3,unmapped
+PLAB,2025-11-11,69.9,,,,,,,0.7,unmapped
+PLAB,2026-03-06,23.4,,,,,,,-1.7,unmapped
+PLAY,2025-11-06,30.9,,,,,,,2.3,unmapped
+PLAY,2025-12-29,20.4,,,,,,,1.1,unmapped
+PLAY,2026-03-27,29.6,,,,,,,12.9,unmapped
+PLAY,2026-05-12,28.4,,,,,,,-1.7,unmapped
+PLMR,2026-06-03,38.0,KIE,Insurance,18.7,-4.1,KIE,18.7,-1.0,sector-driven
+PLNT,2026-09-24,30.8,,,,,,,-0.4,unmapped
+PLPC,2026-03-30,35.2,,,,,,,12.7,unmapped
+PLPC,2026-07-08,41.0,,,,,,,3.3,unmapped
+PLSE,2026-01-08,41.0,XHE,Healthcare Equipment,-7.8,5.9,XHE,-7.8,0.2,solo
+PLSE,2026-04-16,32.1,XHE,Healthcare Equipment,-4.8,3.9,XHE,-4.8,6.7,solo
+PLSE,2026-07-09,40.4,XHE,Healthcare Equipment,4.1,5.5,XHE,4.1,2.2,sector-assisted
+PLTK,2026-03-27,25.3,,,,,,,12.9,unmapped
+PLTK,2026-06-11,31.3,,,,,,,1.8,unmapped
+PLTM,2025-11-20,31.0,,,,,,,4.7,unmapped
+PLTR,2026-07-10,35.7,XLK,Tech (broad),1.2,5.3,XSW,10.6,2.4,solo
+PLXS,2025-12-30,32.1,,,,,,,1.0,unmapped
+PLXS,2026-03-30,27.7,,,,,,,12.7,unmapped
+PNR,2026-10-05,33.7,XLI,Industrials,-0.2,-2.7,XLI,-0.2,-2.9,solo
+PNRG,2026-04-15,30.9,,,,,,,6.1,unmapped
+PNTG,2026-06-04,32.5,,,,,,,-0.5,unmapped
+POET,2025-11-10,30.7,,,,,,,0.2,unmapped
+POET,2026-02-05,21.4,,,,,,,-0.8,unmapped
+POET,2026-03-20,44.9,,,,,,,9.3,unmapped
+POET,2026-07-29,26.8,,,,,,,5.0,unmapped
+PONY,2025-11-20,40.3,,,,,,,4.7,unmapped
+POOL,2026-10-05,34.8,,,,,,,-2.9,unmapped
+POWI,2025-12-29,30.3,XSD,Semiconductors (equal-wt),11.1,1.4,XSD,11.1,1.1,sector-driven
+POWI,2026-03-20,33.1,XSD,Semiconductors (equal-wt),31.4,-9.6,XSD,31.4,9.3,sector-driven
+POWL,2025-12-17,32.4,,,,,,,3.4,unmapped
+POWL,2026-03-11,34.4,,,,,,,0.8,unmapped
+PPIH,2025-11-14,33.6,,,,,,,1.3,unmapped
+PPLT,2025-11-20,30.8,,,,,,,4.7,unmapped
+PPTA,2025-11-13,31.2,GDXJ,Junior Gold Miners,16.4,-12.0,GDXJ,16.4,1.5,sector-driven
+PPTA,2025-12-26,34.8,GDXJ,Junior Gold Miners,21.2,18.4,GDXJ,21.2,0.8,sector-driven
+PPTA,2026-01-30,39.8,GDXJ,Junior Gold Miners,24.9,9.1,GDXJ,24.9,-0.8,sector-driven
+PPTA,2026-03-20,34.1,GDXJ,Junior Gold Miners,25.6,-26.2,GDXJ,25.6,9.3,sector-driven
+PPTA,2026-07-13,33.4,GDXJ,Junior Gold Miners,24.5,-5.6,GDXJ,24.5,3.2,sector-driven
+PRAA,2025-11-04,31.1,,,,,,,1.3,unmapped
+PRAA,2026-01-30,31.0,,,,,,,-0.8,unmapped
+PRAA,2026-03-27,30.2,,,,,,,12.9,unmapped
+PRAA,2026-06-02,32.5,,,,,,,-1.6,unmapped
+PRAX,2025-11-13,50.9,XBI,Biotech,10.1,3.7,XBI,10.1,1.5,sector-driven
+PRAX,2026-06-02,23.8,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+PRAX,2026-07-28,24.4,XBI,Biotech,12.9,-5.4,XBI,12.9,3.4,sector-driven
+PRCH,2026-02-05,22.2,,,,,,,-0.8,unmapped
+PRCH,2026-03-31,41.3,,,,,,,9.5,unmapped
+PRCH,2026-05-28,34.3,,,,,,,-3.2,unmapped
+PRCH,2026-07-20,29.9,,,,,,,4.1,unmapped
+PRCT,2026-04-29,25.3,XHE,Healthcare Equipment,2.5,0.2,XHE,2.5,6.1,solo
+PRCT,2026-07-24,29.9,XHE,Healthcare Equipment,13.5,0.8,XHE,13.5,3.6,sector-driven
+PRE,2025-11-17,40.6,,,,,,,2.0,unmapped
+PRE,2025-12-30,30.1,,,,,,,1.0,unmapped
+PRE,2026-02-23,37.5,,,,,,,-3.7,unmapped
+PRE,2026-05-06,30.8,,,,,,,3.2,unmapped
+PRE,2026-07-29,43.1,,,,,,,5.0,unmapped
+PRG,2026-04-07,28.1,,,,,,,9.8,unmapped
+PRG,2026-06-03,29.3,,,,,,,-1.0,unmapped
+PRGO,2026-03-20,30.2,XPH,Pharma,12.1,-7.6,XPH,12.1,9.3,sector-driven
+PRGO,2026-07-13,24.3,XPH,Pharma,4.9,11.9,XPH,4.9,3.2,sector-assisted
+PRGS,2026-06-17,34.8,XSW,Software,9.3,1.7,XSW,9.3,0.6,sector-driven
+PRIM,2026-04-07,36.2,,,,,,,9.8,unmapped
+PRKS,2026-05-14,27.2,,,,,,,-0.9,unmapped
+PRLB,2026-01-28,21.4,,,,,,,-0.9,unmapped
+PRM,2026-03-19,31.0,,,,,,,8.0,unmapped
+PRME,2025-11-13,23.1,XBI,Biotech,10.1,3.7,XBI,10.1,1.5,sector-driven
+PRME,2025-12-26,22.3,XBI,Biotech,2.8,2.1,XBI,2.8,0.8,solo
+PRME,2026-02-05,23.8,XBI,Biotech,2.7,-4.5,XBI,2.7,-0.8,solo
+PRME,2026-06-05,30.4,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+PRME,2026-08-03,27.8,XBI,Biotech,10.3,-8.4,XBI,10.3,1.2,sector-driven
+PRME,2026-09-25,26.6,XBI,Biotech,-3.5,-7.8,XBI,-3.5,-1.5,solo
+PRTH,2026-08-21,39.0,,,,,,,1.3,unmapped
+PRVA,2026-06-03,32.4,,,,,,,-1.0,unmapped
+PSFE,2025-11-20,24.7,,,,,,,4.7,unmapped
+PSFE,2026-03-25,24.6,,,,,,,7.9,unmapped
+PSIX,2025-11-20,33.6,,,,,,,4.7,unmapped
+PSIX,2025-12-31,25.4,,,,,,,1.5,unmapped
+PSIX,2026-03-10,31.7,,,,,,,0.1,unmapped
+PSIX,2026-07-13,33.6,,,,,,,3.2,unmapped
+PSIX,2026-09-01,29.7,,,,,,,0.4,unmapped
+PSLV,2025-11-18,30.6,,,,,,,1.7,unmapped
+PSNL,2025-11-05,36.8,,,,,,,1.0,unmapped
+PSNL,2025-12-23,20.8,,,,,,,0.2,unmapped
+PSNL,2026-04-23,39.8,,,,,,,4.9,unmapped
+PSNL,2026-07-23,38.1,,,,,,,3.3,unmapped
+PSNY,2025-12-10,48.8,,,,,,,1.2,unmapped
+PSNY,2026-01-29,41.5,,,,,,,-1.2,unmapped
+PTC,2026-07-22,34.8,XLK,Tech (broad),1.9,-2.1,XSW,18.4,2.9,solo
+PTC,2026-09-04,36.3,XLK,Tech (broad),7.4,-0.4,XLK,7.4,0.8,sector-assisted
+PTEN,2026-04-17,31.8,OIH,Oil Services,9.9,2.1,OIH,9.9,4.1,sector-driven
+PTEN,2026-07-27,26.0,OIH,Oil Services,6.0,2.7,OIH,6.0,3.3,sector-assisted
+PTGX,2026-06-02,34.3,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+PTLO,2025-12-30,24.0,,,,,,,1.0,unmapped
+PTLO,2026-06-04,23.9,,,,,,,-0.5,unmapped
+PTLO,2026-09-24,24.9,,,,,,,-0.4,unmapped
+PTON,2026-03-20,34.9,,,,,,,9.3,unmapped
+PTRN,2025-12-24,39.9,XRT,Retail,1.8,5.2,XRT,1.8,0.3,solo
+PTRN,2026-04-09,32.4,XRT,Retail,0.6,2.9,XRT,0.6,7.6,solo
+PTRN,2026-06-16,50.9,XRT,Retail,4.1,9.5,XRT,4.1,0.3,sector-assisted
+PUBM,2026-02-03,30.5,,,,,,,-0.6,unmapped
+PUBM,2026-07-22,32.6,,,,,,,2.9,unmapped
+PUMP,2026-02-18,32.4,OIH,Oil Services,-0.4,18.7,OIH,-0.4,-3.7,solo
+PUMP,2026-04-01,26.9,OIH,Oil Services,13.1,3.4,OIH,13.1,9.7,sector-driven
+PURR,2026-01-02,55.5,XBI,Biotech,4.8,0.1,XBI,4.8,1.8,sector-assisted
+PURR,2026-02-23,39.9,XBI,Biotech,-4.2,-0.8,XBI,-4.2,-3.7,solo
+PURR,2026-03-30,20.1,XBI,Biotech,10.4,-6.1,XBI,10.4,12.7,sector-driven
+PURR,2026-05-11,26.3,XBI,Biotech,-2.5,2.0,XBI,-2.5,-0.3,solo
+PURR,2026-07-22,37.1,XBI,Biotech,11.5,3.5,XBI,11.5,2.9,sector-driven
+PVH,2026-03-10,38.8,,,,,,,0.1,unmapped
+PVLA,2025-11-04,22.4,XBI,Biotech,12.8,4.2,XBI,12.8,1.3,sector-driven
+PVLA,2026-01-26,38.4,XBI,Biotech,1.0,1.2,XBI,1.0,-0.8,solo
+PVLA,2026-05-29,30.7,XBI,Biotech,15.9,4.1,XBI,15.9,-1.8,sector-driven
+PWP,2025-12-31,29.0,,,,,,,1.5,unmapped
+PWP,2026-03-13,30.3,,,,,,,3.9,unmapped
+PWR,2026-04-02,32.4,XLI,Industrials,5.6,-4.6,XLI,5.6,9.9,sector-assisted
+PYPL,2026-06-15,30.7,XLF,Financials,6.0,4.9,XLF,6.0,0.3,sector-assisted
+Q,2026-02-04,21.4,XLK,Tech (broad),1.5,-5.8,XLK,1.5,-0.7,solo
+Q,2026-03-30,28.5,XLK,Tech (broad),23.9,-8.5,XLK,23.9,12.7,sector-driven
+QBTS,2025-11-20,30.8,XSW,Software,8.7,-11.8,XSW,8.7,4.7,sector-driven
+QBTS,2026-03-18,30.5,XSW,Software,1.3,-0.9,XSW,1.3,6.4,solo
+QBTS,2026-05-15,29.0,XSW,Software,7.0,2.0,XSW,7.0,2.1,sector-assisted
+QBTS,2026-07-17,26.5,XSW,Software,12.9,9.3,XSW,12.9,4.5,sector-driven
+QCOM,2026-04-01,41.1,SMH,Semiconductors,29.3,-1.8,XSD,47.0,9.7,sector-driven
+QDEL,2025-11-06,30.6,XHE,Healthcare Equipment,12.5,-0.5,XHE,12.5,2.3,sector-driven
+QDEL,2026-05-06,39.6,XHE,Healthcare Equipment,2.0,-0.3,XHE,2.0,3.2,solo
+QDEL,2026-06-22,32.8,XHE,Healthcare Equipment,7.7,-1.0,XHE,7.7,0.5,sector-assisted
+QDEL,2026-09-15,32.6,XHE,Healthcare Equipment,-1.0,-3.4,XHE,-1.0,3.0,solo
+QFIN,2026-05-15,21.9,,,,,,,2.1,unmapped
+QLYS,2026-05-13,28.1,XSW,Software,7.0,3.2,HACK,13.5,-0.6,sector-assisted
+QLYS,2026-06-22,32.5,XSW,Software,10.0,-1.1,HACK,13.8,0.5,sector-driven
+QLYS,2026-07-27,32.4,XSW,Software,14.1,5.3,XSW,14.1,3.3,sector-driven
+QLYS,2026-09-11,34.7,XSW,Software,4.8,-4.3,HACK,19.0,2.1,sector-assisted
+QMCO,2025-11-13,28.4,,,,,,,1.5,unmapped
+QMCO,2026-03-17,31.3,,,,,,,4.7,unmapped
+QMCO,2026-07-14,92.8,,,,,,,2.5,unmapped
+QMCO,2026-09-10,26.7,,,,,,,2.4,unmapped
+QNST,2026-06-03,38.9,,,,,,,-1.0,unmapped
+QNST,2026-07-27,31.9,,,,,,,3.3,unmapped
+QS,2026-04-29,33.5,,,,,,,6.1,unmapped
+QS,2026-07-24,22.4,,,,,,,3.6,unmapped
+QTRX,2026-05-18,21.4,,,,,,,1.6,unmapped
+QTRX,2026-08-28,33.3,,,,,,,-0.2,unmapped
+QTTB,2025-11-04,50.6,,,,,,,1.3,unmapped
+QTTB,2025-12-30,25.6,,,,,,,1.0,unmapped
+QTTB,2026-02-10,79.0,,,,,,,-2.3,unmapped
+QTTB,2026-04-28,124.7,,,,,,,5.5,unmapped
+QTTB,2026-06-25,26.8,,,,,,,0.6,unmapped
+QTWO,2026-06-22,31.0,XSW,Software,10.0,-1.1,XSW,10.0,0.5,sector-driven
+QUBT,2025-11-13,20.1,,,,,,,1.5,unmapped
+QUBT,2026-03-18,30.2,,,,,,,6.4,unmapped
+QUIK,2025-12-17,44.5,,,,,,,3.4,unmapped
+QUIK,2026-02-04,31.4,,,,,,,-0.7,unmapped
+QUIK,2026-04-08,85.6,,,,,,,8.6,unmapped
+QURE,2026-03-02,40.3,XBI,Biotech,-6.1,1.4,XBI,-6.1,-7.7,solo
+QURE,2026-04-08,43.6,XBI,Biotech,5.4,2.5,XBI,5.4,8.6,sector-assisted
+QURE,2026-06-05,56.6,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+QURE,2026-07-28,39.3,XBI,Biotech,12.9,-5.4,XBI,12.9,3.4,sector-driven
+QXO,2025-11-17,25.9,,,,,,,2.0,unmapped
+QXO,2026-03-20,29.9,,,,,,,9.3,unmapped
+RAL,2026-04-15,34.0,,,,,,,6.1,unmapped
+RAPP,2026-03-16,30.9,XPH,Pharma,6.6,-5.4,XPH,6.6,4.1,sector-assisted
+RARE,2026-03-24,33.0,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+RARE,2026-05-28,32.3,XBI,Biotech,14.4,5.5,XBI,14.4,-3.2,sector-driven
+RBLX,2026-06-03,26.9,XSW,Software,0.7,8.9,ESPO,2.4,-1.0,solo
+RBLX,2026-08-14,34.2,XSW,Software,1.9,12.9,XSW,1.9,-2.0,solo
+RBLX,2026-09-29,32.3,XSW,Software,11.8,-8.4,XSW,11.8,0.7,sector-driven
+RBRK,2026-04-09,33.2,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+RBRK,2026-06-12,29.1,XSW,Software,7.3,6.1,HACK,19.0,1.6,sector-assisted
+RBRK,2026-07-21,32.7,XSW,Software,11.9,10.0,XSW,11.9,2.6,sector-driven
+RBRK,2026-09-01,29.5,XSW,Software,-4.4,5.3,HACK,8.4,0.4,solo
+RCAT,2025-11-20,31.1,XAR,Aerospace & Defense (SPDR),10.3,-11.2,XAR,10.3,4.7,sector-driven
+RCAT,2025-12-29,109.7,XAR,Aerospace & Defense (SPDR),15.0,6.4,XAR,15.0,1.1,sector-driven
+RCAT,2026-02-05,35.8,XAR,Aerospace & Defense (SPDR),7.7,-1.2,XAR,7.7,-0.8,sector-assisted
+RCAT,2026-05-01,32.1,XAR,Aerospace & Defense (SPDR),9.2,-1.2,XAR,9.2,5.3,sector-driven
+RCAT,2026-07-16,33.4,XAR,Aerospace & Defense (SPDR),12.8,-8.1,XAR,12.8,3.6,sector-driven
+RCKT,2026-01-29,41.1,,,,,,,-1.2,unmapped
+RCKT,2026-06-03,31.5,,,,,,,-1.0,unmapped
+RCUS,2026-03-24,31.5,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+RCUS,2026-06-03,27.1,XBI,Biotech,23.7,-3.0,XBI,23.7,-1.0,sector-driven
+RDDT,2025-11-20,28.2,XLC,Comm Services,6.0,-4.6,XLC,6.0,4.7,sector-assisted
+RDDT,2026-03-26,21.7,XLC,Comm Services,6.2,-6.5,XLC,6.2,10.7,sector-assisted
+RDNT,2026-06-03,32.5,,,,,,,-1.0,unmapped
+RDNT,2026-07-22,27.6,,,,,,,2.9,unmapped
+RDVT,2026-04-09,30.7,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+RDW,2025-11-13,31.1,XAR,Aerospace & Defense (SPDR),4.2,-4.6,XAR,4.2,1.5,sector-assisted
+RDW,2026-03-24,31.8,XAR,Aerospace & Defense (SPDR),0.9,-7.5,XAR,0.9,8.9,solo
+RDW,2026-04-23,52.9,XAR,Aerospace & Defense (SPDR),1.8,-1.9,XAR,1.8,4.9,solo
+RDW,2026-07-10,33.5,XAR,Aerospace & Defense (SPDR),5.7,1.8,XAR,5.7,2.4,sector-assisted
+REAL,2026-03-19,31.0,XRT,Retail,9.2,-9.3,XRT,9.2,8.0,sector-driven
+REAL,2026-05-20,31.9,XRT,Retail,6.7,-7.1,XRT,6.7,1.0,sector-assisted
+REAL,2026-10-02,34.4,XRT,Retail,7.4,-4.5,XRT,7.4,-1.8,sector-assisted
+REAX,2026-06-03,34.8,,,,,,,-1.0,unmapped
+REAX,2026-07-22,48.4,,,,,,,2.9,unmapped
+REGN,2026-10-05,32.3,BBH,Biotech (VanEck),5.8,-0.2,XLV,10.3,-2.9,sector-assisted
+RELY,2026-02-02,31.9,,,,,,,-2.2,unmapped
+RELY,2026-03-20,34.5,,,,,,,9.3,unmapped
+RELY,2026-06-08,25.2,,,,,,,1.1,unmapped
+REPL,2026-04-13,120.0,XBI,Biotech,2.0,8.4,XBI,2.0,7.8,solo
+REPL,2026-07-15,57.4,XBI,Biotech,2.0,14.6,XBI,2.0,2.3,solo
+REPL,2026-10-02,34.7,XBI,Biotech,1.0,-6.1,XBI,1.0,-1.8,solo
+REPX,2026-02-24,30.7,XOP,Oil & Gas E&P,21.3,11.1,XOP,21.3,-4.7,sector-driven
+REPX,2026-09-25,33.6,XOP,Oil & Gas E&P,11.1,-1.7,XOP,11.1,-1.5,sector-driven
+RERE,2025-11-05,36.9,,,,,,,1.0,unmapped
+REX,2026-02-27,34.2,XOP,Oil & Gas E&P,23.2,10.8,XOP,23.2,-7.4,sector-driven
+RGC,2025-11-07,30.4,,,,,,,1.9,unmapped
+RGC,2026-03-04,32.5,,,,,,,-4.1,unmapped
+RGC,2026-08-10,29.2,,,,,,,-0.9,unmapped
+RGC,2026-09-11,30.3,,,,,,,2.1,unmapped
+RGEN,2026-07-23,31.0,,,,,,,3.3,unmapped
+RGLD,2026-07-27,31.2,GDX,Gold Miners,36.7,-1.6,GDX,36.7,3.3,sector-driven
+RGNX,2025-11-20,34.2,XBI,Biotech,8.5,5.9,XBI,8.5,4.7,sector-driven
+RGNX,2026-05-19,39.6,XBI,Biotech,9.9,-7.0,XBI,9.9,1.0,sector-driven
+RGTI,2026-03-20,32.0,XSD,Semiconductors (equal-wt),31.4,-9.6,XSD,31.4,9.3,sector-driven
+RGTI,2026-05-15,27.2,XSD,Semiconductors (equal-wt),15.0,32.6,XSD,15.0,2.1,sector-driven
+RGTI,2026-07-16,32.1,XSD,Semiconductors (equal-wt),5.6,-14.9,XSD,5.6,3.6,sector-assisted
+RH,2025-12-05,30.5,,,,,,,1.2,unmapped
+RH,2026-05-18,21.7,,,,,,,1.6,unmapped
+RH,2026-06-23,23.5,,,,,,,1.9,unmapped
+RHI,2026-05-14,31.6,,,,,,,-0.9,unmapped
+RHI,2026-06-22,41.4,,,,,,,0.5,unmapped
+RHI,2026-10-05,30.4,,,,,,,-2.9,unmapped
+RHLD,2026-03-12,37.8,,,,,,,2.3,unmapped
+RHLD,2026-06-03,31.8,,,,,,,-1.0,unmapped
+RIG,2026-01-09,34.4,OIH,Oil Services,17.8,4.7,OIH,17.8,-0.0,sector-driven
+RIG,2026-10-02,34.2,OIH,Oil Services,7.5,-11.0,OIH,7.5,-1.8,sector-assisted
+RIGL,2026-06-01,31.0,XBI,Biotech,18.6,2.5,XBI,18.6,-1.3,sector-driven
+RILY,2025-11-20,21.1,,,,,,,4.7,unmapped
+RILY,2025-12-23,111.0,,,,,,,0.2,unmapped
+RILY,2026-04-02,32.0,,,,,,,9.9,unmapped
+RIOT,2025-12-17,48.5,XSW,Software,-3.7,4.3,XSW,-3.7,3.4,solo
+RIOT,2026-03-20,35.4,XSW,Software,5.7,-1.4,XSW,5.7,9.3,sector-assisted
+RIVN,2026-05-15,21.0,,,,,,,2.1,unmapped
+RKLB,2025-11-13,35.9,XAR,Aerospace & Defense (SPDR),4.2,-4.6,XAR,4.2,1.5,sector-assisted
+RKLB,2026-03-20,33.1,XAR,Aerospace & Defense (SPDR),6.8,-8.2,XAR,6.8,9.3,sector-assisted
+RKT,2025-11-06,21.9,KBE,Banks,6.6,-3.6,KBE,6.6,2.3,sector-assisted
+RLAY,2025-11-07,26.1,XBI,Biotech,13.6,3.8,XBI,13.6,1.9,sector-driven
+RLAY,2026-01-29,33.1,XBI,Biotech,0.5,4.2,XBI,0.5,-1.2,solo
+RLAY,2026-03-18,62.2,XBI,Biotech,11.9,-3.6,XBI,11.9,6.4,sector-driven
+RLAY,2026-05-19,28.9,XBI,Biotech,9.9,-7.0,XBI,9.9,1.0,sector-driven
+RLMD,2026-01-30,36.3,XPH,Pharma,3.9,-1.0,XPH,3.9,-0.8,sector-assisted
+RMBS,2025-12-22,31.0,XSD,Semiconductors (equal-wt),9.3,12.7,XSD,9.3,0.6,sector-driven
+RMBS,2026-03-16,31.2,XSD,Semiconductors (equal-wt),16.7,-8.0,XSD,16.7,4.1,sector-driven
+RMBS,2026-09-03,32.8,XSD,Semiconductors (equal-wt),16.1,-8.1,XSD,16.1,-0.2,sector-driven
+RMIX,2026-03-25,33.9,,,,,,,7.9,unmapped
+RMIX,2026-05-21,42.8,,,,,,,0.5,unmapped
+RNG,2026-01-22,45.6,XSW,Software,-17.2,-6.9,XSW,-17.2,0.1,solo
+RNG,2026-04-10,36.2,XSW,Software,19.8,-9.4,XSW,19.8,8.6,sector-driven
+RNG,2026-06-25,39.4,XSW,Software,6.2,-3.3,XSW,6.2,0.6,sector-assisted
+ROCK,2026-07-08,33.0,,,,,,,3.3,unmapped
+ROIV,2026-01-28,30.0,XBI,Biotech,1.4,2.1,XBI,1.4,-0.9,solo
+ROKU,2026-03-26,29.4,,,,,,,10.7,unmapped
+ROOT,2026-03-27,27.4,,,,,,,12.9,unmapped
+ROOT,2026-06-17,22.9,,,,,,,0.6,unmapped
+ROP,2026-10-02,31.7,XLK,Tech (broad),-10.2,7.6,XSW,5.9,-1.8,solo
+RPAY,2025-11-20,26.3,,,,,,,4.7,unmapped
+RPAY,2026-03-19,55.1,,,,,,,8.0,unmapped
+RPD,2026-04-09,32.9,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+RPD,2026-06-08,56.4,XSW,Software,4.1,3.8,XSW,4.1,1.1,sector-assisted
+RPD,2026-07-30,42.4,XSW,Software,15.8,2.8,XSW,15.8,4.0,sector-driven
+RPD,2026-09-11,33.3,XSW,Software,4.8,-4.3,XSW,4.8,2.1,sector-assisted
+RRC,2026-09-28,41.5,XOP,Oil & Gas E&P,13.7,-2.7,XOP,13.7,-0.0,sector-driven
+RRX,2026-01-07,33.0,,,,,,,-1.7,unmapped
+RSI,2026-02-12,27.4,,,,,,,-2.8,unmapped
+RSI,2026-04-07,32.2,,,,,,,9.8,unmapped
+RSKD,2026-08-06,33.5,,,,,,,0.6,unmapped
+RSKD,2026-09-10,34.7,,,,,,,2.4,unmapped
+RUM,2025-11-06,20.9,,,,,,,2.3,unmapped
+RUM,2026-03-20,32.7,,,,,,,9.3,unmapped
+RUM,2026-07-16,31.8,,,,,,,3.6,unmapped
+RUN,2026-04-29,33.2,TAN,Solar,28.2,0.7,TAN,28.2,6.1,sector-driven
+RVLV,2025-11-04,32.6,XRT,Retail,7.1,-5.1,XRT,7.1,1.3,sector-assisted
+RVMD,2025-12-17,56.7,BBH,Biotech (VanEck),1.0,-0.3,XBI,3.0,3.4,solo
+RVMD,2026-03-13,43.7,BBH,Biotech (VanEck),2.0,-2.7,XBI,8.4,3.9,solo
+RVMD,2026-06-10,29.6,BBH,Biotech (VanEck),12.3,-2.8,XBI,23.6,4.4,sector-driven
+RVTY,2026-09-10,25.8,XLV,Healthcare,1.9,-1.7,XLV,1.9,2.4,solo
+RWAY,2026-07-24,24.0,,,,,,,3.6,unmapped
+RXO,2025-11-13,45.2,,,,,,,1.5,unmapped
+RXO,2026-03-12,32.8,,,,,,,2.3,unmapped
+RXO,2026-05-14,61.9,,,,,,,-0.9,unmapped
+RXO,2026-09-04,38.7,,,,,,,0.8,unmapped
+RXRX,2026-03-30,20.1,XBI,Biotech,10.4,-6.1,ARKK,18.8,12.7,sector-driven
+RXRX,2026-09-08,34.6,XBI,Biotech,-6.8,2.5,ARKK,5.1,2.0,solo
+RXST,2025-11-20,34.4,,,,,,,4.7,unmapped
+RXST,2026-07-14,43.1,,,,,,,2.5,unmapped
+RYAM,2025-12-15,31.6,,,,,,,1.7,unmapped
+RYAM,2026-02-05,25.7,,,,,,,-0.8,unmapped
+RYAM,2026-07-08,33.7,,,,,,,3.3,unmapped
+RYAN,2026-06-03,36.2,KIE,Insurance,18.7,-4.1,KIE,18.7,-1.0,sector-driven
+RYTM,2026-06-02,30.9,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+RZLT,2025-12-11,79.3,,,,,,,1.2,unmapped
+RZLT,2026-03-13,39.1,,,,,,,3.9,unmapped
+RZLT,2026-05-05,39.2,,,,,,,4.2,unmapped
+S,2026-04-10,38.9,XSW,Software,19.8,-9.4,HACK,20.3,8.6,sector-driven
+S,2026-06-12,34.1,XSW,Software,7.3,6.1,HACK,19.0,1.6,sector-assisted
+S,2026-09-08,32.8,XSW,Software,1.7,0.3,HACK,15.9,2.0,solo
+SA,2025-11-04,33.7,GDX,Gold Miners,18.9,-11.4,GDXJ,22.6,1.3,sector-driven
+SA,2026-01-30,39.1,GDX,Gold Miners,22.4,9.8,GDXJ,24.9,-0.8,sector-driven
+SA,2026-03-19,35.3,GDX,Gold Miners,21.0,-20.5,GDXJ,22.2,8.0,sector-driven
+SA,2026-07-16,31.6,GDX,Gold Miners,23.6,-18.2,GDXJ,25.1,3.6,sector-driven
+SAFT,2026-06-25,42.4,,,,,,,0.6,unmapped
+SAH,2026-06-17,28.5,XRT,Retail,6.0,6.9,XRT,6.0,0.6,sector-assisted
+SAIA,2025-11-17,29.5,,,,,,,2.0,unmapped
+SAIA,2026-03-18,31.0,,,,,,,6.4,unmapped
+SAIL,2026-04-24,31.8,XSW,Software,9.0,5.4,XSW,9.0,4.5,sector-driven
+SAIL,2026-07-10,36.1,XSW,Software,10.6,8.2,XSW,10.6,2.4,sector-driven
+SAM,2026-10-05,32.0,,,,,,,-2.9,unmapped
+SANA,2025-11-13,40.4,XBI,Biotech,10.1,3.7,XBI,10.1,1.5,sector-driven
+SANA,2026-03-24,26.4,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+SANA,2026-06-04,34.1,XBI,Biotech,20.7,-3.1,XBI,20.7,-0.5,sector-driven
+SANA,2026-07-22,31.4,XBI,Biotech,11.5,3.5,XBI,11.5,2.9,sector-driven
+SANM,2026-03-18,35.1,,,,,,,6.4,unmapped
+SANM,2026-07-29,21.2,,,,,,,5.0,unmapped
+SAP,2026-07-10,30.6,AIQ,AI,-0.1,3.4,AIQ,-0.1,2.4,solo
+SATL,2025-11-12,36.2,XAR,Aerospace & Defense (SPDR),1.9,-2.9,XAR,1.9,0.9,solo
+SATL,2026-02-23,54.5,XAR,Aerospace & Defense (SPDR),-5.7,-1.5,XAR,-5.7,-3.7,solo
+SATL,2026-04-23,41.6,XAR,Aerospace & Defense (SPDR),1.8,-1.9,XAR,1.8,4.9,solo
+SATL,2026-07-14,33.4,XAR,Aerospace & Defense (SPDR),9.7,-4.8,XAR,9.7,2.5,sector-driven
+SATL,2026-09-01,20.2,XAR,Aerospace & Defense (SPDR),-8.2,-10.7,XAR,-8.2,0.4,solo
+SBAC,2026-03-23,23.9,XLRE,Real Estate,7.9,-6.4,XLRE,7.9,7.5,sector-assisted
+SBET,2026-02-05,21.3,,,,,,,-0.8,unmapped
+SBET,2026-03-30,21.6,,,,,,,12.7,unmapped
+SBET,2026-06-24,27.1,,,,,,,0.7,unmapped
+SBET,2026-08-03,38.7,,,,,,,1.2,unmapped
+SBS,2026-09-23,22.2,,,,,,,0.7,unmapped
+SBSW,2025-11-04,27.4,,,,,,,1.3,unmapped
+SBSW,2025-12-29,48.7,,,,,,,1.1,unmapped
+SBSW,2026-07-16,29.1,,,,,,,3.6,unmapped
+SCCO,2025-12-29,36.4,COPX,Copper Miners,29.1,13.9,COPX,29.1,1.1,sector-driven
+SCL,2026-01-20,29.4,,,,,,,1.3,unmapped
+SCO,2026-05-18,30.2,,,,,,,1.6,unmapped
+SCZM,2026-01-02,21.6,,,,,,,1.8,unmapped
+SCZM,2026-07-13,41.4,,,,,,,3.2,unmapped
+SDGR,2026-05-15,22.2,,,,,,,2.1,unmapped
+SDGR,2026-07-22,32.1,,,,,,,2.9,unmapped
+SDGR,2026-09-08,44.3,,,,,,,2.0,unmapped
+SE,2026-06-10,34.8,,,,,,,4.4,unmapped
+SECZ,2026-08-13,45.1,,,,,,,-1.8,unmapped
+SEDG,2026-01-30,31.2,TAN,Solar,4.7,9.6,TAN,4.7,-0.8,sector-assisted
+SEDG,2026-03-05,38.3,TAN,Solar,1.4,-6.9,TAN,1.4,-3.5,solo
+SEDG,2026-04-17,61.3,TAN,Solar,17.8,-3.2,TAN,17.8,4.1,sector-driven
+SEI,2025-12-17,39.9,OIH,Oil Services,15.8,1.3,OIH,15.8,3.4,sector-driven
+SEI,2026-02-18,35.0,OIH,Oil Services,-0.4,18.7,OIH,-0.4,-3.7,solo
+SEI,2026-03-30,40.9,OIH,Oil Services,9.9,1.6,OIH,9.9,12.7,sector-driven
+SEI,2026-08-21,29.7,OIH,Oil Services,-4.5,6.0,OIH,-4.5,1.3,solo
+SENS,2025-12-29,20.3,XHE,Healthcare Equipment,-2.8,0.3,XHE,-2.8,1.1,solo
+SENS,2026-05-01,34.1,XHE,Healthcare Equipment,-3.6,4.4,XHE,-3.6,5.3,solo
+SENS,2026-07-10,30.5,XHE,Healthcare Equipment,5.8,7.6,XHE,5.8,2.4,sector-assisted
+SEPN,2026-01-28,28.0,XPH,Pharma,5.2,-2.8,XPH,5.2,-0.9,sector-assisted
+SEPN,2026-04-29,32.4,XPH,Pharma,3.6,4.5,XPH,3.6,6.1,sector-assisted
+SEPN,2026-07-14,38.3,XPH,Pharma,3.8,11.5,XPH,3.8,2.5,sector-assisted
+SERV,2025-11-13,28.8,,,,,,,1.5,unmapped
+SERV,2025-12-17,55.3,,,,,,,3.4,unmapped
+SEZL,2025-11-13,33.4,,,,,,,1.5,unmapped
+SEZL,2026-02-04,24.0,,,,,,,-0.7,unmapped
+SEZL,2026-03-27,29.8,,,,,,,12.9,unmapped
+SFIX,2025-11-13,28.3,XRT,Retail,9.3,-4.2,XRT,9.3,1.5,sector-driven
+SFIX,2026-05-13,34.4,XRT,Retail,10.0,-4.9,XRT,10.0,-0.6,sector-driven
+SFL,2026-01-26,31.7,,,,,,,-0.8,unmapped
+SG,2025-11-11,33.8,,,,,,,0.7,unmapped
+SG,2026-03-20,32.0,,,,,,,9.3,unmapped
+SG,2026-05-12,32.1,,,,,,,-1.7,unmapped
+SG,2026-08-11,24.7,,,,,,,-1.1,unmapped
+SG,2026-09-17,55.0,,,,,,,1.5,unmapped
+SGHC,2026-02-05,21.7,,,,,,,-0.8,unmapped
+SGML,2026-01-30,30.1,,,,,,,-0.8,unmapped
+SGML,2026-03-13,57.1,,,,,,,3.9,unmapped
+SGML,2026-07-29,30.2,,,,,,,5.0,unmapped
+SGMT,2026-03-19,34.0,XBI,Biotech,13.4,-3.5,XBI,13.4,8.0,sector-driven
+SGMT,2026-07-20,45.7,XBI,Biotech,5.7,7.4,XBI,5.7,4.1,sector-assisted
+SGRY,2026-09-28,58.3,,,,,,,-0.0,unmapped
+SHAK,2026-07-08,37.0,,,,,,,3.3,unmapped
+SHAZ,2026-01-20,1568.4,,,,,,,1.3,unmapped
+SHAZ,2026-03-18,31.7,,,,,,,6.4,unmapped
+SHAZ,2026-07-28,35.5,,,,,,,3.4,unmapped
+SHEN,2026-02-03,32.6,,,,,,,-0.6,unmapped
+SHIP,2025-11-04,33.7,,,,,,,1.3,unmapped
+SHIP,2026-01-16,35.1,,,,,,,-1.3,unmapped
+SHIP,2026-07-01,33.6,,,,,,,-0.5,unmapped
+SHLS,2026-04-13,39.7,TAN,Solar,14.8,-0.9,TAN,14.8,7.8,sector-driven
+SHMD,2025-11-20,31.0,,,,,,,4.7,unmapped
+SHMD,2026-05-04,24.9,,,,,,,5.8,unmapped
+SHMD,2026-07-20,35.6,,,,,,,4.1,unmapped
+SHMD,2026-08-28,45.6,,,,,,,-0.2,unmapped
+SHNY,2025-12-29,84.6,,,,,,,1.1,unmapped
+SHNY,2026-03-26,22.4,,,,,,,10.7,unmapped
+SHNY,2026-07-16,26.8,,,,,,,3.6,unmapped
+SHOO,2025-11-03,27.1,,,,,,,-0.3,unmapped
+SHOP,2026-07-22,23.8,AIQ,AI,4.7,-5.1,ARKK,9.6,2.9,sector-assisted
+SHOP,2026-09-09,30.9,AIQ,AI,4.0,1.4,ARKK,4.4,2.2,sector-assisted
+SIBN,2026-05-11,33.8,XHE,Healthcare Equipment,7.3,-4.7,XHE,7.3,-0.3,sector-assisted
+SII,2025-12-18,31.1,,,,,,,0.5,unmapped
+SII,2026-02-05,39.8,,,,,,,-0.8,unmapped
+SII,2026-07-28,30.1,,,,,,,3.4,unmapped
+SILC,2025-12-30,38.4,,,,,,,1.0,unmapped
+SILC,2026-03-18,31.6,,,,,,,6.4,unmapped
+SILC,2026-07-29,28.7,,,,,,,5.0,unmapped
+SILC,2026-09-01,30.6,,,,,,,0.4,unmapped
+SIMO,2025-12-08,30.5,,,,,,,1.2,unmapped
+SIMO,2026-03-26,38.0,,,,,,,10.7,unmapped
+SIMO,2026-06-10,29.7,,,,,,,4.4,unmapped
+SIMO,2026-07-29,25.5,,,,,,,5.0,unmapped
+SION,2026-03-18,31.5,,,,,,,6.4,unmapped
+SION,2026-06-08,31.3,,,,,,,1.1,unmapped
+SION,2026-08-10,62.2,,,,,,,-0.9,unmapped
+SITE,2026-10-05,30.7,,,,,,,-2.9,unmapped
+SITM,2025-11-13,25.4,XSD,Semiconductors (equal-wt),5.4,-10.5,XSD,5.4,1.5,sector-assisted
+SITM,2026-03-12,30.2,XSD,Semiconductors (equal-wt),14.0,-11.7,XSD,14.0,2.3,sector-driven
+SITM,2026-07-17,28.3,XSD,Semiconductors (equal-wt),8.8,-15.7,XSD,8.8,4.5,sector-driven
+SIVR,2025-11-18,30.8,,,,,,,1.7,unmapped
+SKE,2026-01-08,26.6,GDX,Gold Miners,6.4,12.6,GDX,6.4,0.2,sector-assisted
+SKE,2026-07-16,29.6,GDX,Gold Miners,23.6,-18.2,GDXJ,25.1,3.6,sector-driven
+SKM,2025-12-26,33.7,,,,,,,0.8,unmapped
+SKM,2026-03-20,34.0,,,,,,,9.3,unmapped
+SKM,2026-07-28,29.1,,,,,,,3.4,unmapped
+SKWD,2026-05-28,32.2,KIE,Insurance,10.2,-2.8,KIE,10.2,-3.2,sector-driven
+SKYD,2026-03-18,30.3,XLC,Comm Services,4.9,-0.8,XLC,4.9,6.4,sector-assisted
+SKYD,2026-07-27,28.9,XLC,Comm Services,4.3,1.4,XLC,4.3,3.3,sector-assisted
+SLAB,2026-01-06,37.0,XSD,Semiconductors (equal-wt),-1.5,3.0,XSD,-1.5,-0.8,solo
+SLB,2025-12-24,30.9,XLE,Energy,11.2,1.0,OIH,22.1,0.3,sector-driven
+SLDB,2025-11-05,50.6,XBI,Biotech,12.9,3.6,XBI,12.9,1.0,sector-driven
+SLDB,2026-01-12,32.3,XBI,Biotech,1.1,1.1,XBI,1.1,-0.4,solo
+SLDB,2026-02-12,20.2,XBI,Biotech,-1.1,-2.9,XBI,-1.1,-2.8,solo
+SLDB,2026-05-22,32.8,XBI,Biotech,11.8,-1.2,XBI,11.8,-1.4,sector-driven
+SLDE,2026-06-03,31.3,,,,,,,-1.0,unmapped
+SLDE,2026-09-30,21.9,,,,,,,1.3,unmapped
+SLDP,2025-12-17,29.6,,,,,,,3.4,unmapped
+SLDP,2026-03-26,21.9,,,,,,,10.7,unmapped
+SLGL,2025-11-06,26.5,,,,,,,2.3,unmapped
+SLGL,2025-12-12,61.3,,,,,,,2.1,unmapped
+SLGL,2026-02-10,45.1,,,,,,,-2.3,unmapped
+SLI,2025-11-04,42.0,,,,,,,1.3,unmapped
+SLI,2026-07-29,35.2,,,,,,,5.0,unmapped
+SLN,2026-02-04,27.9,,,,,,,-0.7,unmapped
+SLN,2026-03-24,53.3,,,,,,,8.9,unmapped
+SLN,2026-05-26,38.0,,,,,,,-2.1,unmapped
+SLN,2026-07-31,27.9,,,,,,,3.0,unmapped
+SLN,2026-09-21,59.8,,,,,,,-0.9,unmapped
+SLS,2025-11-12,34.9,XBI,Biotech,7.8,5.3,XBI,7.8,0.9,sector-assisted
+SLS,2026-01-30,34.0,XBI,Biotech,1.4,2.3,XBI,1.4,-0.8,solo
+SLS,2026-03-30,21.8,XBI,Biotech,10.4,-6.1,XBI,10.4,12.7,sector-driven
+SLS,2026-05-05,68.2,XBI,Biotech,-3.0,3.8,XBI,-3.0,4.2,solo
+SLS,2026-06-12,71.0,XBI,Biotech,16.3,-0.8,XBI,16.3,1.6,sector-driven
+SLS,2026-07-24,36.6,XBI,Biotech,10.1,-0.7,XBI,10.1,3.6,sector-driven
+SLV,2025-11-18,30.7,,,,,,,1.7,unmapped
+SM,2026-07-01,22.9,XOP,Oil & Gas E&P,13.8,-8.6,XOP,13.8,-0.5,sector-driven
+SM,2026-08-05,31.9,XOP,Oil & Gas E&P,17.0,2.0,XOP,17.0,-0.6,sector-driven
+SMCI,2026-03-20,40.3,XLK,Tech (broad),14.4,-4.0,XLK,14.4,9.3,sector-driven
+SMCI,2026-07-15,39.9,XLK,Tech (broad),4.0,-5.2,XLK,4.0,2.3,sector-assisted
+SMG,2026-10-05,32.6,,,,,,,-2.9,unmapped
+SMMT,2026-03-17,33.2,XBI,Biotech,9.9,-0.4,XBI,9.9,4.7,sector-driven
+SMMT,2026-08-14,38.0,XBI,Biotech,0.1,2.0,XBI,0.1,-2.0,solo
+SMR,2025-12-17,28.4,,,,,,,3.4,unmapped
+SMR,2026-03-27,22.8,,,,,,,12.9,unmapped
+SMR,2026-07-29,22.1,,,,,,,5.0,unmapped
+SMTC,2026-03-18,39.6,XSD,Semiconductors (equal-wt),23.0,-8.6,XSD,23.0,6.4,sector-driven
+SMTC,2026-07-29,36.0,XSD,Semiconductors (equal-wt),9.2,-28.0,XSD,9.2,5.0,sector-driven
+SMTC,2026-09-01,34.8,XSD,Semiconductors (equal-wt),12.0,-10.0,XSD,12.0,0.4,sector-driven
+SMWB,2026-04-09,32.3,,,,,,,7.6,unmapped
+SMWB,2026-05-13,48.4,,,,,,,-0.6,unmapped
+SMX,2026-06-10,21.6,,,,,,,4.4,unmapped
+SN,2025-11-17,34.5,XHB,Homebuilders,6.2,-7.6,XHB,6.2,2.0,sector-assisted
+SN,2026-05-13,31.7,XHB,Homebuilders,9.0,-3.8,XHB,9.0,-0.6,sector-driven
+SNAP,2026-03-18,30.3,,,,,,,6.4,unmapped
+SNAP,2026-07-24,20.5,,,,,,,3.6,unmapped
+SNDK,2025-12-03,41.6,XLK,Tech (broad),-0.3,-1.4,XLK,-0.3,0.2,solo
+SNDK,2026-03-05,24.0,XLK,Tech (broad),-2.9,1.5,XLK,-2.9,-3.5,solo
+SNDK,2026-07-28,35.1,XLK,Tech (broad),6.2,-7.7,XLK,6.2,3.4,sector-assisted
+SNDR,2025-11-17,28.9,,,,,,,2.0,unmapped
+SNDR,2026-05-12,28.1,,,,,,,-1.7,unmapped
+SNDX,2026-06-05,34.0,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+SNEX,2026-03-11,30.7,,,,,,,0.8,unmapped
+SNOW,2026-04-29,69.4,,,,,,,6.1,unmapped
+SNPS,2026-03-27,31.0,SMH,Semiconductors,35.3,-7.9,SMH,35.3,12.9,sector-driven
+SNPS,2026-09-14,31.7,SMH,Semiconductors,9.1,-7.9,SMH,9.1,2.5,sector-driven
+SNX,2026-03-12,30.2,,,,,,,2.3,unmapped
+SOC,2025-11-14,33.7,XOP,Oil & Gas E&P,-3.2,8.7,XOP,-3.2,1.3,solo
+SOC,2026-02-04,67.5,XOP,Oil & Gas E&P,14.1,14.8,XOP,14.1,-0.7,sector-driven
+SOC,2026-06-30,41.6,XOP,Oil & Gas E&P,11.6,-7.7,XOP,11.6,-2.3,sector-driven
+SOLS,2025-12-23,28.9,,,,,,,0.2,unmapped
+SOUN,2026-03-24,29.2,XSW,Software,9.0,-1.3,XSW,9.0,8.9,sector-driven
+SOUN,2026-07-29,23.0,XSW,Software,9.5,6.3,XSW,9.5,5.0,sector-driven
+SPHR,2026-02-05,27.6,,,,,,,-0.8,unmapped
+SPIR,2025-11-14,20.7,,,,,,,1.3,unmapped
+SPIR,2025-12-17,72.5,,,,,,,3.4,unmapped
+SPIR,2026-02-20,32.7,,,,,,,-5.7,unmapped
+SPIR,2026-07-20,25.4,,,,,,,4.1,unmapped
+SPOT,2026-02-05,36.9,,,,,,,-0.8,unmapped
+SPPP,2025-11-21,31.0,,,,,,,4.3,unmapped
+SPRB,2026-03-05,31.1,,,,,,,-3.5,unmapped
+SPRB,2026-07-27,39.7,,,,,,,3.3,unmapped
+SPRY,2025-11-13,21.8,XBI,Biotech,10.1,3.7,XBI,10.1,1.5,sector-driven
+SPRY,2026-05-15,32.1,XBI,Biotech,4.4,-5.8,XBI,4.4,2.1,sector-assisted
+SPSC,2026-07-22,34.3,XSW,Software,18.4,4.6,XSW,18.4,2.9,sector-driven
+SPT,2026-04-10,48.3,XSW,Software,19.8,-9.4,XSW,19.8,8.6,sector-driven
+SPT,2026-05-14,21.5,XSW,Software,6.1,3.5,XSW,6.1,-0.9,sector-assisted
+SPT,2026-06-18,28.4,XSW,Software,9.8,0.2,XSW,9.8,-0.6,sector-driven
+SPT,2026-07-23,37.6,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+SPT,2026-09-24,34.9,XSW,Software,7.3,-0.4,XSW,7.3,-0.4,sector-assisted
+SPYU,2026-03-19,30.5,,,,,,,8.0,unmapped
+SQM,2026-03-20,24.3,LIT,Lithium & Battery,23.8,-8.4,REMX,30.4,9.3,sector-driven
+SRAD,2026-05-12,32.1,,,,,,,-1.7,unmapped
+SRPT,2025-11-04,34.8,XBI,Biotech,12.8,4.2,XBI,12.8,1.3,sector-driven
+SRPT,2026-02-26,24.2,XBI,Biotech,-3.0,1.4,XBI,-3.0,-6.2,solo
+SRPT,2026-06-10,25.4,XBI,Biotech,23.6,-4.5,XBI,23.6,4.4,sector-driven
+SRPT,2026-07-30,38.8,XBI,Biotech,11.1,-3.3,XBI,11.1,4.0,sector-driven
+SRRK,2026-06-10,28.6,XBI,Biotech,23.6,-4.5,XBI,23.6,4.4,sector-driven
+SRRK,2026-08-03,23.9,XBI,Biotech,10.3,-8.4,XBI,10.3,1.2,sector-driven
+SRTA,2025-11-20,27.3,,,,,,,4.7,unmapped
+SRTA,2026-04-09,31.9,,,,,,,7.6,unmapped
+SRXH,2025-11-04,46.9,,,,,,,1.3,unmapped
+SRXH,2026-05-18,52.5,,,,,,,1.6,unmapped
+SRXH,2026-07-29,26.9,,,,,,,5.0,unmapped
+SRZN,2025-11-04,25.1,,,,,,,1.3,unmapped
+SRZN,2026-01-12,26.9,,,,,,,-0.4,unmapped
+SRZN,2026-03-24,32.1,,,,,,,8.9,unmapped
+SRZN,2026-07-28,20.4,,,,,,,3.4,unmapped
+SRZN,2026-08-28,32.2,,,,,,,-0.2,unmapped
+SSL,2026-01-21,40.3,,,,,,,-0.1,unmapped
+SSL,2026-02-26,57.3,,,,,,,-6.2,unmapped
+SSL,2026-08-13,30.4,,,,,,,-1.8,unmapped
+SSP,2026-02-05,40.2,,,,,,,-0.8,unmapped
+SSP,2026-03-17,32.9,,,,,,,4.7,unmapped
+SSRM,2026-01-30,39.9,GDX,Gold Miners,22.4,9.8,GDXJ,24.9,-0.8,sector-driven
+SSRM,2026-03-18,20.8,GDX,Gold Miners,10.8,-14.1,GDXJ,11.2,6.4,sector-driven
+SSRM,2026-07-20,30.9,GDX,Gold Miners,29.9,-14.3,GDXJ,31.3,4.1,sector-driven
+SSYS,2025-12-29,25.4,,,,,,,1.1,unmapped
+STAA,2026-03-11,42.8,XHE,Healthcare Equipment,-2.6,-5.3,XHE,-2.6,0.8,solo
+STGW,2025-12-19,31.1,,,,,,,0.7,unmapped
+STGW,2026-02-17,28.1,,,,,,,-1.8,unmapped
+STGW,2026-07-22,23.4,,,,,,,2.9,unmapped
+STK,2026-03-30,30.7,,,,,,,12.7,unmapped
+STLA,2025-11-20,25.0,,,,,,,4.7,unmapped
+STLA,2026-03-19,32.6,,,,,,,8.0,unmapped
+STLD,2026-03-23,32.1,SLX,Steel,13.9,-11.4,SLX,13.9,7.5,sector-driven
+STLN,2025-12-01,24.1,,,,,,,1.3,unmapped
+STLN,2026-02-13,35.9,,,,,,,-1.9,unmapped
+STLN,2026-04-23,36.7,,,,,,,4.9,unmapped
+STLN,2026-06-03,24.8,,,,,,,-1.0,unmapped
+STLN,2026-07-23,29.0,,,,,,,3.3,unmapped
+STM,2026-03-19,36.4,SMH,Semiconductors,17.5,-3.7,SMH,17.5,8.0,sector-driven
+STNE,2026-09-23,21.7,,,,,,,0.7,unmapped
+STNG,2026-01-05,31.2,,,,,,,0.3,unmapped
+STOK,2025-11-05,36.1,XBI,Biotech,12.9,3.6,XBI,12.9,1.0,sector-driven
+STRL,2026-01-08,34.8,,,,,,,0.2,unmapped
+STRL,2026-03-30,23.3,,,,,,,12.7,unmapped
+STRO,2025-12-01,45.6,,,,,,,1.3,unmapped
+STRO,2026-01-13,48.0,,,,,,,-0.3,unmapped
+STRO,2026-03-19,49.4,,,,,,,8.0,unmapped
+STRO,2026-06-02,23.8,,,,,,,-1.6,unmapped
+STRZ,2026-02-03,35.8,,,,,,,-0.6,unmapped
+STRZ,2026-03-27,57.9,,,,,,,12.9,unmapped
+STRZ,2026-05-18,31.1,,,,,,,1.6,unmapped
+STTK,2025-11-04,34.7,XBI,Biotech,12.8,4.2,XBI,12.8,1.3,sector-driven
+STTK,2026-02-04,32.5,XBI,Biotech,-1.1,2.6,XBI,-1.1,-0.7,solo
+STTK,2026-06-02,33.7,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+STUB,2025-11-19,28.4,,,,,,,2.1,unmapped
+STUB,2026-04-20,35.2,,,,,,,4.2,unmapped
+STVN,2026-04-07,33.5,,,,,,,9.8,unmapped
+STX,2025-12-29,57.5,XLK,Tech (broad),2.3,2.1,XLK,2.3,1.1,solo
+STX,2026-03-12,34.5,XLK,Tech (broad),3.6,-3.6,XLK,3.6,2.3,sector-assisted
+SUPV,2026-05-13,42.7,,,,,,,-0.6,unmapped
+SUPX,2025-12-30,30.4,,,,,,,1.0,unmapped
+SUPX,2026-04-24,37.1,,,,,,,4.5,unmapped
+SUPX,2026-07-27,51.4,,,,,,,3.3,unmapped
+SVC,2026-04-01,31.4,,,,,,,9.7,unmapped
+SVCO,2026-02-12,36.7,,,,,,,-2.8,unmapped
+SVCO,2026-05-18,26.8,,,,,,,1.6,unmapped
+SVCO,2026-09-01,34.2,,,,,,,0.4,unmapped
+SVM,2025-11-04,30.4,GDX,Gold Miners,18.9,-11.4,GDXJ,22.6,1.3,sector-driven
+SVM,2025-12-29,54.1,GDX,Gold Miners,30.6,3.9,GDXJ,32.2,1.1,sector-driven
+SVM,2026-02-05,23.5,GDX,Gold Miners,9.7,1.5,GDXJ,12.4,-0.8,sector-driven
+SVM,2026-03-19,35.4,GDX,Gold Miners,21.0,-20.5,GDXJ,22.2,8.0,sector-driven
+SVM,2026-07-13,32.4,GDX,Gold Miners,23.3,-5.6,GDXJ,24.5,3.2,sector-driven
+SVRA,2025-11-17,53.1,XBI,Biotech,6.3,4.3,XBI,6.3,2.0,sector-assisted
+SVV,2026-05-13,39.4,XRT,Retail,10.0,-4.9,XRT,10.0,-0.6,sector-driven
+SWBI,2025-11-13,26.8,,,,,,,1.5,unmapped
+SWIM,2026-07-15,33.2,,,,,,,2.3,unmapped
+SWKS,2026-04-01,31.8,XSD,Semiconductors (equal-wt),47.0,-2.0,XSD,47.0,9.7,sector-driven
+SWKS,2026-08-18,26.9,XSD,Semiconductors (equal-wt),-7.3,-2.1,XLK,-0.9,-1.8,solo
+SXC,2026-04-27,34.8,XME,Metals & Mining,2.0,13.5,XME,2.0,5.0,solo
+SXT,2026-03-26,41.6,,,,,,,10.7,unmapped
+SYM,2025-12-17,20.4,BOTZ,Robotics & AI,10.1,3.9,BOTZ,10.1,3.4,sector-driven
+SYM,2026-03-30,20.4,BOTZ,Robotics & AI,17.7,-16.2,BOTZ,17.7,12.7,sector-driven
+SYNA,2025-11-18,23.4,XSD,Semiconductors (equal-wt),5.9,-14.0,XSD,5.9,1.7,sector-assisted
+SYNA,2026-03-27,33.5,XSD,Semiconductors (equal-wt),45.6,-9.0,XSD,45.6,12.9,sector-driven
+SYNA,2026-09-16,31.5,XSD,Semiconductors (equal-wt),0.6,-7.3,XSD,0.6,2.3,solo
+SYRE,2025-11-06,49.4,XBI,Biotech,13.0,2.6,XBI,13.0,2.3,sector-driven
+SYRE,2026-01-23,37.9,XBI,Biotech,-0.8,2.5,XBI,-0.8,-1.0,solo
+SYRE,2026-03-20,77.9,XBI,Biotech,14.5,-3.6,XBI,14.5,9.3,sector-driven
+SYRE,2026-05-19,31.3,XBI,Biotech,9.9,-7.0,XBI,9.9,1.0,sector-driven
+TALO,2026-02-25,43.7,XOP,Oil & Gas E&P,23.2,9.8,XOP,23.2,-5.0,sector-driven
+TARA,2025-12-26,31.0,,,,,,,0.8,unmapped
+TARS,2026-08-05,35.0,XPH,Pharma,2.1,0.9,XPH,2.1,-0.6,solo
+TASK,2026-06-25,20.8,,,,,,,0.6,unmapped
+TATT,2025-12-05,33.0,,,,,,,1.2,unmapped
+TATT,2026-02-05,25.2,,,,,,,-0.8,unmapped
+TATT,2026-05-13,31.6,,,,,,,-0.6,unmapped
+TBBB,2025-11-13,25.5,,,,,,,1.5,unmapped
+TBLA,2026-04-08,40.9,,,,,,,8.6,unmapped
+TBN,2026-02-27,36.9,,,,,,,-7.4,unmapped
+TCPC,2026-07-13,25.1,,,,,,,3.2,unmapped
+TDC,2026-04-23,26.5,XSW,Software,9.7,2.5,XSW,9.7,4.9,sector-driven
+TDOC,2026-04-09,32.6,,,,,,,7.6,unmapped
+TDOC,2026-06-05,35.0,,,,,,,1.6,unmapped
+TDOC,2026-10-01,54.0,,,,,,,0.7,unmapped
+TDUP,2026-03-19,33.1,,,,,,,8.0,unmapped
+TDUP,2026-05-19,31.6,,,,,,,1.0,unmapped
+TDW,2026-07-29,21.6,OIH,Oil Services,10.0,-1.1,OIH,10.0,5.0,sector-driven
+TE,2025-11-06,58.4,XSD,Semiconductors (equal-wt),2.9,-2.0,XSD,2.9,2.3,solo
+TE,2026-01-08,21.4,XSD,Semiconductors (equal-wt),4.5,0.2,TAN,14.6,0.2,sector-assisted
+TE,2026-02-12,22.7,XSD,Semiconductors (equal-wt),-8.9,2.4,TAN,-2.6,-2.8,solo
+TE,2026-04-06,25.9,XSD,Semiconductors (equal-wt),46.0,5.7,XSD,46.0,9.0,sector-driven
+TE,2026-05-13,51.0,XSD,Semiconductors (equal-wt),5.9,43.5,XSD,5.9,-0.6,sector-assisted
+TE,2026-07-29,21.2,XSD,Semiconductors (equal-wt),9.2,-28.0,XSD,9.2,5.0,sector-driven
+TEAM,2026-04-02,30.2,XSW,Software,8.2,-8.2,XSW,8.2,9.9,sector-driven
+TEAM,2026-06-30,34.1,XSW,Software,6.3,-8.4,XSW,6.3,-2.3,sector-assisted
+TECH,2026-05-27,47.0,BBH,Biotech (VanEck),6.4,0.5,IBB,8.1,-1.9,sector-assisted
+TECK,2026-03-20,30.4,COPX,Copper Miners,24.9,-22.5,COPX,24.9,9.3,sector-driven
+TECX,2025-11-05,27.6,,,,,,,1.0,unmapped
+TECX,2026-02-05,56.9,,,,,,,-0.8,unmapped
+TECX,2026-06-03,33.5,,,,,,,-1.0,unmapped
+TECX,2026-07-29,26.5,,,,,,,5.0,unmapped
+TEM,2026-03-27,23.6,BBH,Biotech (VanEck),2.3,-9.1,ARKK,18.4,12.9,solo
+TEM,2026-06-05,29.4,BBH,Biotech (VanEck),13.0,1.4,BBH,13.0,1.6,sector-driven
+TEM,2026-07-22,30.4,BBH,Biotech (VanEck),21.3,5.4,BBH,21.3,2.9,sector-driven
+TEM,2026-09-11,20.2,BBH,Biotech (VanEck),4.8,4.4,ARKK,7.2,2.1,sector-assisted
+TEN,2026-02-05,33.1,,,,,,,-0.8,unmapped
+TENB,2026-04-09,31.3,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+TENB,2026-05-13,30.6,XSW,Software,7.0,3.2,HACK,13.5,-0.6,sector-assisted
+TENB,2026-06-17,48.4,XSW,Software,9.3,1.7,HACK,16.4,0.6,sector-driven
+TENB,2026-09-11,38.1,XSW,Software,4.8,-4.3,HACK,19.0,2.1,sector-assisted
+TENX,2026-02-26,27.4,,,,,,,-6.2,unmapped
+TENX,2026-06-02,21.4,,,,,,,-1.6,unmapped
+TENX,2026-08-10,44.0,,,,,,,-0.9,unmapped
+TEO,2026-05-13,35.2,,,,,,,-0.6,unmapped
+TER,2025-11-20,25.2,SMH,Semiconductors,9.6,-5.7,SMH,9.6,4.7,sector-driven
+TER,2025-12-31,24.5,SMH,Semiconductors,12.0,0.5,SMH,12.0,1.5,sector-driven
+TER,2026-03-20,29.0,SMH,Semiconductors,20.6,-7.3,SMH,20.6,9.3,sector-driven
+TER,2026-05-18,27.5,SMH,Semiconductors,12.8,17.7,SMH,12.8,1.6,sector-driven
+TER,2026-07-20,32.8,SMH,Semiconductors,6.3,-15.3,XLK,8.3,4.1,sector-assisted
+TER,2026-09-03,32.6,SMH,Semiconductors,14.1,-3.3,SMH,14.1,-0.2,sector-driven
+TEVA,2026-07-21,30.3,,,,,,,2.6,unmapped
+TFII,2025-11-19,31.6,,,,,,,2.1,unmapped
+TFII,2026-03-19,33.3,,,,,,,8.0,unmapped
+TFX,2026-03-24,30.3,XHE,Healthcare Equipment,5.3,-9.2,XHE,5.3,8.9,sector-assisted
+TGB,2025-11-21,30.1,COPX,Copper Miners,25.1,-4.2,COPX,25.1,4.3,sector-driven
+TGB,2025-12-29,46.5,COPX,Copper Miners,29.1,13.9,COPX,29.1,1.1,sector-driven
+TGB,2026-03-19,31.0,COPX,Copper Miners,20.5,-16.0,COPX,20.5,8.0,sector-driven
+TGB,2026-07-17,23.2,COPX,Copper Miners,16.8,-15.2,COPX,16.8,4.5,sector-driven
+TGTX,2026-05-19,30.6,XBI,Biotech,9.9,-7.0,XBI,9.9,1.0,sector-driven
+TH,2025-11-07,31.7,,,,,,,1.9,unmapped
+TH,2026-02-11,31.4,,,,,,,-3.8,unmapped
+TH,2026-07-30,30.8,,,,,,,4.0,unmapped
+THC,2026-06-29,40.3,,,,,,,-0.0,unmapped
+THRM,2026-06-29,23.8,,,,,,,-0.0,unmapped
+THRY,2026-02-26,23.8,,,,,,,-6.2,unmapped
+THRY,2026-03-27,51.8,,,,,,,12.9,unmapped
+TIC,2026-03-27,32.4,,,,,,,12.9,unmapped
+TIC,2026-07-10,33.6,,,,,,,2.4,unmapped
+TIGO,2026-01-09,36.2,,,,,,,-0.0,unmapped
+TIMB,2026-01-13,33.0,,,,,,,-0.3,unmapped
+TITN,2026-03-18,24.7,,,,,,,6.4,unmapped
+TITN,2026-08-07,37.3,,,,,,,-0.4,unmapped
+TLN,2026-04-09,24.9,,,,,,,7.6,unmapped
+TLN,2026-05-19,30.3,,,,,,,1.0,unmapped
+TLN,2026-09-14,32.5,,,,,,,2.5,unmapped
+TLRY,2025-11-17,35.3,,,,,,,2.0,unmapped
+TLS,2026-09-29,38.1,,,,,,,0.7,unmapped
+TMC,2025-11-05,30.0,,,,,,,1.0,unmapped
+TMC,2025-12-29,33.1,,,,,,,1.1,unmapped
+TMC,2026-03-27,21.8,,,,,,,12.9,unmapped
+TMC,2026-07-24,30.5,,,,,,,3.6,unmapped
+TMDX,2026-07-22,32.0,XHE,Healthcare Equipment,13.8,4.7,XHE,13.8,2.9,sector-driven
+TMQ,2025-11-14,26.4,,,,,,,1.3,unmapped
+TMQ,2025-12-17,27.5,,,,,,,3.4,unmapped
+TMQ,2026-03-20,41.0,,,,,,,9.3,unmapped
+TMQ,2026-07-16,27.3,,,,,,,3.6,unmapped
+TNDM,2026-01-23,42.0,XHE,Healthcare Equipment,-1.1,-1.5,XHE,-1.1,-1.0,solo
+TNDM,2026-05-15,30.7,XHE,Healthcare Equipment,5.9,-8.8,XHE,5.9,2.1,sector-assisted
+TNDM,2026-07-06,30.4,XHE,Healthcare Equipment,4.7,9.4,XHE,4.7,0.9,sector-assisted
+TNET,2026-04-10,23.6,,,,,,,8.6,unmapped
+TNET,2026-06-17,30.7,,,,,,,0.6,unmapped
+TNGX,2025-12-17,48.2,XBI,Biotech,3.0,5.0,XBI,3.0,3.4,sector-assisted
+TNGX,2026-02-05,41.8,XBI,Biotech,2.7,-4.5,XBI,2.7,-0.8,solo
+TNGX,2026-05-11,34.4,XBI,Biotech,-2.5,2.0,XBI,-2.5,-0.3,solo
+TNXP,2026-07-28,37.4,,,,,,,3.4,unmapped
+TPB,2026-04-21,26.4,,,,,,,4.2,unmapped
+TPC,2026-07-13,31.8,,,,,,,3.2,unmapped
+TPG,2026-07-22,27.3,,,,,,,2.9,unmapped
+TPL,2026-01-20,34.4,XLE,Energy,15.5,9.0,XLE,15.5,1.3,sector-driven
+TRDA,2026-07-24,29.4,,,,,,,3.6,unmapped
+TREE,2025-12-16,30.5,,,,,,,2.3,unmapped
+TREE,2026-02-23,28.5,,,,,,,-3.7,unmapped
+TREE,2026-06-08,27.2,,,,,,,1.1,unmapped
+TRI,2026-06-30,30.2,,,,,,,-2.3,unmapped
+TRIP,2026-05-15,32.8,JETS,Airlines,19.2,-8.5,JETS,19.2,2.1,sector-driven
+TRLV,2025-11-13,61.1,,,,,,,1.5,unmapped
+TRLV,2026-03-24,32.1,,,,,,,8.9,unmapped
+TRLV,2026-05-19,24.7,,,,,,,1.0,unmapped
+TRLV,2026-07-24,32.8,,,,,,,3.6,unmapped
+TRN,2026-01-20,28.8,,,,,,,1.3,unmapped
+TRNS,2026-01-26,30.2,,,,,,,-0.8,unmapped
+TRNS,2026-05-19,31.1,,,,,,,1.0,unmapped
+TROX,2025-11-06,21.1,,,,,,,2.3,unmapped
+TROX,2025-12-08,35.5,,,,,,,1.2,unmapped
+TROX,2026-03-03,40.6,,,,,,,-4.2,unmapped
+TRU,2026-09-30,21.6,,,,,,,1.3,unmapped
+TRUP,2026-07-23,30.6,,,,,,,3.3,unmapped
+TRUP,2026-09-24,33.4,,,,,,,-0.4,unmapped
+TRVI,2025-11-20,22.2,XPH,Pharma,9.9,5.4,XPH,9.9,4.7,sector-driven
+TRVI,2026-03-18,36.0,XPH,Pharma,8.4,-7.6,XPH,8.4,6.4,sector-driven
+TRVI,2026-05-29,31.8,XPH,Pharma,14.1,1.1,XPH,14.1,-1.8,sector-driven
+TSAT,2025-11-12,37.0,,,,,,,0.9,unmapped
+TSAT,2026-02-04,30.9,,,,,,,-0.7,unmapped
+TSAT,2026-03-30,36.0,,,,,,,12.7,unmapped
+TSAT,2026-07-10,42.5,,,,,,,2.4,unmapped
+TSEM,2026-02-19,32.0,,,,,,,-3.6,unmapped
+TSEM,2026-04-23,38.6,,,,,,,4.9,unmapped
+TSHA,2025-11-07,42.3,XBI,Biotech,13.6,3.8,XBI,13.6,1.9,sector-driven
+TSHA,2026-03-17,31.3,XBI,Biotech,9.9,-0.4,XBI,9.9,4.7,sector-driven
+TSSI,2025-12-15,48.0,,,,,,,1.7,unmapped
+TSSI,2026-02-10,39.5,,,,,,,-2.3,unmapped
+TSSI,2026-04-09,20.7,,,,,,,7.6,unmapped
+TSSI,2026-05-15,20.7,,,,,,,2.1,unmapped
+TSSI,2026-09-02,25.8,,,,,,,0.1,unmapped
+TTAN,2026-02-05,35.3,XSW,Software,5.5,-22.5,XSW,5.5,-0.8,sector-assisted
+TTAN,2026-05-12,24.2,XSW,Software,4.8,9.0,XSW,4.8,-1.7,sector-assisted
+TTAN,2026-07-22,35.9,XSW,Software,18.4,4.6,XSW,18.4,2.9,sector-driven
+TTAN,2026-09-10,30.2,XSW,Software,4.3,-1.1,XSW,4.3,2.4,sector-assisted
+TTMI,2025-11-20,20.4,,,,,,,4.7,unmapped
+TTMI,2025-12-24,30.4,,,,,,,0.3,unmapped
+TTMI,2026-03-12,34.2,,,,,,,2.3,unmapped
+TVTX,2026-03-16,50.3,XBI,Biotech,9.5,0.9,XBI,9.5,4.1,sector-driven
+TVTX,2026-05-26,30.3,XBI,Biotech,12.4,0.2,XBI,12.4,-2.1,sector-driven
+TWFG,2026-06-02,31.4,,,,,,,-1.6,unmapped
+TWI,2026-01-07,30.3,,,,,,,-1.7,unmapped
+TWLO,2026-04-02,40.0,XLK,Tech (broad),19.1,-2.9,XLK,19.1,9.9,sector-driven
+TWLO,2026-07-22,21.0,XLK,Tech (broad),1.9,-2.1,XLK,1.9,2.9,solo
+TWLO,2026-09-08,24.1,XLK,Tech (broad),7.6,0.8,XLK,7.6,2.0,sector-assisted
+TWN,2026-03-24,37.0,,,,,,,8.9,unmapped
+TWST,2025-12-12,30.0,XBI,Biotech,0.9,10.1,ARKK,3.5,2.1,solo
+TWST,2026-03-19,33.5,XBI,Biotech,13.4,-3.5,XBI,13.4,8.0,sector-driven
+TWST,2026-05-12,21.1,XBI,Biotech,-4.5,-0.6,XBI,-4.5,-1.7,solo
+TWST,2026-07-16,37.3,XBI,Biotech,3.2,12.4,ARKK,7.7,3.6,sector-assisted
+TWST,2026-09-04,64.4,XBI,Biotech,-4.7,4.1,ARKK,7.6,0.8,solo
+TXG,2025-12-12,32.7,ARKK,Innovation,3.5,4.3,ARKK,3.5,2.1,sector-assisted
+TXG,2026-03-16,48.6,ARKK,Innovation,3.9,2.6,ARKK,3.9,4.1,sector-assisted
+TXG,2026-04-29,38.6,ARKK,Innovation,10.2,8.8,ARKK,10.2,6.1,sector-driven
+TXG,2026-08-06,38.6,ARKK,Innovation,15.1,-7.1,ARKK,15.1,0.6,sector-driven
+TXN,2026-03-25,43.4,SMH,Semiconductors,20.8,-6.4,XSD,32.6,7.9,sector-driven
+TYL,2026-02-12,21.9,XLK,Tech (broad),-1.7,-3.8,XSW,0.6,-2.8,solo
+TYRA,2026-02-13,32.2,XBI,Biotech,0.9,-1.2,XBI,0.9,-1.9,solo
+U,2025-11-13,24.2,XSW,Software,3.9,-5.5,XSW,3.9,1.5,sector-assisted
+U,2026-03-18,31.6,XSW,Software,1.3,-0.9,ESPO,4.6,6.4,solo
+U,2026-07-09,32.8,XSW,Software,6.2,8.2,XSW,6.2,2.2,sector-assisted
+UA,2025-12-08,31.0,,,,,,,1.2,unmapped
+UAA,2025-12-08,31.2,,,,,,,1.2,unmapped
+UAL,2026-05-19,30.0,XLI,Industrials,6.5,-1.6,JETS,21.9,1.0,sector-assisted
+UAMY,2025-12-10,29.2,XME,Metals & Mining,16.9,6.6,XME,16.9,1.2,sector-driven
+UAMY,2026-02-05,28.1,XME,Metals & Mining,-4.8,1.3,XME,-4.8,-0.8,solo
+UAMY,2026-03-30,37.4,XME,Metals & Mining,13.2,-15.2,XME,13.2,12.7,sector-driven
+UAN,2026-02-20,26.7,,,,,,,-5.7,unmapped
+UCO,2026-02-12,78.1,,,,,,,-2.8,unmapped
+UCO,2026-04-17,34.0,,,,,,,4.1,unmapped
+UCO,2026-06-24,35.3,,,,,,,0.7,unmapped
+UCO,2026-08-04,33.2,,,,,,,-1.2,unmapped
+UCTT,2025-12-12,44.3,,,,,,,2.1,unmapped
+UCTT,2026-03-12,35.2,,,,,,,2.3,unmapped
+UCTT,2026-05-15,32.1,,,,,,,2.1,unmapped
+UEC,2025-12-15,38.5,XME,Metals & Mining,22.1,9.8,URNM,25.6,1.7,sector-driven
+UEC,2026-07-24,34.2,XME,Metals & Mining,17.3,-6.4,URNM,17.7,3.6,sector-driven
+UFPT,2026-07-09,24.9,XHE,Healthcare Equipment,4.1,5.5,XHE,4.1,2.2,sector-assisted
+UGA,2026-02-11,34.3,,,,,,,-3.8,unmapped
+UGL,2025-12-29,51.5,,,,,,,1.1,unmapped
+UGL,2026-07-28,33.3,,,,,,,3.4,unmapped
+UGP,2026-01-08,31.5,,,,,,,0.2,unmapped
+UGP,2026-06-16,33.0,,,,,,,0.3,unmapped
+UI,2026-01-15,30.1,,,,,,,-1.5,unmapped
+UI,2026-03-20,41.3,,,,,,,9.3,unmapped
+ULCC,2025-11-04,35.8,JETS,Airlines,13.2,-3.1,JETS,13.2,1.3,sector-driven
+ULCC,2026-01-08,35.3,JETS,Airlines,7.4,6.4,JETS,7.4,0.2,sector-assisted
+ULCC,2026-03-18,36.5,JETS,Airlines,8.3,-18.8,JETS,8.3,6.4,sector-driven
+ULCC,2026-04-22,25.7,JETS,Airlines,2.2,4.2,JETS,2.2,4.2,solo
+ULCC,2026-06-05,23.9,JETS,Airlines,16.4,1.3,JETS,16.4,1.6,sector-driven
+UMAC,2025-11-20,26.9,,,,,,,4.7,unmapped
+UMAC,2026-02-05,48.3,,,,,,,-0.8,unmapped
+UMAC,2026-03-27,25.8,,,,,,,12.9,unmapped
+UMAC,2026-05-01,103.5,,,,,,,5.3,unmapped
+UMAC,2026-07-07,33.0,,,,,,,3.2,unmapped
+UMC,2025-12-23,32.2,,,,,,,0.2,unmapped
+UMC,2026-03-20,38.6,,,,,,,9.3,unmapped
+UMC,2026-08-19,35.0,,,,,,,-0.8,unmapped
+UNCY,2026-01-05,25.4,,,,,,,0.3,unmapped
+UNF,2026-02-06,30.4,,,,,,,-1.8,unmapped
+UNG,2025-12-31,37.8,,,,,,,1.5,unmapped
+UNH,2026-03-25,31.1,XLV,Healthcare,0.0,-7.1,XLV,0.0,7.9,solo
+UNIT,2026-03-12,38.6,,,,,,,2.3,unmapped
+UPB,2026-03-03,22.3,,,,,,,-4.2,unmapped
+UPB,2026-06-16,22.1,,,,,,,0.3,unmapped
+UPBD,2026-06-17,26.9,XRT,Retail,6.0,6.9,XRT,6.0,0.6,sector-assisted
+UPBD,2026-10-02,30.1,XRT,Retail,7.4,-4.5,XRT,7.4,-1.8,sector-assisted
+UPST,2025-11-13,32.3,,,,,,,1.5,unmapped
+UPST,2026-03-20,34.2,,,,,,,9.3,unmapped
+UPWK,2025-11-03,31.3,,,,,,,-0.3,unmapped
+URBN,2025-11-14,34.6,XRT,Retail,9.7,-4.8,XRT,9.7,1.3,sector-driven
+URGN,2026-03-20,41.4,,,,,,,9.3,unmapped
+URGN,2026-06-04,35.5,,,,,,,-0.5,unmapped
+URI,2026-03-25,32.0,XLI,Industrials,5.5,-5.8,XLI,5.5,7.9,sector-assisted
+UROY,2025-12-26,40.3,,,,,,,0.8,unmapped
+UROY,2026-06-26,50.5,,,,,,,1.4,unmapped
+UROY,2026-07-29,39.9,,,,,,,5.0,unmapped
+USAR,2025-11-25,20.1,XME,Metals & Mining,16.3,-5.5,XME,16.3,2.6,sector-driven
+USAR,2025-12-26,95.0,XME,Metals & Mining,19.0,13.3,XME,19.0,0.8,sector-driven
+USAR,2026-03-20,39.0,XME,Metals & Mining,17.3,-13.4,XME,17.3,9.3,sector-driven
+USAR,2026-07-20,26.7,XME,Metals & Mining,20.8,-16.4,XME,20.8,4.1,sector-driven
+USAS,2025-11-04,25.1,GDXJ,Junior Gold Miners,22.6,-13.4,GDXJ,22.6,1.3,sector-driven
+USAS,2026-01-08,32.8,GDXJ,Junior Gold Miners,6.3,13.9,GDXJ,6.3,0.2,sector-assisted
+USAS,2026-03-30,21.4,GDXJ,Junior Gold Miners,5.5,-28.7,GDXJ,5.5,12.7,sector-assisted
+USAS,2026-07-16,35.0,GDXJ,Junior Gold Miners,25.1,-19.0,GDXJ,25.1,3.6,sector-driven
+USAU,2025-11-21,39.1,GDXJ,Junior Gold Miners,31.4,-1.0,GDXJ,31.4,4.3,sector-driven
+USAU,2026-07-28,28.4,GDXJ,Junior Gold Miners,40.4,-2.2,GDXJ,40.4,3.4,sector-driven
+USO,2026-02-06,35.5,,,,,,,-1.8,unmapped
+USO,2026-06-24,31.2,,,,,,,0.7,unmapped
+UTI,2026-01-30,34.4,,,,,,,-0.8,unmapped
+UTI,2026-06-09,24.1,,,,,,,2.3,unmapped
+UTZ,2026-06-22,105.3,,,,,,,0.5,unmapped
+UUUU,2025-12-12,33.3,URNM,Uranium,16.9,3.9,URNM,16.9,2.1,sector-driven
+UUUU,2026-03-30,25.1,URNM,Uranium,12.9,-22.7,URNM,12.9,12.7,sector-driven
+UUUU,2026-07-17,31.4,URNM,Uranium,13.1,-15.5,URNM,13.1,4.5,sector-driven
+UWMC,2025-12-23,25.1,,,,,,,0.2,unmapped
+UWMC,2026-08-06,21.7,,,,,,,0.6,unmapped
+UWMC,2026-09-30,27.1,,,,,,,1.3,unmapped
+VAC,2026-02-05,28.6,,,,,,,-0.8,unmapped
+VAC,2026-05-15,34.5,,,,,,,2.1,unmapped
+VAL,2026-01-09,59.1,OIH,Oil Services,17.8,4.7,OIH,17.8,-0.0,sector-driven
+VAL,2026-10-02,34.3,OIH,Oil Services,7.5,-11.0,OIH,7.5,-1.8,sector-assisted
+VALE,2025-12-31,23.3,SLX,Steel,10.8,6.1,SLX,10.8,1.5,sector-driven
+VC,2026-03-30,28.8,,,,,,,12.7,unmapped
+VCEL,2026-05-28,35.0,XBI,Biotech,14.4,5.5,XBI,14.4,-3.2,sector-driven
+VCX,2026-02-19,316.9,,,,,,,-3.6,unmapped
+VCX,2026-04-20,154.6,,,,,,,4.2,unmapped
+VCX,2026-07-28,31.4,,,,,,,3.4,unmapped
+VCYT,2026-04-09,30.0,XBI,Biotech,1.4,4.3,XBI,1.4,7.6,solo
+VECO,2026-03-17,38.7,,,,,,,4.7,unmapped
+VECO,2026-09-03,34.9,,,,,,,-0.2,unmapped
+VEEV,2026-07-30,40.0,XLV,Healthcare,4.9,2.5,XLV,4.9,4.0,sector-assisted
+VELO,2025-11-04,34.6,,,,,,,1.3,unmapped
+VELO,2026-02-12,26.7,,,,,,,-2.8,unmapped
+VELO,2026-03-25,57.8,,,,,,,7.9,unmapped
+VELO,2026-07-15,34.7,,,,,,,2.3,unmapped
+VERA,2025-11-03,43.6,XBI,Biotech,7.9,6.0,XBI,7.9,-0.3,sector-assisted
+VERA,2026-06-02,36.5,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+VERX,2026-04-09,30.2,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+VERX,2026-09-24,31.2,XSW,Software,7.3,-0.4,XSW,7.3,-0.4,sector-assisted
+VET,2026-01-07,24.1,,,,,,,-1.7,unmapped
+VET,2026-02-25,26.3,,,,,,,-5.0,unmapped
+VET,2026-07-02,32.6,,,,,,,0.3,unmapped
+VFC,2025-11-04,35.7,,,,,,,1.3,unmapped
+VFC,2026-03-20,32.1,,,,,,,9.3,unmapped
+VFC,2026-09-17,31.5,,,,,,,1.5,unmapped
+VG,2025-12-15,33.6,XOP,Oil & Gas E&P,2.3,-3.2,XOP,2.3,1.7,solo
+VG,2026-02-17,47.9,XOP,Oil & Gas E&P,17.2,11.8,XOP,17.2,-1.8,sector-driven
+VG,2026-06-23,32.2,XOP,Oil & Gas E&P,14.0,-9.5,XOP,14.0,1.9,sector-driven
+VIA,2026-03-24,31.3,XSW,Software,9.0,-1.3,XSW,9.0,8.9,sector-driven
+VIA,2026-06-05,23.8,XSW,Software,6.5,3.1,XSW,6.5,1.6,sector-assisted
+VIA,2026-07-30,40.7,XSW,Software,15.8,2.8,XSW,15.8,4.0,sector-driven
+VIAV,2025-12-30,37.1,,,,,,,1.0,unmapped
+VIAV,2026-03-10,39.3,,,,,,,0.1,unmapped
+VIAV,2026-07-29,20.3,,,,,,,5.0,unmapped
+VIAV,2026-09-03,40.1,,,,,,,-0.2,unmapped
+VICR,2025-11-21,31.6,,,,,,,4.3,unmapped
+VICR,2026-02-17,24.8,,,,,,,-1.8,unmapped
+VICR,2026-03-20,36.6,,,,,,,9.3,unmapped
+VICR,2026-05-19,33.6,,,,,,,1.0,unmapped
+VICR,2026-08-24,41.2,,,,,,,1.5,unmapped
+VIR,2025-11-06,27.0,XBI,Biotech,13.0,2.6,XBI,13.0,2.3,sector-driven
+VIR,2025-12-30,33.2,XBI,Biotech,4.2,1.9,XBI,4.2,1.0,sector-assisted
+VIR,2026-02-20,20.4,XBI,Biotech,-3.6,-5.2,XBI,-3.6,-5.7,solo
+VIR,2026-03-27,26.7,XBI,Biotech,11.3,-6.1,XBI,11.3,12.9,sector-driven
+VIR,2026-07-31,25.1,XBI,Biotech,10.5,-8.4,XBI,10.5,3.0,sector-driven
+VIRT,2026-03-13,30.2,,,,,,,3.9,unmapped
+VISN,2026-04-01,39.5,,,,,,,9.7,unmapped
+VIST,2026-01-06,23.9,,,,,,,-0.8,unmapped
+VITL,2026-05-13,32.1,,,,,,,-0.6,unmapped
+VITL,2026-06-22,30.1,,,,,,,0.5,unmapped
+VIV,2026-01-13,31.0,,,,,,,-0.3,unmapped
+VKTX,2026-02-05,25.4,XBI,Biotech,2.7,-4.5,XBI,2.7,-0.8,solo
+VKTX,2026-06-02,28.0,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+VLO,2026-06-18,32.6,XLE,Energy,8.6,-10.2,XOP,11.5,-0.6,sector-driven
+VLRS,2025-11-20,50.4,,,,,,,4.7,unmapped
+VLRS,2026-05-18,36.5,,,,,,,1.6,unmapped
+VMI,2026-04-16,28.3,,,,,,,6.7,unmapped
+VNDA,2025-11-07,39.5,XBI,Biotech,13.6,3.8,XBI,13.6,1.9,sector-driven
+VNDA,2026-02-12,44.0,XBI,Biotech,-1.1,-2.9,XBI,-1.1,-2.8,solo
+VNET,2025-12-15,34.0,,,,,,,1.7,unmapped
+VNET,2026-04-28,26.0,,,,,,,5.5,unmapped
+VOR,2025-11-14,35.0,XBI,Biotech,7.8,5.8,XBI,7.8,1.3,sector-assisted
+VOR,2026-02-05,25.3,XBI,Biotech,2.7,-4.5,XBI,2.7,-0.8,solo
+VOR,2026-03-19,26.0,XBI,Biotech,13.4,-3.5,XBI,13.4,8.0,sector-driven
+VOR,2026-06-02,34.6,XBI,Biotech,22.7,-4.3,XBI,22.7,-1.6,sector-driven
+VOXR,2025-11-04,31.6,GDXJ,Junior Gold Miners,22.6,-13.4,GDXJ,22.6,1.3,sector-driven
+VOXR,2026-02-05,28.4,GDXJ,Junior Gold Miners,12.4,0.8,GDXJ,12.4,-0.8,sector-driven
+VOXR,2026-07-24,31.8,GDXJ,Junior Gold Miners,35.6,-0.1,GDXJ,35.6,3.6,sector-driven
+VOYG,2025-11-13,26.8,XAR,Aerospace & Defense (SPDR),4.2,-4.6,XAR,4.2,1.5,sector-assisted
+VOYG,2026-03-26,20.4,XAR,Aerospace & Defense (SPDR),-0.2,-9.4,XAR,-0.2,10.7,solo
+VOYG,2026-04-29,102.1,XAR,Aerospace & Defense (SPDR),16.0,-1.7,XAR,16.0,6.1,sector-driven
+VOYG,2026-07-10,34.3,XAR,Aerospace & Defense (SPDR),5.7,1.8,XAR,5.7,2.4,sector-assisted
+VPG,2025-11-20,32.4,,,,,,,4.7,unmapped
+VPG,2026-01-05,34.3,,,,,,,0.3,unmapped
+VPG,2026-03-20,30.8,,,,,,,9.3,unmapped
+VRDN,2026-04-07,34.3,XBI,Biotech,3.8,1.4,XBI,3.8,9.8,sector-assisted
+VRDN,2026-06-08,26.3,XBI,Biotech,27.0,-4.7,XBI,27.0,1.1,sector-driven
+VRDN,2026-07-17,22.5,XBI,Biotech,2.0,10.8,XBI,2.0,4.5,solo
+VRDN,2026-10-01,30.6,XBI,Biotech,2.1,-6.6,XBI,2.1,0.7,solo
+VREX,2026-07-13,70.9,XHE,Healthcare Equipment,6.8,7.5,XHE,6.8,3.2,sector-assisted
+VRNS,2026-04-09,33.2,XSW,Software,16.6,-8.6,XSW,16.6,7.6,sector-driven
+VRNS,2026-06-18,42.2,XSW,Software,9.8,0.2,HACK,14.7,-0.6,sector-driven
+VRRM,2026-07-07,32.2,,,,,,,3.2,unmapped
+VRT,2026-01-13,43.9,XLI,Industrials,6.7,5.0,XLI,6.7,-0.3,sector-assisted
+VRT,2026-03-30,30.2,XLI,Industrials,9.2,-12.3,XLI,9.2,12.7,sector-driven
+VSAT,2025-12-17,42.8,,,,,,,3.4,unmapped
+VSAT,2026-03-20,38.1,,,,,,,9.3,unmapped
+VSAT,2026-06-26,20.9,,,,,,,1.4,unmapped
+VSEC,2025-12-17,32.5,XAR,Aerospace & Defense (SPDR),28.0,2.4,XAR,28.0,3.4,sector-driven
+VSEC,2026-05-19,31.2,XAR,Aerospace & Defense (SPDR),10.1,-3.0,XAR,10.1,1.0,sector-driven
+VSEC,2026-07-29,22.7,XAR,Aerospace & Defense (SPDR),3.3,-9.1,XAR,3.3,5.0,sector-assisted
+VSH,2025-11-20,25.8,,,,,,,4.7,unmapped
+VSH,2025-12-30,36.5,,,,,,,1.0,unmapped
+VSH,2026-03-12,31.0,,,,,,,2.3,unmapped
+VSNT,2026-02-10,32.7,,,,,,,-2.3,unmapped
+VSTM,2025-11-04,27.2,XBI,Biotech,12.8,4.2,XBI,12.8,1.3,sector-driven
+VSTM,2026-03-24,23.1,XBI,Biotech,14.9,-7.5,XBI,14.9,8.9,sector-driven
+VSTM,2026-06-05,30.7,XBI,Biotech,27.5,-3.7,XBI,27.5,1.6,sector-driven
+VSTM,2026-08-06,35.0,XBI,Biotech,6.4,-6.0,XBI,6.4,0.6,sector-assisted
+VSTM,2026-10-02,26.6,XBI,Biotech,1.0,-6.1,XBI,1.0,-1.8,solo
+VSTS,2025-11-03,22.9,,,,,,,-0.3,unmapped
+VSTS,2026-01-12,33.4,,,,,,,-0.4,unmapped
+VSTS,2026-03-19,34.0,,,,,,,8.0,unmapped
+VSTS,2026-05-07,38.3,,,,,,,0.8,unmapped
+VSXY,2025-11-20,67.8,XRT,Retail,13.4,-9.3,XRT,13.4,4.7,sector-driven
+VSXY,2026-03-27,23.7,XRT,Retail,8.5,-9.5,XRT,8.5,12.9,sector-driven
+VSXY,2026-05-04,59.2,XRT,Retail,0.1,2.2,XRT,0.1,5.8,solo
+VTEX,2026-02-12,22.3,,,,,,,-2.8,unmapped
+VVX,2026-05-15,26.2,XAR,Aerospace & Defense (SPDR),8.5,-5.7,XAR,8.5,2.1,sector-driven
+VYX,2026-04-10,30.5,XSW,Software,19.8,-9.4,XSW,19.8,8.6,sector-driven
+VYX,2026-10-05,30.4,XSW,Software,3.2,-0.8,XSW,3.2,-2.9,sector-assisted
+VZLA,2025-11-04,30.2,GDXJ,Junior Gold Miners,22.6,-13.4,GDXJ,22.6,1.3,sector-driven
+VZLA,2026-07-31,27.4,GDXJ,Junior Gold Miners,35.0,-7.3,GDXJ,35.0,3.0,sector-driven
+W,2026-05-15,42.5,XHB,Homebuilders,12.6,-10.3,XHB,12.6,2.1,sector-driven
+W,2026-07-22,27.9,XHB,Homebuilders,1.2,-1.2,XHB,1.2,2.9,solo
+WATT,2025-12-18,58.1,,,,,,,0.5,unmapped
+WATT,2026-09-01,26.6,,,,,,,0.4,unmapped
+WAY,2026-06-16,26.1,,,,,,,0.3,unmapped
+WBTN,2026-03-18,33.7,,,,,,,6.4,unmapped
+WBTN,2026-08-14,34.9,,,,,,,-2.0,unmapped
+WDAY,2026-06-22,24.9,XLK,Tech (broad),-5.9,7.7,XSW,10.0,0.5,solo
+WDAY,2026-07-23,54.3,XLK,Tech (broad),2.6,-2.5,XSW,20.2,3.3,solo
+WDC,2025-11-21,27.0,XLK,Tech (broad),6.5,-7.0,XLK,6.5,4.3,sector-assisted
+WDC,2025-12-30,58.1,XLK,Tech (broad),1.0,1.7,XLK,1.0,1.0,solo
+WDC,2026-03-12,31.5,XLK,Tech (broad),3.6,-3.6,XLK,3.6,2.3,sector-assisted
+WDFC,2026-01-09,24.9,,,,,,,-0.0,unmapped
+WEN,2026-06-03,25.5,,,,,,,-1.0,unmapped
+WERN,2025-11-19,33.4,,,,,,,2.1,unmapped
+WERN,2026-05-12,25.3,,,,,,,-1.7,unmapped
+WEST,2026-01-06,35.3,,,,,,,-0.8,unmapped
+WEST,2026-03-20,40.3,,,,,,,9.3,unmapped
+WEX,2026-06-25,32.4,,,,,,,0.6,unmapped
+WF,2026-01-12,30.4,,,,,,,-0.4,unmapped
+WGO,2025-11-20,36.0,,,,,,,4.7,unmapped
+WGS,2026-05-05,53.6,,,,,,,4.2,unmapped
+WGS,2026-07-14,30.9,,,,,,,2.5,unmapped
+WHD,2026-07-13,32.9,OIH,Oil Services,7.4,-10.1,OIH,7.4,3.2,sector-assisted
+WING,2026-05-13,27.6,,,,,,,-0.6,unmapped
+WING,2026-09-23,22.5,,,,,,,0.7,unmapped
+WIX,2026-02-11,20.5,,,,,,,-3.8,unmapped
+WIX,2026-06-23,20.4,,,,,,,1.9,unmapped
+WK,2026-07-23,48.8,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+WK,2026-09-29,29.6,XSW,Software,11.8,-8.4,XSW,11.8,0.7,sector-driven
+WLDN,2025-12-17,31.3,,,,,,,3.4,unmapped
+WLDN,2026-04-27,39.2,,,,,,,5.0,unmapped
+WLFC,2025-12-17,39.3,,,,,,,3.4,unmapped
+WLFC,2026-06-01,33.4,,,,,,,-1.3,unmapped
+WLK,2025-11-19,30.1,,,,,,,2.1,unmapped
+WLK,2026-01-30,34.6,,,,,,,-0.8,unmapped
+WLTH,2026-03-13,33.1,,,,,,,3.9,unmapped
+WLY,2026-02-12,27.5,,,,,,,-2.8,unmapped
+WNC,2025-11-12,30.1,,,,,,,0.9,unmapped
+WNC,2026-05-13,30.3,,,,,,,-0.6,unmapped
+WOLF,2025-11-11,21.4,XSD,Semiconductors (equal-wt),6.0,-4.1,XSD,6.0,0.7,sector-assisted
+WOLF,2026-01-30,35.4,XSD,Semiconductors (equal-wt),2.7,7.8,XSD,2.7,-0.8,solo
+WOLF,2026-03-12,36.8,XSD,Semiconductors (equal-wt),14.0,-11.7,XSD,14.0,2.3,sector-driven
+WOLF,2026-07-29,34.2,XSD,Semiconductors (equal-wt),9.2,-28.0,XSD,9.2,5.0,sector-driven
+WOLF,2026-09-03,31.4,XSD,Semiconductors (equal-wt),16.1,-8.1,XSD,16.1,-0.2,sector-driven
+WPM,2025-12-29,33.2,GDX,Gold Miners,30.6,3.9,GDX,30.6,1.1,sector-driven
+WPM,2026-03-20,30.2,GDX,Gold Miners,23.7,-24.6,GDX,23.7,9.3,sector-driven
+WPM,2026-07-20,32.1,GDX,Gold Miners,29.9,-14.3,GDX,29.9,4.1,sector-driven
+WPP,2026-06-29,31.2,,,,,,,-0.0,unmapped
+WRBY,2025-11-10,33.5,XRT,Retail,8.2,-4.1,XRT,8.2,0.2,sector-driven
+WRBY,2026-04-10,41.9,XRT,Retail,2.4,3.4,XRT,2.4,8.6,solo
+WRBY,2026-06-05,23.4,XRT,Retail,5.7,-2.0,XRT,5.7,1.6,sector-assisted
+WRD,2025-11-14,20.1,,,,,,,1.3,unmapped
+WRD,2026-03-19,31.8,,,,,,,8.0,unmapped
+WRLD,2026-05-28,32.4,,,,,,,-3.2,unmapped
+WS,2026-01-06,31.4,SLX,Steel,9.9,10.9,SLX,9.9,-0.8,sector-driven
+WS,2026-03-27,34.2,SLX,Steel,15.3,-12.8,SLX,15.3,12.9,sector-driven
+WSC,2025-11-18,24.4,,,,,,,1.7,unmapped
+WSC,2026-03-27,33.1,,,,,,,12.9,unmapped
+WSE,2026-03-20,28.5,FINX,Fintech,12.3,0.4,FINX,12.3,9.3,sector-driven
+WSM,2026-05-15,32.4,XHB,Homebuilders,12.6,-10.3,XHB,12.6,2.1,sector-driven
+WSO,2026-03-27,31.6,,,,,,,12.9,unmapped
+WT,2026-03-20,38.2,,,,,,,9.3,unmapped
+WT,2026-07-29,35.7,,,,,,,5.0,unmapped
+WTI,2025-12-30,33.9,,,,,,,1.0,unmapped
+WTI,2026-04-01,39.9,,,,,,,9.7,unmapped
+WTTR,2026-04-20,30.1,OIH,Oil Services,13.8,3.1,OIH,13.8,4.2,sector-driven
+WULF,2025-11-13,22.7,XSW,Software,3.9,-5.5,XSW,3.9,1.5,sector-assisted
+WULF,2025-12-26,30.3,XSW,Software,-6.7,3.9,XSW,-6.7,0.8,solo
+WULF,2026-03-13,32.6,XSW,Software,-5.1,0.6,XSW,-5.1,3.9,solo
+WULF,2026-05-18,32.5,XSW,Software,4.6,2.4,XSW,4.6,1.6,sector-assisted
+WVE,2025-11-07,135.6,XPH,Pharma,17.0,2.1,XPH,17.0,1.9,sector-driven
+WW,2025-11-19,24.7,,,,,,,2.1,unmapped
+WW,2026-04-24,38.0,,,,,,,4.5,unmapped
+WW,2026-07-28,28.3,,,,,,,3.4,unmapped
+WYFI,2025-12-15,37.1,,,,,,,1.7,unmapped
+WYFI,2026-03-26,36.0,,,,,,,10.7,unmapped
+WYFI,2026-06-09,66.8,,,,,,,2.3,unmapped
+XENE,2026-02-06,51.7,,,,,,,-1.8,unmapped
+XENE,2026-06-08,36.6,,,,,,,1.1,unmapped
+XERS,2026-06-01,30.5,XPH,Pharma,15.6,-1.9,XPH,15.6,-1.3,sector-driven
+XERS,2026-09-09,31.1,XPH,Pharma,-9.2,-0.6,XPH,-9.2,2.2,solo
+XMTR,2026-03-27,26.5,,,,,,,12.9,unmapped
+XMTR,2026-09-10,25.5,,,,,,,2.4,unmapped
+XNCR,2025-11-07,27.2,XBI,Biotech,13.6,3.8,XBI,13.6,1.9,sector-driven
+XNCR,2026-05-29,31.3,XBI,Biotech,15.9,4.1,XBI,15.9,-1.8,sector-driven
+XNDU,2026-03-16,55.3,,,,,,,4.1,unmapped
+XPER,2026-04-09,32.6,,,,,,,7.6,unmapped
+XPO,2026-01-08,41.5,,,,,,,0.2,unmapped
+XPOF,2025-11-14,20.1,,,,,,,1.3,unmapped
+XPOF,2026-02-27,35.0,,,,,,,-7.4,unmapped
+XPOF,2026-05-15,42.4,,,,,,,2.1,unmapped
+XPOF,2026-09-16,26.5,,,,,,,2.3,unmapped
+XRAY,2026-06-15,32.1,XHE,Healthcare Equipment,5.9,5.9,XHE,5.9,0.3,sector-assisted
+XRP,2026-07-27,36.1,,,,,,,3.3,unmapped
+XRPC,2026-07-27,35.9,,,,,,,3.3,unmapped
+XRPZ,2026-07-27,36.1,,,,,,,3.3,unmapped
+XXI,2026-04-01,37.4,,,,,,,9.7,unmapped
+XXI,2026-07-23,34.3,,,,,,,3.3,unmapped
+XYZ,2026-02-12,21.8,XLF,Financials,-5.5,-4.6,FINX,6.0,-2.8,solo
+XYZ,2026-03-27,27.3,XLF,Financials,8.4,-6.6,ARKK,18.4,12.9,sector-driven
+XZO,2025-12-04,28.8,,,,,,,0.8,unmapped
+XZO,2026-06-03,42.8,,,,,,,-1.0,unmapped
+YETI,2025-11-04,32.7,,,,,,,1.3,unmapped
+YETI,2026-05-13,32.2,,,,,,,-0.6,unmapped
+YEXT,2026-06-05,31.9,XSW,Software,6.5,3.1,XSW,6.5,1.6,sector-assisted
+YOU,2026-01-27,35.4,XSW,Software,-16.0,-6.7,XSW,-16.0,-0.3,solo
+YOU,2026-04-10,23.0,XSW,Software,19.8,-9.4,XSW,19.8,8.6,sector-driven
+YPF,2026-03-02,30.5,,,,,,,-7.7,unmapped
+YPF,2026-05-08,26.4,,,,,,,0.2,unmapped
+ZBIO,2026-01-06,35.9,XBI,Biotech,2.6,-0.7,XBI,2.6,-0.8,solo
+ZBIO,2026-05-27,36.4,XBI,Biotech,12.9,2.5,XBI,12.9,-1.9,sector-driven
+ZBRA,2026-07-15,48.3,XLK,Tech (broad),4.0,-5.2,XLK,4.0,2.3,sector-assisted
+ZCSH,2025-12-01,31.8,,,,,,,1.3,unmapped
+ZCSH,2026-02-23,25.0,,,,,,,-3.7,unmapped
+ZCSH,2026-06-05,53.0,,,,,,,1.6,unmapped
+ZCSH,2026-07-31,106.7,,,,,,,3.0,unmapped
+ZD,2026-02-05,31.0,,,,,,,-0.8,unmapped
+ZETA,2025-12-12,26.7,XSW,Software,-2.6,3.9,XSW,-2.6,2.1,solo
+ZETA,2026-05-06,34.4,XSW,Software,9.8,10.7,XSW,9.8,3.2,sector-driven
+ZETA,2026-07-16,38.4,XSW,Software,14.1,7.2,XSW,14.1,3.6,sector-driven
+ZGN,2026-01-28,30.9,,,,,,,-0.9,unmapped
+ZGN,2026-03-19,31.4,,,,,,,8.0,unmapped
+ZIM,2026-01-16,30.4,,,,,,,-1.3,unmapped
+ZIP,2025-11-04,31.7,,,,,,,1.3,unmapped
+ZIP,2026-02-05,40.6,,,,,,,-0.8,unmapped
+ZIP,2026-03-20,30.7,,,,,,,9.3,unmapped
+ZIP,2026-06-17,27.3,,,,,,,0.6,unmapped
+ZIP,2026-09-22,22.3,,,,,,,-0.6,unmapped
+ZLAB,2026-03-20,39.6,,,,,,,9.3,unmapped
+ZLAB,2026-07-23,32.2,,,,,,,3.3,unmapped
+ZM,2026-04-08,26.3,XSW,Software,10.7,-5.6,XSW,10.7,8.6,sector-driven
+ZM,2026-07-23,26.4,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+ZS,2026-04-23,28.6,XSW,Software,9.7,2.5,HACK,18.7,4.9,sector-driven
+ZS,2026-07-23,25.2,XSW,Software,20.2,2.6,XSW,20.2,3.3,sector-driven
+ZS,2026-09-08,31.1,XSW,Software,1.7,0.3,HACK,15.9,2.0,solo
+ZSL,2026-02-20,41.5,,,,,,,-5.7,unmapped
+ZSL,2026-05-08,32.4,,,,,,,0.2,unmapped
+ZSL,2026-09-17,26.5,,,,,,,1.5,unmapped
+ZUMZ,2025-11-04,31.1,,,,,,,1.3,unmapped
+ZURA,2025-11-28,39.3,,,,,,,1.0,unmapped
+ZURA,2026-05-29,30.9,,,,,,,-1.8,unmapped
+ZVRA,2026-02-11,20.1,XPH,Pharma,-6.6,2.9,XPH,-6.6,-3.8,solo
+ZVRA,2026-05-18,21.3,XPH,Pharma,8.0,-5.5,XPH,8.0,1.6,sector-driven
+ZYME,2026-07-29,33.1,,,,,,,5.0,unmapped

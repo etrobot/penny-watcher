@@ -1,0 +1,17 @@
+# Fetched market data & caches (946 MB, reproducible by re-running the pipeline)
+data/
+
+# Python environment & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Run logs
+output/*.log
+*.log
+
+# Misc
+.DS_Store
+.ipynb_checkpoints/

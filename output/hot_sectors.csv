@@ -1,0 +1,44 @@
+primary_etf,theme,onsets,stocks,median_etf_window_ret_pct,median_stock_fwd20_pct,sector_driven_share_pct
+XBI,Biotech,319,119,10.1,32.5,54.5
+XSW,Software,221,96,8.7,31.9,53.4
+XPH,Pharma,88,39,6.25,33.7,43.2
+XSD,Semiconductors (equal-wt),83,29,11.8,31.9,67.5
+XLK,Tech (broad),82,44,6.5,32.1,36.6
+GDX,Gold Miners,75,28,23.6,32.2,96.0
+XHE,Healthcare Equipment,68,38,5.0,32.25,22.1
+XAR,Aerospace & Defense (SPDR),64,26,9.1,32.55,53.1
+XME,Metals & Mining,60,24,14.35,32.5,81.7
+XRT,Retail,51,30,7.1,33.5,41.2
+SMH,Semiconductors,48,23,14.1,31.0,79.2
+XOP,Oil & Gas E&P,43,21,13.8,32.2,74.4
+GDXJ,Junior Gold Miners,42,15,24.15,33.05,90.5
+BBH,Biotech (VanEck),28,12,5.3,31.8,35.7
+XLI,Industrials,22,13,5.55,31.05,4.5
+OIH,Oil Services,21,14,9.9,32.4,57.1
+XLY,Consumer Discretionary,17,15,4.0,31.7,23.5
+JETS,Airlines,17,6,16.4,32.1,76.5
+XHB,Homebuilders,15,10,11.9,31.7,66.7
+XLC,Comm Services,14,9,4.4,29.0,7.1
+SLX,Steel,12,8,13.75,31.549999999999997,83.3
+TAN,Solar,12,7,14.7,33.8,66.7
+XLV,Healthcare,11,10,0.1,31.8,9.1
+KIE,Insurance,10,7,8.5,32.3,60.0
+XLF,Financials,10,5,4.9,27.65,20.0
+HACK,Cybersecurity,9,3,10.5,33.0,66.7
+MOO,Agribusiness,9,8,5.4,28.3,33.3
+REMX,Rare Earth,9,4,26.8,38.8,88.9
+XLB,Materials,8,5,3.95,31.1,25.0
+ARKK,Innovation,7,2,3.5,38.6,28.6
+COPX,Copper Miners,6,3,25.0,30.7,100.0
+XLE,Energy,5,5,11.2,31.2,100.0
+URNM,Uranium,4,2,15.0,32.349999999999994,100.0
+FINX,Fintech,4,3,7.699999999999999,31.45,50.0
+AIQ,AI,4,3,1.95,30.3,0.0
+XLRE,Real Estate,3,3,3.5,24.7,0.0
+BOTZ,Robotics & AI,3,2,10.1,20.4,66.7
+KRE,Regional Banks,3,2,7.3,30.7,33.3
+XLP,Consumer Staples,3,2,3.6,27.0,0.0
+IBB,Biotech (large),1,1,2.8,60.6,0.0
+KBE,Banks,1,1,6.6,21.9,0.0
+LIT,Lithium & Battery,1,1,23.8,24.3,100.0
+XLU,Utilities,1,1,9.1,32.6,100.0

@@ -1,0 +1,1389 @@
+ticker,primary_etf,theme,all_etfs,n_etfs
+AAPL,XLK,Tech (broad),"AIQ,XLK",2
+ACN,XLK,Tech (broad),"XLK,XSW",2
+ADBE,XLK,Tech (broad),"XLK,XSW",2
+ADI,SMH,Semiconductors,"SMH,XLK,XSD",3
+ADSK,XLK,Tech (broad),"XLK,XSW",2
+AKAM,XLK,Tech (broad),XLK,1
+AMAT,SMH,Semiconductors,"SMH,XLK",2
+AMD,SMH,Semiconductors,"AIQ,ARKK,SMH,XLK,XSD",5
+ANET,XLK,Tech (broad),XLK,1
+APH,XLK,Tech (broad),XLK,1
+AVGO,SMH,Semiconductors,"AIQ,ARKK,HACK,SMH,XLK,XSD",6
+CDNS,SMH,Semiconductors,"SMH,XLK,XSW",3
+CDW,XLK,Tech (broad),XLK,1
+CIEN,XLK,Tech (broad),XLK,1
+COHR,XLK,Tech (broad),XLK,1
+CRM,XLK,Tech (broad),"XLK,XSW",2
+CRWD,XLK,Tech (broad),"HACK,XLK,XSW",3
+CSCO,XLK,Tech (broad),"AIQ,HACK,XLK",3
+CTSH,XLK,Tech (broad),"XLK,XSW",2
+DDOG,XLK,Tech (broad),"XLK,XSW",2
+DELL,XLK,Tech (broad),XLK,1
+FFIV,XLK,Tech (broad),"HACK,XLK,XSW",3
+FICO,XLK,Tech (broad),"XLK,XSW",2
+FLEX,XLK,Tech (broad),XLK,1
+FSLR,XSD,Semiconductors (equal-wt),"TAN,XLK,XSD",3
+FTNT,XLK,Tech (broad),"HACK,XLK,XSW",3
+GDDY,XLK,Tech (broad),XLK,1
+GEN,XLK,Tech (broad),"HACK,XLK,XSW",3
+GLW,XLK,Tech (broad),XLK,1
+HPE,XLK,Tech (broad),XLK,1
+HPQ,XLK,Tech (broad),XLK,1
+IBM,XLK,Tech (broad),"AIQ,XLK,XSW",3
+INTC,SMH,Semiconductors,"AIQ,SMH,XLK,XSD",4
+INTU,XLK,Tech (broad),"FINX,XLK,XSW",3
+IT,XLK,Tech (broad),"XLK,XSW",2
+JBL,XLK,Tech (broad),XLK,1
+KEYS,XLK,Tech (broad),XLK,1
+KLAC,SMH,Semiconductors,"SMH,XLK",2
+LITE,XLK,Tech (broad),XLK,1
+LRCX,SMH,Semiconductors,"SMH,XLK",2
+MCHP,SMH,Semiconductors,"SMH,XLK,XSD",3
+MPWR,SMH,Semiconductors,"SMH,XLK,XSD",3
+MRVL,SMH,Semiconductors,"SMH,XLK,XSD",3
+MSFT,XLK,Tech (broad),"AIQ,XLK,XSW",3
+MSI,XLK,Tech (broad),XLK,1
+MU,SMH,Semiconductors,"AIQ,SMH,XLK,XSD",4
+NOW,XLK,Tech (broad),"XLK,XSW",2
+NTAP,XLK,Tech (broad),XLK,1
+NVDA,SMH,Semiconductors,"AIQ,ARKK,BOTZ,SMH,XLK,XSD",6
+NXPI,SMH,Semiconductors,"SMH,XLK,XSD",3
+ON,SMH,Semiconductors,"SMH,XLK,XSD",3
+ORCL,XLK,Tech (broad),"AIQ,XLK,XSW",3
+P,XLK,Tech (broad),XLK,1
+PANW,XLK,Tech (broad),"HACK,XLK,XSW",3
+PLTR,XLK,Tech (broad),"AIQ,ARKK,XLK,XSW",4
+PTC,XLK,Tech (broad),"XLK,XSW",2
+Q,XLK,Tech (broad),XLK,1
+QCOM,SMH,Semiconductors,"SMH,XLK,XSD",3
+ROP,XLK,Tech (broad),"XLK,XSW",2
+SMCI,XLK,Tech (broad),XLK,1
+SNDK,XLK,Tech (broad),XLK,1
+SNPS,SMH,Semiconductors,"SMH,XLK,XSW",3
+STX,XLK,Tech (broad),XLK,1
+SWKS,XSD,Semiconductors (equal-wt),"XLK,XSD",2
+TDY,XLK,Tech (broad),XLK,1
+TEL,XLK,Tech (broad),XLK,1
+TER,SMH,Semiconductors,"SMH,XLK",2
+TRMB,XLK,Tech (broad),"XLK,XSW",2
+TWLO,XLK,Tech (broad),XLK,1
+TXN,SMH,Semiconductors,"SMH,XLK,XSD",3
+TYL,XLK,Tech (broad),"XLK,XSW",2
+VRSN,XLK,Tech (broad),XLK,1
+WDAY,XLK,Tech (broad),"XLK,XSW",2
+WDC,XLK,Tech (broad),XLK,1
+ZBRA,XLK,Tech (broad),XLK,1
+ACGL,KIE,Insurance,"KIE,XLF",2
+AFL,KIE,Insurance,"KIE,XLF",2
+AIG,KIE,Insurance,"KIE,XLF",2
+AIZ,KIE,Insurance,"KIE,XLF",2
+AJG,KIE,Insurance,"KIE,XLF",2
+ALL,KIE,Insurance,"KIE,XLF",2
+AMP,XLF,Financials,XLF,1
+AON,KIE,Insurance,"KIE,XLF",2
+APO,XLF,Financials,"KBE,XLF",2
+ARES,XLF,Financials,XLF,1
+AXP,XLF,Financials,XLF,1
+BAC,XLF,Financials,"KBE,XLF",2
+BEN,XLF,Financials,XLF,1
+BLK,XLF,Financials,XLF,1
+BNY,XLF,Financials,"KBE,XLF",2
+BRO,KIE,Insurance,"KIE,XLF",2
+BX,XLF,Financials,XLF,1
+C,XLF,Financials,"KBE,XLF",2
+CB,KIE,Insurance,"KIE,XLF",2
+CFG,XLF,Financials,"KBE,KRE,XLF",3
+CINF,KIE,Insurance,"KIE,XLF",2
+CME,XLF,Financials,XLF,1
+COF,XLF,Financials,XLF,1
+COIN,XLF,Financials,"ARKK,FINX,XLF",3
+CPAY,XLF,Financials,XLF,1
+EG,KIE,Insurance,"KIE,XLF",2
+ERIE,KIE,Insurance,"KIE,XLF",2
+FDS,XLF,Financials,XLF,1
+FIS,XLF,Financials,"FINX,XLF",2
+FISV,XLF,Financials,"FINX,XLF",2
+FITB,XLF,Financials,"KBE,XLF",2
+GL,KIE,Insurance,"KIE,XLF",2
+GPN,XLF,Financials,"FINX,XLF",2
+GS,XLF,Financials,XLF,1
+HBAN,XLF,Financials,"KBE,KRE,XLF",3
+HIG,KIE,Insurance,"KIE,XLF",2
+HOOD,XLF,Financials,"ARKK,FINX,XLF",3
+IBKR,XLF,Financials,XLF,1
+ICE,XLF,Financials,XLF,1
+IVZ,XLF,Financials,XLF,1
+JKHY,XLF,Financials,"FINX,XLF",2
+JPM,XLF,Financials,"KBE,XLF",2
+KEY,XLF,Financials,"KBE,XLF",2
+KKR,XLF,Financials,XLF,1
+L,KIE,Insurance,"KIE,XLF",2
+MA,XLF,Financials,XLF,1
+MCO,XLF,Financials,XLF,1
+MET,KIE,Insurance,"KIE,XLF",2
+MRSH,KIE,Insurance,"KIE,XLF",2
+MS,XLF,Financials,XLF,1
+MSCI,XLF,Financials,XLF,1
+MTB,XLF,Financials,"KBE,KRE,XLF",3
+NDAQ,XLF,Financials,XLF,1
+NTRS,XLF,Financials,"KBE,XLF",2
+PFG,KIE,Insurance,"KIE,XLF",2
+PGR,KIE,Insurance,"KIE,XLF",2
+PNC,XLF,Financials,"KBE,XLF",2
+PRU,KIE,Insurance,"KIE,XLF",2
+PYPL,XLF,Financials,"FINX,XLF",2
+RF,XLF,Financials,"KBE,KRE,XLF",3
+RJF,XLF,Financials,XLF,1
+SCHW,XLF,Financials,XLF,1
+SPGI,XLF,Financials,XLF,1
+STT,XLF,Financials,XLF,1
+SYF,XLF,Financials,XLF,1
+TFC,XLF,Financials,"KBE,KRE,XLF",3
+TROW,XLF,Financials,XLF,1
+TRV,KIE,Insurance,"KIE,XLF",2
+USB,XLF,Financials,"KBE,XLF",2
+V,XLF,Financials,XLF,1
+WFC,XLF,Financials,"KBE,XLF",2
+WRB,KIE,Insurance,"KIE,XLF",2
+WTW,KIE,Insurance,"KIE,XLF",2
+XYZ,XLF,Financials,"ARKK,FINX,XLF",3
+A,XLV,Healthcare,XLV,1
+ABBV,XLV,Healthcare,"XBI,XLV",2
+ABT,XLV,Healthcare,"XHE,XLV",2
+ALGN,XLV,Healthcare,"XHE,XLV",2
+AMGN,BBH,Biotech (VanEck),"BBH,IBB,XBI,XLV",4
+BAX,XLV,Healthcare,"XHE,XLV",2
+BDX,XLV,Healthcare,"XHE,XLV",2
+BIIB,BBH,Biotech (VanEck),"BBH,IBB,XBI,XLV",4
+BMY,XLV,Healthcare,"XLV,XPH",2
+BSX,XLV,Healthcare,"XHE,XLV",2
+CAH,XLV,Healthcare,XLV,1
+CI,XLV,Healthcare,XLV,1
+CNC,XLV,Healthcare,XLV,1
+COO,XLV,Healthcare,"XHE,XLV",2
+COR,XLV,Healthcare,XLV,1
+CRL,BBH,Biotech (VanEck),"BBH,IBB,XLV",3
+CVS,XLV,Healthcare,XLV,1
+DGX,XLV,Healthcare,XLV,1
+DHR,XLV,Healthcare,XLV,1
+DVA,XLV,Healthcare,XLV,1
+DXCM,XLV,Healthcare,"XHE,XLV",2
+ELV,XLV,Healthcare,XLV,1
+EW,XLV,Healthcare,"XHE,XLV",2
+GEHC,XLV,Healthcare,"XHE,XLV",2
+GILD,BBH,Biotech (VanEck),"BBH,IBB,XBI,XLV",4
+HCA,XLV,Healthcare,XLV,1
+HSIC,XLV,Healthcare,XLV,1
+HUM,XLV,Healthcare,XLV,1
+IDXX,XLV,Healthcare,"XHE,XLV",2
+ILMN,BBH,Biotech (VanEck),"BBH,IBB,XLV",3
+INCY,BBH,Biotech (VanEck),"BBH,IBB,XBI,XLV",4
+IQV,BBH,Biotech (VanEck),"BBH,XLV",2
+ISRG,XLV,Healthcare,"BOTZ,XHE,XLV",3
+JNJ,XLV,Healthcare,"XLV,XPH",2
+LH,XLV,Healthcare,XLV,1
+LLY,XLV,Healthcare,"XLV,XPH",2
+MCK,XLV,Healthcare,XLV,1
+MDT,XLV,Healthcare,"XHE,XLV",2
+MRK,XLV,Healthcare,"XLV,XPH",2
+MRNA,BBH,Biotech (VanEck),"BBH,IBB,XBI,XLV",4
+MTD,XLV,Healthcare,XLV,1
+PFE,XLV,Healthcare,"XLV,XPH",2
+PODD,XLV,Healthcare,"XHE,XLV",2
+REGN,BBH,Biotech (VanEck),"BBH,IBB,XBI,XLV",4
+RMD,XLV,Healthcare,"XHE,XLV",2
+RVTY,XLV,Healthcare,XLV,1
+SOLV,XLV,Healthcare,"XHE,XLV",2
+STE,XLV,Healthcare,"XHE,XLV",2
+SYK,XLV,Healthcare,"XHE,XLV",2
+TECH,BBH,Biotech (VanEck),"BBH,IBB,XLV",3
+TMO,XLV,Healthcare,XLV,1
+UHS,XLV,Healthcare,XLV,1
+UNH,XLV,Healthcare,XLV,1
+VEEV,XLV,Healthcare,XLV,1
+VRTX,BBH,Biotech (VanEck),"BBH,IBB,XBI,XLV",4
+VTRS,XLV,Healthcare,"XLV,XPH",2
+WAT,XLV,Healthcare,XLV,1
+WST,XLV,Healthcare,XLV,1
+ZBH,XLV,Healthcare,"XHE,XLV",2
+ZTS,MOO,Agribusiness,"MOO,XLV,XPH",3
+APA,XLE,Energy,"XLE,XOP",2
+BKR,XLE,Energy,"OIH,XLE",2
+COP,XLE,Energy,"XLE,XOP",2
+CVX,XLE,Energy,"XLE,XOP",2
+DVN,XLE,Energy,"XLE,XOP",2
+EOG,XLE,Energy,"XLE,XOP",2
+EQT,XLE,Energy,"XLE,XOP",2
+EXE,XLE,Energy,"XLE,XOP",2
+FANG,XLE,Energy,"XLE,XOP",2
+HAL,XLE,Energy,"OIH,XLE",2
+KMI,XLE,Energy,XLE,1
+MPC,XLE,Energy,"XLE,XOP",2
+OKE,XLE,Energy,XLE,1
+OXY,XLE,Energy,"XLE,XOP",2
+PSX,XLE,Energy,"XLE,XOP",2
+SLB,XLE,Energy,"OIH,XLE",2
+TPL,XLE,Energy,"XLE,XOP",2
+TRGP,XLE,Energy,XLE,1
+VLO,XLE,Energy,"XLE,XOP",2
+WMB,XLE,Energy,XLE,1
+XOM,XLE,Energy,"XLE,XOP",2
+ADP,XLI,Industrials,XLI,1
+ALLE,XHB,Homebuilders,"XHB,XLI",2
+AME,XLI,Industrials,XLI,1
+AOS,XLI,Industrials,XLI,1
+AXON,XAR,Aerospace & Defense (SPDR),"ITA,XAR,XLI",3
+BA,XAR,Aerospace & Defense (SPDR),"ITA,JETS,XAR,XLI",4
+BE,XLI,Industrials,XLI,1
+BR,XLI,Industrials,XLI,1
+CARR,XHB,Homebuilders,"XHB,XLI",2
+CAT,XLI,Industrials,XLI,1
+CHRW,XLI,Industrials,XLI,1
+CMI,XLI,Industrials,XLI,1
+CPRT,XLI,Industrials,XLI,1
+CSX,XLI,Industrials,XLI,1
+CTAS,XLI,Industrials,XLI,1
+DAL,XLI,Industrials,"JETS,XLI",2
+DD,XLI,Industrials,XLI,1
+DE,MOO,Agribusiness,"BOTZ,MOO,XLI",3
+DOV,XLI,Industrials,XLI,1
+EFX,XLI,Industrials,XLI,1
+EME,XLI,Industrials,XLI,1
+EMR,XLI,Industrials,XLI,1
+ETN,XLI,Industrials,XLI,1
+EXPD,XLI,Industrials,XLI,1
+FAST,XLI,Industrials,XLI,1
+FDX,XLI,Industrials,XLI,1
+FERG,XLI,Industrials,XLI,1
+FIX,XLI,Industrials,XLI,1
+FTV,XLI,Industrials,XLI,1
+GD,XAR,Aerospace & Defense (SPDR),"HACK,ITA,JETS,XAR,XLI",5
+GE,XAR,Aerospace & Defense (SPDR),"ITA,XAR,XLI",3
+GEV,XLI,Industrials,XLI,1
+GNRC,XLI,Industrials,XLI,1
+GWW,XLI,Industrials,XLI,1
+HII,XAR,Aerospace & Defense (SPDR),"ITA,XAR,XLI",3
+HON,XLI,Industrials,XLI,1
+HUBB,XLI,Industrials,XLI,1
+HWM,XAR,Aerospace & Defense (SPDR),"ITA,XAR,XLI",3
+IEX,XLI,Industrials,XLI,1
+IR,XLI,Industrials,XLI,1
+ITW,XLI,Industrials,XLI,1
+J,XLI,Industrials,XLI,1
+JBHT,XLI,Industrials,XLI,1
+JCI,XHB,Homebuilders,"XHB,XLI",2
+LDOS,XLI,Industrials,XLI,1
+LHX,XAR,Aerospace & Defense (SPDR),"ITA,XAR,XLI",3
+LII,XHB,Homebuilders,"XHB,XLI",2
+LMT,XAR,Aerospace & Defense (SPDR),"ITA,XAR,XLI",3
+LUV,XLI,Industrials,"JETS,XLI",2
+MAS,XHB,Homebuilders,"XHB,XLI",2
+MMM,XLI,Industrials,XLI,1
+NDSN,XLI,Industrials,XLI,1
+NOC,XAR,Aerospace & Defense (SPDR),"HACK,ITA,XAR,XLI",4
+NSC,XLI,Industrials,XLI,1
+ODFL,XLI,Industrials,XLI,1
+OTIS,XLI,Industrials,XLI,1
+PAYX,XLI,Industrials,XLI,1
+PCAR,XLI,Industrials,XLI,1
+PH,XLI,Industrials,XLI,1
+PNR,XLI,Industrials,XLI,1
+PWR,XLI,Industrials,XLI,1
+ROK,XLI,Industrials,"BOTZ,XLI",2
+ROL,XLI,Industrials,XLI,1
+RSG,XLI,Industrials,XLI,1
+RTX,XAR,Aerospace & Defense (SPDR),"ITA,XAR,XLI",3
+SNA,XLI,Industrials,XLI,1
+SWK,XLI,Industrials,XLI,1
+TDG,XAR,Aerospace & Defense (SPDR),"ITA,XAR,XLI",3
+TT,XHB,Homebuilders,"XHB,XLI",2
+TXT,XAR,Aerospace & Defense (SPDR),"ITA,JETS,XAR,XLI",4
+UAL,XLI,Industrials,"JETS,XLI",2
+UBER,XLI,Industrials,XLI,1
+UNP,XLI,Industrials,XLI,1
+UPS,XLI,Industrials,XLI,1
+URI,XLI,Industrials,XLI,1
+VLTO,XLI,Industrials,XLI,1
+VRSK,XLI,Industrials,XLI,1
+VRT,XLI,Industrials,XLI,1
+WAB,XLI,Industrials,XLI,1
+WM,XLI,Industrials,XLI,1
+XYL,XLI,Industrials,XLI,1
+ALB,XLB,Materials,"LIT,REMX,XLB",3
+AMCR,XLB,Materials,XLB,1
+APD,XLB,Materials,XLB,1
+AVY,XLB,Materials,XLB,1
+BALL,XLB,Materials,XLB,1
+CF,MOO,Agribusiness,"MOO,XLB",2
+CRH,XLB,Materials,XLB,1
+DOW,XLB,Materials,XLB,1
+ECL,XLB,Materials,XLB,1
+FCX,XLB,Materials,"COPX,XLB,XME",3
+IFF,XLB,Materials,XLB,1
+IP,XLB,Materials,XLB,1
+LIN,XLB,Materials,XLB,1
+LYB,XLB,Materials,XLB,1
+MLM,XLB,Materials,XLB,1
+MOS,MOO,Agribusiness,"MOO,XLB",2
+NEM,XLB,Materials,"GDX,XLB,XME",3
+NUE,SLX,Steel,"SLX,XLB,XME",3
+PKG,XLB,Materials,XLB,1
+PPG,XLB,Materials,XLB,1
+SHW,XLB,Materials,XLB,1
+STLD,SLX,Steel,"SLX,XLB,XME",3
+SW,XLB,Materials,XLB,1
+VMC,XLB,Materials,XLB,1
+ABNB,XLY,Consumer Discretionary,XLY,1
+AMZN,XLY,Consumer Discretionary,"AIQ,ARKK,XLY,XRT",4
+APTV,XLY,Consumer Discretionary,XLY,1
+AZO,XLY,Consumer Discretionary,"XLY,XRT",2
+BBY,XLY,Consumer Discretionary,"XLY,XRT",2
+BKNG,XLY,Consumer Discretionary,"JETS,XLY",2
+CCL,XLY,Consumer Discretionary,XLY,1
+CMG,XLY,Consumer Discretionary,XLY,1
+CVNA,XLY,Consumer Discretionary,"XLY,XRT",2
+DASH,XLY,Consumer Discretionary,XLY,1
+DECK,XLY,Consumer Discretionary,XLY,1
+DHI,XHB,Homebuilders,"XHB,XLY",2
+DPZ,XLY,Consumer Discretionary,XLY,1
+DRI,XLY,Consumer Discretionary,XLY,1
+EBAY,XLY,Consumer Discretionary,"XLY,XRT",2
+EXPE,XLY,Consumer Discretionary,"JETS,XLY",2
+F,XLY,Consumer Discretionary,XLY,1
+GM,XLY,Consumer Discretionary,XLY,1
+GPC,XLY,Consumer Discretionary,XLY,1
+GRMN,XLY,Consumer Discretionary,XLY,1
+HAS,XLY,Consumer Discretionary,XLY,1
+HD,XHB,Homebuilders,"XHB,XLY",2
+HLT,XLY,Consumer Discretionary,XLY,1
+LEN,XHB,Homebuilders,"XHB,XLY",2
+LOW,XHB,Homebuilders,"XHB,XLY",2
+LULU,XLY,Consumer Discretionary,XLY,1
+LVS,XLY,Consumer Discretionary,XLY,1
+MAR,XLY,Consumer Discretionary,XLY,1
+MCD,XLY,Consumer Discretionary,XLY,1
+MGM,XLY,Consumer Discretionary,XLY,1
+NCLH,XLY,Consumer Discretionary,XLY,1
+NKE,XLY,Consumer Discretionary,XLY,1
+NVR,XHB,Homebuilders,"XHB,XLY",2
+ORLY,XLY,Consumer Discretionary,"XLY,XRT",2
+PHM,XHB,Homebuilders,"XHB,XLY",2
+RCL,XLY,Consumer Discretionary,XLY,1
+RL,XLY,Consumer Discretionary,XLY,1
+ROST,XLY,Consumer Discretionary,"XLY,XRT",2
+SBUX,XLY,Consumer Discretionary,XLY,1
+TJX,XLY,Consumer Discretionary,"XLY,XRT",2
+TPR,XLY,Consumer Discretionary,XLY,1
+TSCO,XLY,Consumer Discretionary,"XLY,XRT",2
+TSLA,XLY,Consumer Discretionary,"AIQ,ARKK,BOTZ,LIT,XLY",5
+ULTA,XLY,Consumer Discretionary,"XLY,XRT",2
+WSM,XHB,Homebuilders,"XHB,XLY",2
+WYNN,XLY,Consumer Discretionary,XLY,1
+YUM,XLY,Consumer Discretionary,XLY,1
+ADM,MOO,Agribusiness,"MOO,XLP",2
+BG,MOO,Agribusiness,"MOO,XLP",2
+CASY,XLP,Consumer Staples,"XLP,XRT",2
+CHD,XLP,Consumer Staples,XLP,1
+CL,XLP,Consumer Staples,XLP,1
+CLX,XLP,Consumer Staples,XLP,1
+COST,XLP,Consumer Staples,"XLP,XRT",2
+DG,XLP,Consumer Staples,"XLP,XRT",2
+DLTR,XLP,Consumer Staples,"XLP,XRT",2
+EL,XLP,Consumer Staples,XLP,1
+GIS,XLP,Consumer Staples,XLP,1
+HRL,XLP,Consumer Staples,XLP,1
+HSY,XLP,Consumer Staples,XLP,1
+KDP,XLP,Consumer Staples,XLP,1
+KHC,XLP,Consumer Staples,XLP,1
+KMB,XLP,Consumer Staples,XLP,1
+KO,XLP,Consumer Staples,XLP,1
+KR,XLP,Consumer Staples,"XLP,XRT",2
+MDLZ,XLP,Consumer Staples,XLP,1
+MKC,XLP,Consumer Staples,XLP,1
+MNST,XLP,Consumer Staples,XLP,1
+MO,XLP,Consumer Staples,XLP,1
+PEP,XLP,Consumer Staples,XLP,1
+PG,XLP,Consumer Staples,XLP,1
+PM,XLP,Consumer Staples,XLP,1
+SJM,XLP,Consumer Staples,XLP,1
+STZ,XLP,Consumer Staples,XLP,1
+SYY,XLP,Consumer Staples,XLP,1
+TGT,XLP,Consumer Staples,"XLP,XRT",2
+TSN,MOO,Agribusiness,"MOO,XLP",2
+WMT,XLP,Consumer Staples,"XLP,XRT",2
+AEE,XLU,Utilities,XLU,1
+AEP,XLU,Utilities,XLU,1
+AES,XLU,Utilities,XLU,1
+ATO,XLU,Utilities,XLU,1
+AWK,XLU,Utilities,XLU,1
+CEG,XLU,Utilities,XLU,1
+CMS,XLU,Utilities,XLU,1
+CNP,XLU,Utilities,XLU,1
+D,XLU,Utilities,XLU,1
+DTE,XLU,Utilities,XLU,1
+DUK,XLU,Utilities,XLU,1
+ED,XLU,Utilities,XLU,1
+EIX,XLU,Utilities,XLU,1
+ES,XLU,Utilities,XLU,1
+ETR,XLU,Utilities,XLU,1
+EVRG,XLU,Utilities,XLU,1
+EXC,XLU,Utilities,XLU,1
+FE,XLU,Utilities,XLU,1
+LNT,XLU,Utilities,XLU,1
+NEE,XLU,Utilities,XLU,1
+NI,XLU,Utilities,XLU,1
+NRG,XLU,Utilities,XLU,1
+PCG,XLU,Utilities,XLU,1
+PEG,XLU,Utilities,XLU,1
+PNW,XLU,Utilities,XLU,1
+PPL,XLU,Utilities,XLU,1
+SO,XLU,Utilities,XLU,1
+SRE,XLU,Utilities,XLU,1
+VST,XLU,Utilities,XLU,1
+WEC,XLU,Utilities,XLU,1
+XEL,XLU,Utilities,XLU,1
+AMT,XLRE,Real Estate,XLRE,1
+ARE,XLRE,Real Estate,XLRE,1
+BXP,XLRE,Real Estate,XLRE,1
+CBRE,XLRE,Real Estate,XLRE,1
+CCI,XLRE,Real Estate,XLRE,1
+CPT,XLRE,Real Estate,XLRE,1
+CSGP,XLRE,Real Estate,XLRE,1
+DLR,XLRE,Real Estate,XLRE,1
+DOC,XLRE,Real Estate,XLRE,1
+EQIX,XLRE,Real Estate,XLRE,1
+ESS,XLRE,Real Estate,XLRE,1
+EXR,XLRE,Real Estate,XLRE,1
+FRT,XLRE,Real Estate,XLRE,1
+HST,XLRE,Real Estate,XLRE,1
+INVH,XLRE,Real Estate,XLRE,1
+IRM,XLRE,Real Estate,XLRE,1
+KIM,XLRE,Real Estate,XLRE,1
+MAA,XLRE,Real Estate,XLRE,1
+O,XLRE,Real Estate,XLRE,1
+PLD,XLRE,Real Estate,XLRE,1
+PSA,XLRE,Real Estate,XLRE,1
+REG,XLRE,Real Estate,XLRE,1
+SBAC,XLRE,Real Estate,XLRE,1
+SPG,XLRE,Real Estate,XLRE,1
+UDR,XLRE,Real Estate,XLRE,1
+VICI,XLRE,Real Estate,XLRE,1
+VMRK,XLRE,Real Estate,XLRE,1
+VTR,XLRE,Real Estate,XLRE,1
+WELL,XLRE,Real Estate,XLRE,1
+WY,XLRE,Real Estate,XLRE,1
+APP,XLC,Comm Services,XLC,1
+CHTR,XLC,Comm Services,XLC,1
+CMCSA,XLC,Comm Services,XLC,1
+DIS,XLC,Comm Services,XLC,1
+ECHO,XLC,Comm Services,XLC,1
+FOX,XLC,Comm Services,XLC,1
+FOXA,XLC,Comm Services,XLC,1
+GOOG,XLC,Comm Services,XLC,1
+GOOGL,XLC,Comm Services,"AIQ,BOTZ,XLC",3
+LYV,XLC,Comm Services,XLC,1
+META,XLC,Comm Services,"AIQ,ARKK,XLC",3
+NFLX,XLC,Comm Services,"AIQ,XLC",2
+NWS,XLC,Comm Services,XLC,1
+NWSA,XLC,Comm Services,XLC,1
+OMC,XLC,Comm Services,XLC,1
+RDDT,XLC,Comm Services,XLC,1
+SKYD,XLC,Comm Services,XLC,1
+T,XLC,Comm Services,XLC,1
+TKO,XLC,Comm Services,XLC,1
+TMUS,XLC,Comm Services,XLC,1
+TTWO,XLC,Comm Services,"ESPO,XLC,XSW",3
+VZ,XLC,Comm Services,XLC,1
+ALAB,SMH,Semiconductors,"SMH,XSD",2
+ARM,SMH,Semiconductors,SMH,1
+ASML,SMH,Semiconductors,SMH,1
+STM,SMH,Semiconductors,SMH,1
+TSM,SMH,Semiconductors,"AIQ,SMH",2
+BABA,AIQ,AI,AIQ,1
+SAP,AIQ,AI,AIQ,1
+SHOP,AIQ,AI,"AIQ,ARKK",2
+AUR,XSW,Software,"BOTZ,XSW",2
+CGNX,BOTZ,Robotics & AI,BOTZ,1
+SYM,BOTZ,Robotics & AI,BOTZ,1
+ABSI,XBI,Biotech,XBI,1
+ABUS,XBI,Biotech,XBI,1
+ACAD,XBI,Biotech,XBI,1
+ACHV,XBI,Biotech,XBI,1
+ADMA,XBI,Biotech,XBI,1
+AGIO,XBI,Biotech,XBI,1
+AKTS,XBI,Biotech,XBI,1
+ALKS,XBI,Biotech,XBI,1
+ALNY,BBH,Biotech (VanEck),"BBH,IBB,XBI",3
+ALT,XBI,Biotech,XBI,1
+ANAB,XBI,Biotech,XBI,1
+ANNX,XBI,Biotech,XBI,1
+ARDX,XBI,Biotech,XBI,1
+ARQT,XBI,Biotech,XBI,1
+ARWR,XBI,Biotech,XBI,1
+ASMB,XBI,Biotech,XBI,1
+AURA,XBI,Biotech,XBI,1
+AVBP,XBI,Biotech,XBI,1
+AVTX,XBI,Biotech,XBI,1
+BBIO,XBI,Biotech,"IBB,XBI",2
+BBOT,XBI,Biotech,XBI,1
+BCAX,XBI,Biotech,XBI,1
+BCRX,XBI,Biotech,XBI,1
+BEAM,XBI,Biotech,"ARKK,XBI",2
+BHVN,XBI,Biotech,XBI,1
+BMRN,BBH,Biotech (VanEck),"BBH,XBI",2
+CADL,XBI,Biotech,XBI,1
+CAPR,XBI,Biotech,XBI,1
+CBIO,XBI,Biotech,XBI,1
+CDNA,XBI,Biotech,XBI,1
+CELC,XBI,Biotech,XBI,1
+CGEM,XBI,Biotech,XBI,1
+CGON,XBI,Biotech,XBI,1
+CLDX,XBI,Biotech,XBI,1
+CLYM,XBI,Biotech,XBI,1
+COGT,XBI,Biotech,XBI,1
+CRSP,XBI,Biotech,"ARKK,XBI",2
+CRVS,XBI,Biotech,XBI,1
+CTMX,XBI,Biotech,XBI,1
+CYTK,XBI,Biotech,XBI,1
+DMRA,XBI,Biotech,XBI,1
+DNLI,XBI,Biotech,XBI,1
+DNTH,XBI,Biotech,XBI,1
+DSGN,XBI,Biotech,XBI,1
+DYN,XBI,Biotech,XBI,1
+EBS,XBI,Biotech,XBI,1
+ERAS,XBI,Biotech,XBI,1
+EXEL,XBI,Biotech,"IBB,XBI",2
+FDMT,XBI,Biotech,XBI,1
+FTH,XBI,Biotech,XBI,1
+GLUE,XBI,Biotech,XBI,1
+GRAL,XBI,Biotech,XBI,1
+HALO,XBI,Biotech,"IBB,XBI",2
+IBRX,XBI,Biotech,XBI,1
+IDYA,XBI,Biotech,XBI,1
+IMMX,XBI,Biotech,XBI,1
+IMNM,XBI,Biotech,XBI,1
+IMVT,XBI,Biotech,XBI,1
+INBX,XBI,Biotech,XBI,1
+INSM,BBH,Biotech (VanEck),"BBH,IBB,XBI",3
+IONS,XBI,Biotech,XBI,1
+IOVA,XBI,Biotech,XBI,1
+IRON,XBI,Biotech,XBI,1
+IRWD,XBI,Biotech,XBI,1
+JANX,XBI,Biotech,XBI,1
+JBIO,XBI,Biotech,XBI,1
+KOD,XBI,Biotech,XBI,1
+KRYS,XBI,Biotech,XBI,1
+KURA,XBI,Biotech,XBI,1
+KYMR,XBI,Biotech,XBI,1
+LXEO,XBI,Biotech,XBI,1
+MDGL,XBI,Biotech,XBI,1
+MDXG,XBI,Biotech,XBI,1
+MIRM,XBI,Biotech,XBI,1
+MLYS,XBI,Biotech,XBI,1
+MNKD,XBI,Biotech,XBI,1
+MNPR,XBI,Biotech,XBI,1
+MYGN,XBI,Biotech,XBI,1
+NBIX,BBH,Biotech (VanEck),"BBH,IBB,XBI",3
+NGNE,XBI,Biotech,XBI,1
+NKTR,XBI,Biotech,XBI,1
+NRIX,XBI,Biotech,XBI,1
+NTLA,XBI,Biotech,"ARKK,XBI",2
+NTRA,BBH,Biotech (VanEck),"BBH,IBB,XBI",3
+NVAX,XBI,Biotech,XBI,1
+OLMA,XBI,Biotech,XBI,1
+ORIC,XBI,Biotech,XBI,1
+ORKA,XBI,Biotech,XBI,1
+PCVX,XBI,Biotech,XBI,1
+PGEN,XBI,Biotech,XBI,1
+PRAX,XBI,Biotech,XBI,1
+PRME,XBI,Biotech,XBI,1
+PRTA,XBI,Biotech,XBI,1
+PTCT,XBI,Biotech,XBI,1
+PTGX,XBI,Biotech,XBI,1
+PURR,XBI,Biotech,XBI,1
+PVLA,XBI,Biotech,XBI,1
+QURE,XBI,Biotech,XBI,1
+RARE,XBI,Biotech,XBI,1
+RCUS,XBI,Biotech,XBI,1
+REPL,XBI,Biotech,XBI,1
+RGNX,XBI,Biotech,XBI,1
+RIGL,XBI,Biotech,XBI,1
+RLAY,XBI,Biotech,XBI,1
+ROIV,XBI,Biotech,"IBB,XBI",2
+RVMD,BBH,Biotech (VanEck),"BBH,IBB,XBI",3
+RXRX,XBI,Biotech,"ARKK,XBI",2
+RYTM,XBI,Biotech,XBI,1
+SANA,XBI,Biotech,XBI,1
+SGMT,XBI,Biotech,XBI,1
+SLDB,XBI,Biotech,XBI,1
+SLS,XBI,Biotech,XBI,1
+SMMT,XBI,Biotech,XBI,1
+SNDX,XBI,Biotech,XBI,1
+SPRY,XBI,Biotech,XBI,1
+SRPT,XBI,Biotech,XBI,1
+SRRK,XBI,Biotech,XBI,1
+STOK,XBI,Biotech,XBI,1
+STTK,XBI,Biotech,XBI,1
+SVRA,XBI,Biotech,XBI,1
+SYRE,XBI,Biotech,XBI,1
+TGTX,XBI,Biotech,XBI,1
+TNGX,XBI,Biotech,XBI,1
+TSHA,XBI,Biotech,XBI,1
+TVTX,XBI,Biotech,XBI,1
+TWST,XBI,Biotech,"ARKK,XBI",2
+TYRA,XBI,Biotech,XBI,1
+UTHR,BBH,Biotech (VanEck),"BBH,IBB,XBI",3
+VCEL,XBI,Biotech,XBI,1
+VCYT,XBI,Biotech,XBI,1
+VERA,XBI,Biotech,XBI,1
+VIR,XBI,Biotech,XBI,1
+VKTX,XBI,Biotech,XBI,1
+VNDA,XBI,Biotech,XBI,1
+VOR,XBI,Biotech,XBI,1
+VRDN,XBI,Biotech,XBI,1
+VSTM,XBI,Biotech,XBI,1
+XNCR,XBI,Biotech,XBI,1
+ZBIO,XBI,Biotech,XBI,1
+ARGX,BBH,Biotech (VanEck),"BBH,IBB",2
+GMAB,IBB,Biotech (large),IBB,1
+MEDP,IBB,Biotech (large),IBB,1
+ONC,BBH,Biotech (VanEck),"BBH,IBB",2
+AEM,GDX,Gold Miners,GDX,1
+AG,GDX,Gold Miners,"GDX,GDXJ",2
+AGI,GDX,Gold Miners,"GDX,GDXJ",2
+ARIS,GDX,Gold Miners,"GDX,GDXJ",2
+AU,GDX,Gold Miners,GDX,1
+AUGO,GDX,Gold Miners,"GDX,GDXJ",2
+AYA,GDX,Gold Miners,"GDX,GDXJ",2
+B,GDX,Gold Miners,GDX,1
+BTG,GDX,Gold Miners,"GDX,GDXJ",2
+BVN,GDX,Gold Miners,"GDX,GDXJ,SIL",3
+CDE,GDX,Gold Miners,"GDX,GDXJ,SIL,XME",4
+CGAU,GDX,Gold Miners,"GDX,GDXJ",2
+EGO,GDX,Gold Miners,"GDX,GDXJ",2
+EQX,GDX,Gold Miners,"GDX,GDXJ",2
+EXK,GDX,Gold Miners,"GDX,GDXJ",2
+FNV,GDX,Gold Miners,GDX,1
+FSM,GDX,Gold Miners,"GDX,GDXJ",2
+GFI,GDX,Gold Miners,GDX,1
+HL,GDX,Gold Miners,"GDX,GDXJ,SIL,XME",4
+HMY,GDX,Gold Miners,"GDX,GDXJ",2
+IAG,GDX,Gold Miners,"GDX,GDXJ",2
+KGC,GDX,Gold Miners,GDX,1
+OGC,GDX,Gold Miners,"GDX,GDXJ",2
+OR,GDX,Gold Miners,"GDX,GDXJ",2
+PAAS,GDX,Gold Miners,GDX,1
+RGLD,GDX,Gold Miners,"GDX,XME",2
+SA,GDX,Gold Miners,"GDX,GDXJ",2
+SKE,GDX,Gold Miners,"GDX,GDXJ",2
+SSRM,GDX,Gold Miners,"GDX,GDXJ,SIL",3
+SVM,GDX,Gold Miners,"GDX,GDXJ",2
+WPM,GDX,Gold Miners,GDX,1
+AAUC,GDXJ,Junior Gold Miners,GDXJ,1
+ASM,GDXJ,Junior Gold Miners,GDXJ,1
+CMCL,GDXJ,Junior Gold Miners,GDXJ,1
+CTGO,XME,Metals & Mining,"GDXJ,XME",2
+DC,XME,Metals & Mining,"GDXJ,XME",2
+DRD,GDXJ,Junior Gold Miners,GDXJ,1
+ELE,GDXJ,Junior Gold Miners,GDXJ,1
+GROY,GDXJ,Junior Gold Miners,GDXJ,1
+HYMC,XME,Metals & Mining,"GDXJ,SIL,XME",3
+IDR,XME,Metals & Mining,"GDXJ,XME",2
+MTA,GDXJ,Junior Gold Miners,GDXJ,1
+MUX,XME,Metals & Mining,"GDXJ,SIL,XME",3
+NEWP,GDXJ,Junior Gold Miners,GDXJ,1
+NG,GDXJ,Junior Gold Miners,GDXJ,1
+OGG,GDXJ,Junior Gold Miners,GDXJ,1
+PPTA,GDXJ,Junior Gold Miners,GDXJ,1
+TFPM,GDXJ,Junior Gold Miners,GDXJ,1
+USAS,GDXJ,Junior Gold Miners,GDXJ,1
+USAU,GDXJ,Junior Gold Miners,GDXJ,1
+VOXR,GDXJ,Junior Gold Miners,GDXJ,1
+VZLA,GDXJ,Junior Gold Miners,GDXJ,1
+AA,XME,Metals & Mining,XME,1
+ABAT,XME,Metals & Mining,XME,1
+ALOY,XME,Metals & Mining,XME,1
+AMR,XME,Metals & Mining,XME,1
+BTU,XME,Metals & Mining,XME,1
+CENX,XME,Metals & Mining,XME,1
+CLF,SLX,Steel,"SLX,XME",2
+CMC,SLX,Steel,"SLX,XME",2
+CMP,XME,Metals & Mining,XME,1
+CNR,XME,Metals & Mining,XME,1
+HCC,XME,Metals & Mining,XME,1
+IE,XME,Metals & Mining,XME,1
+KALU,XME,Metals & Mining,XME,1
+LEU,XME,Metals & Mining,XME,1
+METC,XME,Metals & Mining,XME,1
+MP,XME,Metals & Mining,"REMX,XME",2
+MTRN,XME,Metals & Mining,XME,1
+MTUS,XME,Metals & Mining,XME,1
+RS,SLX,Steel,"SLX,XME",2
+RYZ,XME,Metals & Mining,XME,1
+SXC,XME,Metals & Mining,XME,1
+UAMY,XME,Metals & Mining,XME,1
+UEC,XME,Metals & Mining,"URNM,XME",2
+USAR,XME,Metals & Mining,XME,1
+WS,SLX,Steel,"SLX,XME",2
+SCCO,COPX,Copper Miners,COPX,1
+TECK,COPX,Copper Miners,COPX,1
+TGB,COPX,Copper Miners,COPX,1
+ENS,LIT,Lithium & Battery,LIT,1
+RIO,SLX,Steel,"LIT,SLX",2
+SQM,LIT,Lithium & Battery,"LIT,REMX",2
+CCJ,URNM,Uranium,URNM,1
+UUUU,URNM,Uranium,URNM,1
+ARRY,TAN,Solar,TAN,1
+CSIQ,TAN,Solar,TAN,1
+CWEN,TAN,Solar,TAN,1
+DQ,TAN,Solar,TAN,1
+ENPH,TAN,Solar,TAN,1
+HASI,TAN,Solar,TAN,1
+NXT,TAN,Solar,TAN,1
+RNW,TAN,Solar,TAN,1
+RUN,TAN,Solar,TAN,1
+SEDG,TAN,Solar,TAN,1
+SHLS,TAN,Solar,TAN,1
+TE,XSD,Semiconductors (equal-wt),"TAN,XSD",2
+ATEN,XSW,Software,"HACK,XSW",2
+CHKP,HACK,Cybersecurity,HACK,1
+FSLY,HACK,Cybersecurity,HACK,1
+NET,HACK,Cybersecurity,HACK,1
+NTSK,XSW,Software,"HACK,XSW",2
+OKTA,HACK,Cybersecurity,HACK,1
+QLYS,XSW,Software,"HACK,XSW",2
+RBRK,XSW,Software,"HACK,XSW",2
+RDWR,HACK,Cybersecurity,HACK,1
+S,XSW,Software,"HACK,XSW",2
+TENB,XSW,Software,"HACK,XSW",2
+VRNS,XSW,Software,"HACK,XSW",2
+ZS,XSW,Software,"HACK,XSW",2
+BMNR,XSW,Software,"ARKK,XSW",2
+CRCL,XSW,Software,"ARKK,FINX,XSW",3
+CRWV,ARKK,Innovation,ARKK,1
+TEM,BBH,Biotech (VanEck),"ARKK,BBH",2
+TXG,ARKK,Innovation,ARKK,1
+ABCB,KBE,Banks,"KBE,KRE",2
+ACNB,KRE,Regional Banks,KRE,1
+AMAL,KRE,Regional Banks,KRE,1
+AMTB,KRE,Regional Banks,KRE,1
+AROW,KRE,Regional Banks,KRE,1
+ASB,KBE,Banks,"KBE,KRE",2
+AUB,KBE,Banks,"KBE,KRE",2
+AX,KBE,Banks,"KBE,KRE",2
+BANC,KBE,Banks,"KBE,KRE",2
+BANF,KBE,Banks,"KBE,KRE",2
+BANR,KBE,Banks,"KBE,KRE",2
+BBT,KBE,Banks,"KBE,KRE",2
+BCAL,KRE,Regional Banks,KRE,1
+BFC,KRE,Regional Banks,KRE,1
+BFST,KRE,Regional Banks,KRE,1
+BHB,KRE,Regional Banks,KRE,1
+BHRB,KRE,Regional Banks,KRE,1
+BKU,KBE,Banks,"KBE,KRE",2
+BMRC,KRE,Regional Banks,KRE,1
+BOH,KBE,Banks,"KBE,KRE",2
+BOKF,KBE,Banks,"KBE,KRE",2
+BPOP,KBE,Banks,"KBE,KRE",2
+BUSE,KBE,Banks,"KBE,KRE",2
+BY,KRE,Regional Banks,KRE,1
+CAC,KRE,Regional Banks,KRE,1
+CARE,KRE,Regional Banks,KRE,1
+CATY,KBE,Banks,"KBE,KRE",2
+CBAN,KRE,Regional Banks,KRE,1
+CBC,KBE,Banks,"KBE,KRE",2
+CBSH,KBE,Banks,"KBE,KRE",2
+CBU,KBE,Banks,"KBE,KRE",2
+CCB,KRE,Regional Banks,KRE,1
+CCBG,KRE,Regional Banks,KRE,1
+CCNE,KRE,Regional Banks,KRE,1
+CFFN,KRE,Regional Banks,KRE,1
+CFR,KBE,Banks,"KBE,KRE",2
+CHCO,KBE,Banks,"KBE,KRE",2
+CIVB,KRE,Regional Banks,KRE,1
+CNOB,KRE,Regional Banks,KRE,1
+COFS,KRE,Regional Banks,KRE,1
+COLB,KBE,Banks,"KBE,KRE",2
+CPF,KRE,Regional Banks,KRE,1
+CTBI,KRE,Regional Banks,KRE,1
+CUBI,KBE,Banks,"KBE,KRE",2
+CVBF,KBE,Banks,"KBE,KRE",2
+CWBC,KRE,Regional Banks,KRE,1
+DCOM,KRE,Regional Banks,KRE,1
+EBC,KBE,Banks,"KBE,KRE",2
+EFSC,KBE,Banks,"KBE,KRE",2
+EGBN,KRE,Regional Banks,KRE,1
+EQBK,KRE,Regional Banks,KRE,1
+ESQ,KRE,Regional Banks,KRE,1
+EWBC,KBE,Banks,"KBE,KRE",2
+FBIZ,KRE,Regional Banks,KRE,1
+FBK,KBE,Banks,"KBE,KRE",2
+FBNC,KBE,Banks,"KBE,KRE",2
+FBP,KBE,Banks,"KBE,KRE",2
+FCF,KBE,Banks,"KBE,KRE",2
+FFBC,KBE,Banks,"KBE,KRE",2
+FFIN,KBE,Banks,"KBE,KRE",2
+FHB,KBE,Banks,"KBE,KRE",2
+FHN,KBE,Banks,"KBE,KRE",2
+FIBK,KBE,Banks,"KBE,KRE",2
+FISI,KRE,Regional Banks,KRE,1
+FLG,KBE,Banks,"KBE,KRE",2
+FMBH,KRE,Regional Banks,KRE,1
+FMNB,KRE,Regional Banks,KRE,1
+FNB,KBE,Banks,"KBE,KRE",2
+FRME,KBE,Banks,"KBE,KRE",2
+FSBC,KRE,Regional Banks,KRE,1
+FSUN,KRE,Regional Banks,KRE,1
+FULT,KBE,Banks,"KBE,KRE",2
+GBCI,KBE,Banks,"KBE,KRE",2
+GSBC,KRE,Regional Banks,KRE,1
+HAFC,KRE,Regional Banks,KRE,1
+HBCP,KRE,Regional Banks,KRE,1
+HBNC,KRE,Regional Banks,KRE,1
+HBT,KRE,Regional Banks,KRE,1
+HFWA,KRE,Regional Banks,KRE,1
+HOMB,KBE,Banks,"KBE,KRE",2
+HOPE,KRE,Regional Banks,KRE,1
+HTB,KRE,Regional Banks,KRE,1
+HTH,KBE,Banks,"KBE,KRE",2
+HWC,KBE,Banks,"KBE,KRE",2
+IBCP,KRE,Regional Banks,KRE,1
+INDB,KBE,Banks,"KBE,KRE",2
+KRNY,KRE,Regional Banks,KRE,1
+LKFN,KBE,Banks,"KBE,KRE",2
+LOB,KRE,Regional Banks,KRE,1
+MBWM,KRE,Regional Banks,KRE,1
+MCB,KRE,Regional Banks,KRE,1
+MCHB,KRE,Regional Banks,KRE,1
+MPB,KRE,Regional Banks,KRE,1
+MSBI,KRE,Regional Banks,KRE,1
+NBBK,KRE,Regional Banks,KRE,1
+NBHC,KRE,Regional Banks,KRE,1
+NBTB,KBE,Banks,"KBE,KRE",2
+NIC,KBE,Banks,"KBE,KRE",2
+NRIM,KRE,Regional Banks,KRE,1
+NWBI,KBE,Banks,"KBE,KRE",2
+OCFC,KRE,Regional Banks,KRE,1
+OFG,KBE,Banks,"KBE,KRE",2
+ONB,KBE,Banks,"KBE,KRE",2
+ORRF,KRE,Regional Banks,KRE,1
+OSBC,KRE,Regional Banks,KRE,1
+OZK,KBE,Banks,"KBE,KRE",2
+PB,KBE,Banks,"KBE,KRE",2
+PEBO,KRE,Regional Banks,KRE,1
+PFBC,KRE,Regional Banks,KRE,1
+PFIS,KRE,Regional Banks,KRE,1
+PFS,KBE,Banks,"KBE,KRE",2
+PGC,KRE,Regional Banks,KRE,1
+PNFP,KBE,Banks,"KBE,KRE",2
+PRK,KBE,Banks,"KBE,KRE",2
+QCRH,KRE,Regional Banks,KRE,1
+RBCAA,KRE,Regional Banks,KRE,1
+RNST,KBE,Banks,"KBE,KRE",2
+RRBI,KRE,Regional Banks,KRE,1
+SBCF,KBE,Banks,"KBE,KRE",2
+SBSI,KRE,Regional Banks,KRE,1
+SFBS,KBE,Banks,"KBE,KRE",2
+SFNC,KBE,Banks,"KBE,KRE",2
+SFST,KRE,Regional Banks,KRE,1
+SHBI,KRE,Regional Banks,KRE,1
+SMBC,KRE,Regional Banks,KRE,1
+SMBK,KRE,Regional Banks,KRE,1
+SPFI,KRE,Regional Banks,KRE,1
+SRCE,KRE,Regional Banks,KRE,1
+SSB,KBE,Banks,"KBE,KRE",2
+STBA,KRE,Regional Banks,KRE,1
+SYBT,KBE,Banks,"KBE,KRE",2
+TBBK,KBE,Banks,"KBE,KRE",2
+TCBK,KRE,Regional Banks,KRE,1
+TCBX,KRE,Regional Banks,KRE,1
+TFIN,KBE,Banks,"KBE,KRE",2
+TFSL,KRE,Regional Banks,KRE,1
+THFF,KRE,Regional Banks,KRE,1
+TMP,KRE,Regional Banks,KRE,1
+TRMK,KBE,Banks,"KBE,KRE",2
+TRST,KRE,Regional Banks,KRE,1
+UBSI,KBE,Banks,"KBE,KRE",2
+UCB,KBE,Banks,"KBE,KRE",2
+UMBF,KBE,Banks,"KBE,KRE",2
+UNTY,KRE,Regional Banks,KRE,1
+UVSP,KRE,Regional Banks,KRE,1
+VLY,KBE,Banks,"KBE,KRE",2
+WABC,KRE,Regional Banks,KRE,1
+WAFD,KBE,Banks,"KBE,KRE",2
+WAL,KBE,Banks,"KBE,KRE",2
+WASH,KRE,Regional Banks,KRE,1
+WSBC,KBE,Banks,"KBE,KRE",2
+WSFS,KBE,Banks,"KBE,KRE",2
+WTFC,KBE,Banks,"KBE,KRE",2
+ZION,KBE,Banks,"KBE,KRE",2
+AR,XOP,Oil & Gas E&P,XOP,1
+BKV,XOP,Oil & Gas E&P,XOP,1
+CHRD,XOP,Oil & Gas E&P,XOP,1
+CLMT,XOP,Oil & Gas E&P,XOP,1
+CNX,XOP,Oil & Gas E&P,XOP,1
+CRC,XOP,Oil & Gas E&P,XOP,1
+CRGY,XOP,Oil & Gas E&P,XOP,1
+CRK,XOP,Oil & Gas E&P,XOP,1
+CVI,XOP,Oil & Gas E&P,XOP,1
+DEC,XOP,Oil & Gas E&P,XOP,1
+DINO,XOP,Oil & Gas E&P,XOP,1
+DK,XOP,Oil & Gas E&P,XOP,1
+EGY,XOP,Oil & Gas E&P,XOP,1
+GPOR,XOP,Oil & Gas E&P,XOP,1
+GPRE,XOP,Oil & Gas E&P,XOP,1
+MGY,XOP,Oil & Gas E&P,XOP,1
+MTDR,XOP,Oil & Gas E&P,XOP,1
+MUR,XOP,Oil & Gas E&P,XOP,1
+NOG,XOP,Oil & Gas E&P,XOP,1
+NUAI,XOP,Oil & Gas E&P,XOP,1
+OVV,XOP,Oil & Gas E&P,XOP,1
+PARR,XOP,Oil & Gas E&P,XOP,1
+PBF,XOP,Oil & Gas E&P,XOP,1
+PR,XOP,Oil & Gas E&P,XOP,1
+REPX,XOP,Oil & Gas E&P,XOP,1
+REX,XOP,Oil & Gas E&P,XOP,1
+RRC,XOP,Oil & Gas E&P,XOP,1
+SD,XOP,Oil & Gas E&P,XOP,1
+SM,XOP,Oil & Gas E&P,XOP,1
+SOC,XOP,Oil & Gas E&P,XOP,1
+TALO,XOP,Oil & Gas E&P,XOP,1
+VG,XOP,Oil & Gas E&P,XOP,1
+VNOM,XOP,Oil & Gas E&P,XOP,1
+VTS,XOP,Oil & Gas E&P,XOP,1
+WKC,XOP,Oil & Gas E&P,XOP,1
+AAL,JETS,Airlines,JETS,1
+ALGT,JETS,Airlines,JETS,1
+ALK,JETS,Airlines,JETS,1
+JBLU,JETS,Airlines,JETS,1
+RYAAY,JETS,Airlines,JETS,1
+SKYW,JETS,Airlines,JETS,1
+TRIP,JETS,Airlines,JETS,1
+ULCC,JETS,Airlines,JETS,1
+ACIW,XSW,Software,"FINX,XSW",2
+AFRM,FINX,Fintech,FINX,1
+GWRE,XSW,Software,"FINX,XSW",2
+HQY,FINX,Fintech,FINX,1
+HUT,XSW,Software,"FINX,XSW",2
+KLAR,FINX,Fintech,FINX,1
+SOFI,FINX,Fintech,FINX,1
+SSNC,FINX,Fintech,FINX,1
+TOST,FINX,Fintech,FINX,1
+WSE,FINX,Fintech,FINX,1
+ALM,REMX,Rare Earth,REMX,1
+IPX,REMX,Rare Earth,REMX,1
+LAC,REMX,Rare Earth,REMX,1
+LAR,REMX,Rare Earth,REMX,1
+ATI,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+BWXT,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+CRS,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+CW,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+FTAI,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+HEI,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+HXL,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+KTOS,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+RKLB,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+WWD,XAR,Aerospace & Defense (SPDR),"ITA,XAR",2
+ALGM,XSD,Semiconductors (equal-wt),XSD,1
+AMBA,XSD,Semiconductors (equal-wt),XSD,1
+AMBQ,XSD,Semiconductors (equal-wt),XSD,1
+AOSL,XSD,Semiconductors (equal-wt),XSD,1
+CEVA,XSD,Semiconductors (equal-wt),XSD,1
+CRDO,XSD,Semiconductors (equal-wt),XSD,1
+CRUS,XSD,Semiconductors (equal-wt),XSD,1
+DIOD,XSD,Semiconductors (equal-wt),XSD,1
+INDI,XSD,Semiconductors (equal-wt),XSD,1
+IONQ,XSD,Semiconductors (equal-wt),XSD,1
+KOPN,XSD,Semiconductors (equal-wt),XSD,1
+LSCC,XSD,Semiconductors (equal-wt),XSD,1
+MRAM,XSD,Semiconductors (equal-wt),XSD,1
+MTSI,XSD,Semiconductors (equal-wt),XSD,1
+MXL,XSD,Semiconductors (equal-wt),XSD,1
+NVEC,XSD,Semiconductors (equal-wt),XSD,1
+NVTS,XSD,Semiconductors (equal-wt),XSD,1
+OLED,XSD,Semiconductors (equal-wt),XSD,1
+PENG,XSD,Semiconductors (equal-wt),XSD,1
+PI,XSD,Semiconductors (equal-wt),XSD,1
+POWI,XSD,Semiconductors (equal-wt),XSD,1
+RGTI,XSD,Semiconductors (equal-wt),XSD,1
+RMBS,XSD,Semiconductors (equal-wt),XSD,1
+SITM,XSD,Semiconductors (equal-wt),XSD,1
+SLAB,XSD,Semiconductors (equal-wt),XSD,1
+SMTC,XSD,Semiconductors (equal-wt),XSD,1
+SYNA,XSD,Semiconductors (equal-wt),XSD,1
+WOLF,XSD,Semiconductors (equal-wt),XSD,1
+ADEA,XSW,Software,XSW,1
+AGYS,XSW,Software,XSW,1
+AI,XSW,Software,XSW,1
+AIP,XSW,Software,XSW,1
+ALKT,XSW,Software,XSW,1
+ALRM,XSW,Software,XSW,1
+AMPL,XSW,Software,XSW,1
+APPF,XSW,Software,XSW,1
+APPN,XSW,Software,XSW,1
+APPS,XSW,Software,XSW,1
+ASAN,XSW,Software,XSW,1
+AVPT,XSW,Software,XSW,1
+BBAI,XSW,Software,XSW,1
+BILL,XSW,Software,XSW,1
+BL,XSW,Software,XSW,1
+BLKB,XSW,Software,XSW,1
+BOX,XSW,Software,XSW,1
+BRZE,XSW,Software,XSW,1
+BSY,XSW,Software,XSW,1
+CCC,XSW,Software,XSW,1
+CCSI,XSW,Software,XSW,1
+CIFR,XSW,Software,XSW,1
+CLSK,XSW,Software,XSW,1
+CORZ,XSW,Software,XSW,1
+CRNC,XSW,Software,XSW,1
+CVLT,XSW,Software,XSW,1
+CXM,XSW,Software,XSW,1
+DBX,XSW,Software,XSW,1
+DJCO,XSW,Software,XSW,1
+DLB,XSW,Software,XSW,1
+DOCU,XSW,Software,XSW,1
+DT,XSW,Software,XSW,1
+DXC,XSW,Software,XSW,1
+EFOR,XSW,Software,XSW,1
+EPAM,XSW,Software,XSW,1
+ESTC,XSW,Software,XSW,1
+FIVN,XSW,Software,XSW,1
+FRSH,XSW,Software,XSW,1
+GDYN,XSW,Software,XSW,1
+GTLB,XSW,Software,XSW,1
+HUBS,XSW,Software,XSW,1
+IDCC,XSW,Software,XSW,1
+INTA,XSW,Software,XSW,1
+IOT,XSW,Software,XSW,1
+KD,XSW,Software,XSW,1
+KEEL,XSW,Software,XSW,1
+KVYO,XSW,Software,XSW,1
+LIF,XSW,Software,XSW,1
+MANH,XSW,Software,XSW,1
+MARA,XSW,Software,XSW,1
+MITK,XSW,Software,XSW,1
+MSTR,XSW,Software,XSW,1
+NCNO,XSW,Software,XSW,1
+NN,XSW,Software,XSW,1
+NTNX,XSW,Software,XSW,1
+OOMA,XSW,Software,XSW,1
+OSPN,XSW,Software,XSW,1
+PAR,XSW,Software,XSW,1
+PATH,XSW,Software,XSW,1
+PCOR,XSW,Software,XSW,1
+PD,XSW,Software,XSW,1
+PEGA,XSW,Software,XSW,1
+PRGS,XSW,Software,XSW,1
+QBTS,XSW,Software,XSW,1
+QTWO,XSW,Software,XSW,1
+RBLX,XSW,Software,"ESPO,XSW",2
+RDVT,XSW,Software,XSW,1
+RIOT,XSW,Software,XSW,1
+RNG,XSW,Software,XSW,1
+RPD,XSW,Software,XSW,1
+SAIL,XSW,Software,XSW,1
+SOUN,XSW,Software,XSW,1
+SPSC,XSW,Software,XSW,1
+SPT,XSW,Software,XSW,1
+TDC,XSW,Software,XSW,1
+TEAM,XSW,Software,XSW,1
+TTAN,XSW,Software,XSW,1
+U,XSW,Software,"ESPO,XSW",2
+VERX,XSW,Software,XSW,1
+VIA,XSW,Software,XSW,1
+VYX,XSW,Software,XSW,1
+WK,XSW,Software,XSW,1
+WULF,XSW,Software,XSW,1
+YEXT,XSW,Software,XSW,1
+YOU,XSW,Software,XSW,1
+ZETA,XSW,Software,XSW,1
+ZM,XSW,Software,XSW,1
+ACRS,XPH,Pharma,XPH,1
+ALMS,XPH,Pharma,XPH,1
+AMLX,XPH,Pharma,XPH,1
+AMPH,XPH,Pharma,XPH,1
+AMRX,XPH,Pharma,XPH,1
+ANIP,XPH,Pharma,XPH,1
+ANRO,XPH,Pharma,XPH,1
+AQST,XPH,Pharma,XPH,1
+ARVN,XPH,Pharma,XPH,1
+AXSM,XPH,Pharma,XPH,1
+BIOA,XPH,Pharma,XPH,1
+COLL,XPH,Pharma,XPH,1
+CORT,XPH,Pharma,XPH,1
+CRMD,XPH,Pharma,XPH,1
+CTNM,XPH,Pharma,XPH,1
+DFTX,XPH,Pharma,XPH,1
+ELAN,MOO,Agribusiness,"MOO,XPH",2
+ELVN,XPH,Pharma,XPH,1
+EOLS,XPH,Pharma,XPH,1
+ETON,XPH,Pharma,XPH,1
+EWTX,XPH,Pharma,XPH,1
+EYPT,XPH,Pharma,XPH,1
+HRMY,XPH,Pharma,XPH,1
+HROW,XPH,Pharma,XPH,1
+INDV,XPH,Pharma,XPH,1
+INVA,XPH,Pharma,XPH,1
+JAZZ,XPH,Pharma,XPH,1
+LBRX,XPH,Pharma,XPH,1
+LGND,XPH,Pharma,XPH,1
+LQDA,XPH,Pharma,XPH,1
+MAZE,XPH,Pharma,XPH,1
+MBX,XPH,Pharma,XPH,1
+NUVB,XPH,Pharma,XPH,1
+OCUL,XPH,Pharma,XPH,1
+OGN,XPH,Pharma,XPH,1
+OMER,XPH,Pharma,XPH,1
+PAHC,XPH,Pharma,XPH,1
+PBH,XPH,Pharma,XPH,1
+PCRX,XPH,Pharma,XPH,1
+PHAT,XPH,Pharma,XPH,1
+PRGO,XPH,Pharma,XPH,1
+RAPP,XPH,Pharma,XPH,1
+RLMD,XPH,Pharma,XPH,1
+RPRX,XPH,Pharma,XPH,1
+SEPN,XPH,Pharma,XPH,1
+TARS,XPH,Pharma,XPH,1
+TRVI,XPH,Pharma,XPH,1
+WVE,XPH,Pharma,XPH,1
+XERS,XPH,Pharma,XPH,1
+ZVRA,XPH,Pharma,XPH,1
+ANGO,XHE,Healthcare Equipment,XHE,1
+AORT,XHE,Healthcare Equipment,XHE,1
+ASST,XHE,Healthcare Equipment,XHE,1
+ATEC,XHE,Healthcare Equipment,XHE,1
+ATRC,XHE,Healthcare Equipment,XHE,1
+AVR,XHE,Healthcare Equipment,XHE,1
+AXGN,XHE,Healthcare Equipment,XHE,1
+BBNX,XHE,Healthcare Equipment,XHE,1
+BFLY,XHE,Healthcare Equipment,XHE,1
+BVS,XHE,Healthcare Equipment,XHE,1
+CBLL,XHE,Healthcare Equipment,XHE,1
+CLPT,XHE,Healthcare Equipment,XHE,1
+CNMD,XHE,Healthcare Equipment,XHE,1
+DCTH,XHE,Healthcare Equipment,XHE,1
+ENOV,XHE,Healthcare Equipment,XHE,1
+GKOS,XHE,Healthcare Equipment,XHE,1
+GMED,XHE,Healthcare Equipment,XHE,1
+HAE,XHE,Healthcare Equipment,XHE,1
+IART,XHE,Healthcare Equipment,XHE,1
+ICUI,XHE,Healthcare Equipment,XHE,1
+INSP,XHE,Healthcare Equipment,XHE,1
+IRMD,XHE,Healthcare Equipment,XHE,1
+IRTC,XHE,Healthcare Equipment,XHE,1
+ITGR,XHE,Healthcare Equipment,XHE,1
+KIDS,XHE,Healthcare Equipment,XHE,1
+KMTS,XHE,Healthcare Equipment,XHE,1
+LIVN,XHE,Healthcare Equipment,XHE,1
+LMAT,XHE,Healthcare Equipment,XHE,1
+LNTH,XHE,Healthcare Equipment,XHE,1
+MDLN,XHE,Healthcare Equipment,XHE,1
+MMSI,XHE,Healthcare Equipment,XHE,1
+NEOG,MOO,Agribusiness,"MOO,XHE",2
+NPCE,XHE,Healthcare Equipment,XHE,1
+NVCR,XHE,Healthcare Equipment,XHE,1
+NVST,XHE,Healthcare Equipment,XHE,1
+OFIX,XHE,Healthcare Equipment,XHE,1
+OMCL,XHE,Healthcare Equipment,XHE,1
+PEN,XHE,Healthcare Equipment,XHE,1
+PLSE,XHE,Healthcare Equipment,XHE,1
+PRCT,XHE,Healthcare Equipment,XHE,1
+QDEL,XHE,Healthcare Equipment,XHE,1
+SENS,XHE,Healthcare Equipment,XHE,1
+SIBN,XHE,Healthcare Equipment,XHE,1
+STAA,XHE,Healthcare Equipment,XHE,1
+TCMD,XHE,Healthcare Equipment,XHE,1
+TFX,XHE,Healthcare Equipment,XHE,1
+TMDX,XHE,Healthcare Equipment,XHE,1
+TNDM,XHE,Healthcare Equipment,XHE,1
+UFPT,XHE,Healthcare Equipment,XHE,1
+VREX,XHE,Healthcare Equipment,XHE,1
+XRAY,XHE,Healthcare Equipment,XHE,1
+BLDR,XHB,Homebuilders,XHB,1
+CCS,XHB,Homebuilders,XHB,1
+CSL,XHB,Homebuilders,XHB,1
+CVCO,XHB,Homebuilders,XHB,1
+DFH,XHB,Homebuilders,XHB,1
+GRBK,XHB,Homebuilders,XHB,1
+HOV,XHB,Homebuilders,XHB,1
+IBP,XHB,Homebuilders,XHB,1
+KBH,XHB,Homebuilders,XHB,1
+LGIH,XHB,Homebuilders,XHB,1
+MHO,XHB,Homebuilders,XHB,1
+MOD,XHB,Homebuilders,XHB,1
+MTH,XHB,Homebuilders,XHB,1
+OC,XHB,Homebuilders,XHB,1
+SGI,XHB,Homebuilders,XHB,1
+SKY,XHB,Homebuilders,XHB,1
+SN,XHB,Homebuilders,XHB,1
+SSD,XHB,Homebuilders,XHB,1
+TOL,XHB,Homebuilders,XHB,1
+W,XHB,Homebuilders,XHB,1
+WMS,XHB,Homebuilders,XHB,1
+AAP,XRT,Retail,XRT,1
+ABG,XRT,Retail,XRT,1
+ACI,XRT,Retail,XRT,1
+AEO,XRT,Retail,XRT,1
+AN,XRT,Retail,XRT,1
+ANF,XRT,Retail,XRT,1
+ARKO,XRT,Retail,XRT,1
+ASO,XRT,Retail,XRT,1
+BBW,XRT,Retail,XRT,1
+BBWI,XRT,Retail,XRT,1
+BJ,XRT,Retail,XRT,1
+BKE,XRT,Retail,XRT,1
+BOOT,XRT,Retail,XRT,1
+BURL,XRT,Retail,XRT,1
+CAL,XRT,Retail,XRT,1
+CART,XRT,Retail,XRT,1
+CHWY,XRT,Retail,XRT,1
+CPNG,XRT,Retail,XRT,1
+CTRN,XRT,Retail,XRT,1
+CWH,XRT,Retail,XRT,1
+DKS,XRT,Retail,XRT,1
+ETSY,XRT,Retail,XRT,1
+EYE,XRT,Retail,XRT,1
+FIVE,XRT,Retail,XRT,1
+GAP,XRT,Retail,XRT,1
+GME,XRT,Retail,"ESPO,XRT",2
+GO,XRT,Retail,XRT,1
+GPI,XRT,Retail,XRT,1
+GRPN,XRT,Retail,XRT,1
+HZO,XRT,Retail,XRT,1
+IMKTA,XRT,Retail,XRT,1
+KMX,XRT,Retail,XRT,1
+KSS,XRT,Retail,XRT,1
+LAD,XRT,Retail,XRT,1
+M,XRT,Retail,XRT,1
+MNRO,XRT,Retail,XRT,1
+MUSA,XRT,Retail,XRT,1
+OLLI,XRT,Retail,XRT,1
+PAG,XRT,Retail,XRT,1
+PSMT,XRT,Retail,XRT,1
+PTRN,XRT,Retail,XRT,1
+REAL,XRT,Retail,XRT,1
+RVLV,XRT,Retail,XRT,1
+SAH,XRT,Retail,XRT,1
+SBH,XRT,Retail,XRT,1
+SFIX,XRT,Retail,XRT,1
+SFM,XRT,Retail,XRT,1
+SIG,XRT,Retail,XRT,1
+SVV,XRT,Retail,XRT,1
+UPBD,XRT,Retail,XRT,1
+URBN,XRT,Retail,XRT,1
+VSXY,XRT,Retail,XRT,1
+VVV,XRT,Retail,XRT,1
+WINA,XRT,Retail,XRT,1
+WMK,XRT,Retail,XRT,1
+WRBY,XRT,Retail,XRT,1
+AGM,KBE,Banks,KBE,1
+CRBG,KBE,Banks,KBE,1
+EQH,KBE,Banks,KBE,1
+ESNT,KBE,Banks,KBE,1
+FCNCA,KBE,Banks,KBE,1
+JXN,KBE,Banks,KBE,1
+MTG,KBE,Banks,KBE,1
+NMIH,KBE,Banks,KBE,1
+PFSI,KBE,Banks,KBE,1
+RDN,KBE,Banks,KBE,1
+RKT,KBE,Banks,KBE,1
+VOYA,KBE,Banks,KBE,1
+WD,KBE,Banks,KBE,1
+AFG,KIE,Insurance,KIE,1
+AGO,KIE,Insurance,KIE,1
+AXS,KIE,Insurance,KIE,1
+BHF,KIE,Insurance,KIE,1
+BWIN,KIE,Insurance,KIE,1
+CNO,KIE,Insurance,KIE,1
+FAF,KIE,Insurance,KIE,1
+FNF,KIE,Insurance,KIE,1
+GNW,KIE,Insurance,KIE,1
+HMN,KIE,Insurance,KIE,1
+KMPR,KIE,Insurance,KIE,1
+KNSL,KIE,Insurance,KIE,1
+LMND,KIE,Insurance,KIE,1
+LNC,KIE,Insurance,KIE,1
+MCY,KIE,Insurance,KIE,1
+MKL,KIE,Insurance,KIE,1
+ORI,KIE,Insurance,KIE,1
+OSCR,KIE,Insurance,KIE,1
+PLMR,KIE,Insurance,KIE,1
+PRI,KIE,Insurance,KIE,1
+RGA,KIE,Insurance,KIE,1
+RLI,KIE,Insurance,KIE,1
+RNR,KIE,Insurance,KIE,1
+RYAN,KIE,Insurance,KIE,1
+SIGI,KIE,Insurance,KIE,1
+SKWD,KIE,Insurance,KIE,1
+SPNT,KIE,Insurance,KIE,1
+STC,KIE,Insurance,KIE,1
+THG,KIE,Insurance,KIE,1
+UNM,KIE,Insurance,KIE,1
+WTM,KIE,Insurance,KIE,1
+ACHR,XAR,Aerospace & Defense (SPDR),XAR,1
+AIR,XAR,Aerospace & Defense (SPDR),XAR,1
+ATRO,XAR,Aerospace & Defense (SPDR),XAR,1
+AVAV,XAR,Aerospace & Defense (SPDR),XAR,1
+BETA,XAR,Aerospace & Defense (SPDR),XAR,1
+CDRE,XAR,Aerospace & Defense (SPDR),XAR,1
+DCO,XAR,Aerospace & Defense (SPDR),XAR,1
+DRS,XAR,Aerospace & Defense (SPDR),XAR,1
+FLY,XAR,Aerospace & Defense (SPDR),XAR,1
+KRMN,XAR,Aerospace & Defense (SPDR),XAR,1
+LOAR,XAR,Aerospace & Defense (SPDR),XAR,1
+LUNR,XAR,Aerospace & Defense (SPDR),XAR,1
+MRCY,XAR,Aerospace & Defense (SPDR),XAR,1
+NPK,XAR,Aerospace & Defense (SPDR),XAR,1
+PKE,XAR,Aerospace & Defense (SPDR),XAR,1
+RCAT,XAR,Aerospace & Defense (SPDR),XAR,1
+RDW,XAR,Aerospace & Defense (SPDR),XAR,1
+SARO,XAR,Aerospace & Defense (SPDR),XAR,1
+SATL,XAR,Aerospace & Defense (SPDR),XAR,1
+VOYG,XAR,Aerospace & Defense (SPDR),XAR,1
+VSEC,XAR,Aerospace & Defense (SPDR),XAR,1
+VVX,XAR,Aerospace & Defense (SPDR),XAR,1
+CLB,OIH,Oil Services,OIH,1
+FTI,OIH,Oil Services,OIH,1
+HOS,OIH,Oil Services,OIH,1
+HP,OIH,Oil Services,OIH,1
+INVX,OIH,Oil Services,OIH,1
+LBRT,OIH,Oil Services,OIH,1
+NBR,OIH,Oil Services,OIH,1
+NE,OIH,Oil Services,OIH,1
+NOV,OIH,Oil Services,OIH,1
+OII,OIH,Oil Services,OIH,1
+PTEN,OIH,Oil Services,OIH,1
+PUMP,OIH,Oil Services,OIH,1
+RES,OIH,Oil Services,OIH,1
+RIG,OIH,Oil Services,OIH,1
+SEI,OIH,Oil Services,OIH,1
+TDW,OIH,Oil Services,OIH,1
+TS,SLX,Steel,"OIH,SLX",2
+VAL,OIH,Oil Services,OIH,1
+WFRD,OIH,Oil Services,OIH,1
+WHD,OIH,Oil Services,OIH,1
+WTTR,OIH,Oil Services,OIH,1
+XPRO,OIH,Oil Services,OIH,1
+BNTX,BBH,Biotech (VanEck),BBH,1
+GH,BBH,Biotech (VanEck),BBH,1
+ICLR,BBH,Biotech (VanEck),BBH,1
+QGEN,BBH,Biotech (VanEck),BBH,1
+NTES,ESPO,Gaming & eSports,ESPO,1
+AGCO,MOO,Agribusiness,MOO,1
+CALM,MOO,Agribusiness,MOO,1
+CNH,MOO,Agribusiness,MOO,1
+CTVA,MOO,Agribusiness,MOO,1
+DAR,MOO,Agribusiness,MOO,1
+FMC,MOO,Agribusiness,MOO,1
+ICL,MOO,Agribusiness,MOO,1
+NTR,MOO,Agribusiness,MOO,1
+PPC,MOO,Agribusiness,MOO,1
+TTC,MOO,Agribusiness,MOO,1
+BHP,SLX,Steel,SLX,1
+GGB,SLX,Steel,SLX,1
+MT,SLX,Steel,SLX,1
+PKX,SLX,Steel,SLX,1
+TX,SLX,Steel,SLX,1
+VALE,SLX,Steel,SLX,1

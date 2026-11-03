@@ -1,0 +1,14 @@
+{
+  "etfs_fetched": 47,
+  "mapped_tickers": 1388,
+  "kept_tickers": 3259,
+  "onsets_total": 3434,
+  "onset_classes": {
+    "unmapped": 1920,
+    "sector-driven": 836,
+    "sector-assisted": 351,
+    "solo": 327
+  },
+  "split": "2026-06-10",
+  "runtime_s": 236
+}

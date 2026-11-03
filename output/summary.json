@@ -1,0 +1,36 @@
+{
+  "analysis_year": "2025-11-03..2026-11-03",
+  "universe_tickers": 7628,
+  "tradable_tickers": 3259,
+  "dropped": {
+    "few_days": 649,
+    "illiquid": 3159,
+    "error": 561
+  },
+  "stock_days": 817548,
+  "split_date": "2026-06-10",
+  "explosions_in_year": 3434,
+  "discovery_winner": "full_trend+hist_rising",
+  "baseline_test": {
+    "spy_test_ret_pct": 4.22,
+    "unconditional_fwd20_mean_pct": -0.55,
+    "unconditional_boom20_rate_pct": 2.93,
+    "discovery_base_pre_rate_pct": 4.95,
+    "discovery_base_boom_rate_pct": 5.67
+  },
+  "winner_test_stats": [
+    {
+      "combo": "full_trend+hist_rising",
+      "signals": "stack_full+hist_rising",
+      "period": "test",
+      "trades": 40,
+      "win_rate_pct": 50.0,
+      "avg_ret_pct": -4.04,
+      "median_ret_pct": 0.0,
+      "best_pct": 11.2,
+      "worst_pct": -34.7,
+      "portfolio_ret_pct (10 slots, equal weight, approx)": -16.1
+    }
+  ],
+  "runtime_s_stage2": 81
+}
