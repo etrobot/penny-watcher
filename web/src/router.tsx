@@ -117,7 +117,14 @@ const routes = [
 
 const routeTree = rootRoute.addChildren(routes)
 
-export const router = createRouter({ routeTree, scrollRestoration: true })
+// When built with a non-root base (e.g. GitHub Pages /penny-watcher/),
+// route under that basepath; plain local builds keep basepath unset.
+const basepath = import.meta.env.BASE_URL.replace(/\/$/, '')
+export const router = createRouter({
+  routeTree,
+  scrollRestoration: true,
+  ...(basepath ? { basepath } : {}),
+})
 
 declare module '@tanstack/react-router' {
   interface Register {
