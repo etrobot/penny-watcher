@@ -55,15 +55,15 @@ export function DataTable<T extends object>({
             value={globalFilter}
             onChange={(e) => setGlobalFilter(e.target.value)}
             placeholder={searchPlaceholder}
-            className="num w-full max-w-xs rounded-lg border border-[#1b2831] bg-black/40 px-3 py-2 text-sm text-white placeholder:text-[#5d7180] focus:border-emerald-300/50 focus:outline-none"
+            className="num w-full max-w-xs rounded-md border border-[#2a2e39] bg-black/30 px-2.5 py-1.5 text-xs text-white placeholder:text-[#787b86] focus:border-emerald-300/50 focus:outline-none"
           />
-          <span className="num text-xs text-[#8fa3b0]">
+          <span className="num text-xs text-[#8b8e96]">
             {table.getFilteredRowModel().rows.length.toLocaleString()} rows
           </span>
         </div>
       )}
-      <div className="overflow-x-auto rounded-xl border border-[#1b2831]">
-        <table className="w-full min-w-[560px] border-collapse text-sm">
+      <div className="overflow-x-auto rounded-md border border-[#2a2e39]">
+        <table className="w-full min-w-[560px] border-collapse text-xs">
           <thead>
             {table.getHeaderGroups().map((hg) => (
               <tr key={hg.id} className="bg-white/[0.03]">
@@ -71,7 +71,7 @@ export function DataTable<T extends object>({
                   <th
                     key={h.id}
                     onClick={h.column.getToggleSortingHandler()}
-                    className={`num px-3 py-2.5 text-left text-[11px] font-semibold tracking-[0.12em] whitespace-nowrap text-[#8fa3b0] uppercase ${
+                    className={`num px-2 py-1.5 text-left text-[10px] font-semibold tracking-[0.12em] whitespace-nowrap text-[#8b8e96] uppercase ${
                       h.column.getCanSort() ? 'cursor-pointer select-none hover:text-emerald-200' : ''
                     }`}
                   >
@@ -87,7 +87,7 @@ export function DataTable<T extends object>({
             {table.getRowModel().rows.map((row) => (
               <tr key={row.id} className="border-t border-white/[0.04] transition-colors hover:bg-emerald-300/[0.04]">
                 {row.getVisibleCells().map((cell) => (
-                  <td key={cell.id} className="px-3 py-2 whitespace-nowrap">
+                  <td key={cell.id} className="px-2 py-[5px] whitespace-nowrap">
                     {flexRender(cell.column.columnDef.cell, cell.getContext())}
                   </td>
                 ))}
@@ -95,7 +95,7 @@ export function DataTable<T extends object>({
             ))}
             {table.getRowModel().rows.length === 0 && (
               <tr>
-                <td colSpan={cols.length} className="px-3 py-8 text-center text-[#8fa3b0]">
+                <td colSpan={cols.length} className="px-3 py-8 text-center text-[#8b8e96]">
                   No rows match.
                 </td>
               </tr>
@@ -104,22 +104,22 @@ export function DataTable<T extends object>({
         </table>
       </div>
       {pageCount > 1 && (
-        <div className="mt-3 flex items-center justify-between">
-          <div className="num text-xs text-[#8fa3b0]">
+        <div className="mt-2 flex items-center justify-between">
+          <div className="num text-xs text-[#8b8e96]">
             Page {pageIndex + 1} / {pageCount}
           </div>
           <div className="flex gap-2">
             <button
               onClick={() => table.previousPage()}
               disabled={!table.getCanPreviousPage()}
-              className="num rounded-lg border border-[#1b2831] px-3 py-1.5 text-xs text-white transition hover:border-emerald-300/40 disabled:opacity-30"
+              className="num rounded-lg border border-[#2a2e39] px-3 py-1.5 text-xs text-white transition hover:border-emerald-300/40 disabled:opacity-30"
             >
               ← Prev
             </button>
             <button
               onClick={() => table.nextPage()}
               disabled={!table.getCanNextPage()}
-              className="num rounded-lg border border-[#1b2831] px-3 py-1.5 text-xs text-white transition hover:border-emerald-300/40 disabled:opacity-30"
+              className="num rounded-lg border border-[#2a2e39] px-3 py-1.5 text-xs text-white transition hover:border-emerald-300/40 disabled:opacity-30"
             >
               Next →
             </button>

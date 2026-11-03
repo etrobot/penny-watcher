@@ -12,7 +12,7 @@ export function ExplosionsPage() {
   const cols = useMemo<ColumnDef<ExplosionRow, any>[]>(
     () => [
       { accessorKey: 'ticker', header: 'Ticker', cell: ({ getValue }) => <span className="num font-semibold text-white">{String(getValue())}</span> },
-      { accessorKey: 'onset', header: 'Onset date', cell: ({ getValue }) => <span className="num text-[#aebfca]">{String(getValue())}</span> },
+      { accessorKey: 'onset', header: 'Onset date', cell: ({ getValue }) => <span className="num text-[#d1d4dc]">{String(getValue())}</span> },
       { accessorKey: 'price', header: 'Price at onset', cell: ({ getValue }) => <span className="num">${Number(getValue()).toFixed(2)}</span> },
       { accessorKey: 'fwd20_pct', header: 'Close at +20d', cell: ({ getValue }) => <span className={`num font-semibold ${tone(Number(getValue()))}`}>{fmtPct(Number(getValue()))}</span> },
       { accessorKey: 'fwd_max20_pct', header: 'Peak within 20d', cell: ({ getValue }) => <span className="num text-emerald-300">{fmtPct(Number(getValue()))}</span> },
@@ -35,13 +35,13 @@ export function ExplosionsPage() {
   const median = [...data.explosions].sort((a, b) => a.fwd20_pct - b.fwd20_pct)[Math.floor(data.explosions.length / 2)]
 
   return (
-    <div className="space-y-5">
-      <div className="rise pt-2">
+    <div className="space-y-3">
+      <div className="rise">
         <Tag>THE RAW MATERIAL</Tag>
-        <h1 className="font-[family-name:var(--font-display)] mt-3 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+        <h1 className="font-[family-name:var(--font-display)] mt-2 text-xl font-bold tracking-tight text-white sm:text-2xl">
           {fmtInt(data.explosions.length)} explosions, on the record
         </h1>
-        <p className="mt-3 max-w-2xl text-sm leading-relaxed text-[#aebfca]">
+        <p className="mt-1.5 max-w-2xl text-[13px] leading-relaxed text-[#d1d4dc]">
           An onset = next-20d peak ≥ +30% <em>and</em> day-20 close ≥ +20%, with the prior 20 days quiet
           (≤ +10%), de-overlapped so one run counts once. Defined before any signal was looked at.
         </p>
@@ -54,18 +54,18 @@ export function ExplosionsPage() {
         <Kpi label="Busiest month" value={months.reduce((a, b) => (b[1] > a[1] ? b : a))[0]} sub={`${fmtInt(months.reduce((a, b) => (b[1] > a[1] ? b : a))[1])} onsets`} delay={190} />
       </div>
 
-      <div className="grid gap-5 lg:grid-cols-5">
+      <div className="grid gap-3 lg:grid-cols-5">
         <Panel delay={120} className="lg:col-span-3">
           <SectionTitle kicker="Cadence" title="Onsets per month" />
-          <div className="flex h-44 items-end gap-2 pt-2">
+          <div className="flex h-36 items-end gap-1.5 pt-1">
             {months.map(([m, v]) => (
               <div key={m} className="group flex flex-1 flex-col items-center gap-2">
-                <div className="num text-[10px] text-[#8fa3b0] opacity-0 transition group-hover:opacity-100">{v}</div>
+                <div className="num text-[10px] text-[#8b8e96] opacity-0 transition group-hover:opacity-100">{v}</div>
                 <div
-                  className="bar-grow-y w-full rounded-t-md bg-gradient-to-t from-emerald-500/50 to-emerald-300"
+                  className="bar-grow-y w-full rounded-t-md bg-gradient-to-t from-[#089981]/80 to-[#26a69a]"
                   style={{ height: `${(v / maxMonth) * 120}px` }}
                 />
-                <div className="num text-[9px] whitespace-nowrap text-[#8fa3b0]">{m.slice(2)}</div>
+                <div className="num text-[9px] whitespace-nowrap text-[#8b8e96]">{m.slice(2)}</div>
               </div>
             ))}
           </div>
@@ -84,13 +84,13 @@ export function ExplosionsPage() {
           title="Every onset"
           right={
             <label className="flex items-center gap-3">
-              <span className="num text-[11px] tracking-wider text-[#8fa3b0] uppercase">Min +20d close ≥ {minFwd}%</span>
+              <span className="num text-[11px] tracking-wider text-[#8b8e96] uppercase">Min +20d close ≥ {minFwd}%</span>
               <input type="range" min={20} max={150} step={5} value={minFwd} onChange={(e) => setMinFwd(Number(e.target.value))} className="w-36 accent-emerald-400" />
             </label>
           }
         />
         <DataTable data={rows} columns={cols} pageSize={15} searchable searchPlaceholder="Search ticker…" />
-        <p className="mt-3 text-xs leading-relaxed text-[#8fa3b0]">
+        <p className="mt-3 text-xs leading-relaxed text-[#8b8e96]">
           A few records show extreme percentages (low-priced names, corporate actions the split-adjustment
           may not fully clean). They're kept in — deleting outliers after the fact is how backtests learn to lie.
         </p>

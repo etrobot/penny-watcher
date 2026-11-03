@@ -19,19 +19,19 @@ const NAV = [
 
 function TickerTape() {
   const { data } = useData()
-  if (!data) return <div className="h-[33px] border-b border-[#1b2831] bg-black/40" />
+  if (!data) return <div className="h-[33px] border-b border-[#2a2e39] bg-black/40" />
   const items = [...data.etfStats]
     .sort((a, b) => Math.abs(b.year_ret_pct) - Math.abs(a.year_ret_pct))
     .slice(0, 18)
   const tape = [...items, ...items]
   return (
-    <div className="overflow-hidden border-b border-[#1b2831] bg-black/40">
-      <div className="tape-track flex w-max items-center gap-8 px-4 py-2">
+    <div className="overflow-hidden border-b border-[#2a2e39] bg-black/40">
+      <div className="tape-track flex w-max items-center gap-6 px-3 py-[3px]">
         {tape.map((e, i) => (
           <span key={i} className="num flex items-center gap-2 text-[11px] whitespace-nowrap">
             <span className="font-semibold text-white">{e.etf}</span>
             <span className={e.year_ret_pct >= 0 ? 'text-emerald-300' : 'text-rose-400'}>
-              {fmtPct(e.year_ret_pct)} <span className="text-[#5d7180]">1Y</span>
+              {fmtPct(e.year_ret_pct)} <span className="text-[#787b86]">1Y</span>
             </span>
           </span>
         ))}
@@ -45,16 +45,16 @@ function Shell() {
     <div className="min-h-screen">
       <div className="grid-bg pointer-events-none fixed inset-0" />
       <div className="relative">
-        <header className="sticky top-0 z-40 border-b border-[#1b2831] bg-[#05080a]/85 backdrop-blur-md">
-          <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3 sm:px-6">
+        <header className="sticky top-0 z-40 border-b border-[#2a2e39] bg-[#131722]/95">
+          <div className="mx-auto flex max-w-[1440px] flex-wrap items-center gap-x-4 gap-y-1 px-3 py-1.5 sm:px-4">
             <Link to="/" className="flex items-center gap-2.5">
-              <span className="live-dot flex h-8 w-8 items-center justify-center rounded-lg bg-emerald-400 font-[family-name:var(--font-display)] text-base font-bold text-black">
+              <span className="flex h-6 w-6 items-center justify-center rounded bg-[#2962ff] font-[family-name:var(--font-display)] text-[13px] font-bold text-white">
                 P
               </span>
-              <span className="font-[family-name:var(--font-display)] text-lg font-bold tracking-tight text-white">
-                PENNY<span className="text-emerald-300">WATCHER</span>
+              <span className="font-[family-name:var(--font-display)] text-sm font-bold tracking-tight text-white">
+                PENNY<span className="text-[#5b8cff]">WATCHER</span>
               </span>
-              <span className="num hidden text-[10px] tracking-[0.2em] text-[#5d7180] uppercase sm:inline">
+              <span className="num hidden text-[10px] tracking-[0.2em] text-[#787b86] uppercase sm:inline">
                 explosion lab
               </span>
             </Link>
@@ -63,15 +63,15 @@ function Shell() {
                 <Link
                   key={n.to}
                   to={n.to}
-                  className="num rounded-lg px-3 py-1.5 text-xs font-medium tracking-wide text-[#aebfca] transition hover:bg-white/5 hover:text-white"
-                  activeProps={{ className: 'num rounded-lg px-3 py-1.5 text-xs font-semibold tracking-wide bg-emerald-300/10 text-emerald-200' }}
+                  className="num rounded px-2.5 py-1 text-[11px] font-medium tracking-wide text-[#d1d4dc] transition hover:bg-white/5 hover:text-white"
+                  activeProps={{ className: 'num rounded px-2.5 py-1 text-[11px] font-semibold tracking-wide bg-[#2962ff] text-white' }}
                   activeOptions={{ exact: n.to === '/' }}
                 >
                   {n.label}
                 </Link>
               ))}
             </nav>
-            <div className="num ml-auto hidden items-center gap-2 text-[11px] text-[#8fa3b0] md:flex">
+            <div className="num ml-auto hidden items-center gap-2 text-[11px] text-[#8b8e96] md:flex">
               <span className="live-dot h-2 w-2 rounded-full bg-emerald-300" />
               ANALYSIS: PYTHON · UI: TANSTACK
             </div>
@@ -79,13 +79,13 @@ function Shell() {
           <TickerTape />
         </header>
 
-        <main className="mx-auto max-w-7xl px-4 py-6 sm:px-6 sm:py-8">
+        <main className="mx-auto max-w-[1440px] px-3 py-3 sm:px-4 sm:py-4">
           <Outlet />
         </main>
 
-        <footer className="border-t border-[#1b2831] py-6">
-          <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-4 sm:px-6">
-            <div className="num text-[11px] text-[#5d7180]">
+        <footer className="border-t border-[#2a2e39] py-3">
+          <div className="mx-auto flex max-w-[1440px] flex-wrap items-center justify-between gap-2 px-3 sm:px-4">
+            <div className="num text-[11px] text-[#787b86]">
               PENNY WATCHER — a backtest with the receipts. Not financial advice; past explosions
               don't schedule future ones.
             </div>
@@ -93,7 +93,7 @@ function Shell() {
               href="https://github.com/etrobot/penny-watcher"
               target="_blank"
               rel="noreferrer"
-              className="num text-[11px] text-[#8fa3b0] hover:text-emerald-200"
+              className="num text-[11px] text-[#8b8e96] hover:text-emerald-200"
             >
               github.com/etrobot/penny-watcher ↗
             </a>

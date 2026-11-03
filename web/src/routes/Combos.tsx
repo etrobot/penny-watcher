@@ -52,9 +52,9 @@ export function CombosPage() {
   const tradeCols = useMemo<ColumnDef<TradeRow, any>[]>(
     () => [
       { accessorKey: 'ticker', header: 'Ticker', cell: ({ getValue }) => <span className="num font-semibold text-white">{String(getValue())}</span> },
-      { accessorKey: 'signal_date', header: 'Signal', cell: ({ getValue }) => <span className="num text-[#aebfca]">{String(getValue())}</span> },
-      { accessorKey: 'entry_date', header: 'Entry', cell: ({ getValue }) => <span className="num text-[#aebfca]">{String(getValue())}</span> },
-      { accessorKey: 'exit_date', header: 'Exit', cell: ({ getValue }) => <span className="num text-[#aebfca]">{String(getValue())}</span> },
+      { accessorKey: 'signal_date', header: 'Signal', cell: ({ getValue }) => <span className="num text-[#d1d4dc]">{String(getValue())}</span> },
+      { accessorKey: 'entry_date', header: 'Entry', cell: ({ getValue }) => <span className="num text-[#d1d4dc]">{String(getValue())}</span> },
+      { accessorKey: 'exit_date', header: 'Exit', cell: ({ getValue }) => <span className="num text-[#d1d4dc]">{String(getValue())}</span> },
       { accessorKey: 'entry', header: 'Entry $', cell: ({ getValue }) => <span className="num">${Number(getValue()).toFixed(2)}</span> },
       { accessorKey: 'exit', header: 'Exit $', cell: ({ getValue }) => <span className="num">${Number(getValue()).toFixed(2)}</span> },
       { accessorKey: 'ret_pct', header: 'Return', cell: ({ getValue }) => <span className={`num font-semibold ${tone(Number(getValue()))}`}>{fmtPct(Number(getValue()), 2)}</span> },
@@ -74,13 +74,13 @@ export function CombosPage() {
   const survivor = testMap['macd_cross+above_ma20']
 
   return (
-    <div className="space-y-5">
-      <div className="rise pt-2">
+    <div className="space-y-3">
+      <div className="rise">
         <Tag>BACKTEST · 15 PRE-DEFINED COMBOS</Tag>
-        <h1 className="font-[family-name:var(--font-display)] mt-3 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+        <h1 className="font-[family-name:var(--font-display)] mt-2 text-xl font-bold tracking-tight text-white sm:text-2xl">
           Ranked on discovery. Judged on test.
         </h1>
-        <p className="mt-3 max-w-2xl text-sm leading-relaxed text-[#aebfca]">
+        <p className="mt-1.5 max-w-2xl text-[13px] leading-relaxed text-[#d1d4dc]">
           Signal at close T → buy next open → sell at close T+21, 0.2% cost per side, max 10 concurrent
           positions, equal weight. The split at {data.summary.split_date} was locked before any combo ran.
           Every combo's test result is published — including the embarrassing ones.
@@ -98,7 +98,7 @@ export function CombosPage() {
         <SectionTitle kicker="Discovery → test" title="Avg return per trade, both periods" right={<Tag color="fog">SORTED BY TEST</Tag>} />
         <div className="grid gap-x-10 lg:grid-cols-2">
           <div>
-            <div className="num mb-1 text-[10px] tracking-[0.2em] text-[#8fa3b0] uppercase">Discovery (in-sample)</div>
+            <div className="num mb-1 text-[10px] tracking-[0.2em] text-[#8b8e96] uppercase">Discovery (in-sample)</div>
             {paired.map((p) => (
               <DivBar key={p.combo} label={p.combo} value={p.disc} maxAbs={7} />
             ))}
@@ -110,7 +110,7 @@ export function CombosPage() {
             ))}
           </div>
         </div>
-        <p className="mt-4 text-xs leading-relaxed text-[#8fa3b0]">
+        <p className="mt-4 text-xs leading-relaxed text-[#8b8e96]">
           Watch the left column's champion (full_trend+hist_rising, +6.45%) fall to last on the right
           (−4.04%). In-sample rank is almost anti-information; the survivor is the one that was merely
           good in both.
@@ -123,7 +123,7 @@ export function CombosPage() {
       <Panel delay={120}>
         <SectionTitle kicker="Audit trail" title="The survivor's actual test trades" right={<Tag>{data.winnerTrades.length} TRADES</Tag>} />
         <DataTable data={data.winnerTrades} columns={tradeCols} pageSize={10} searchable searchPlaceholder="Filter tickers…" />
-        <p className="mt-3 text-xs leading-relaxed text-[#8fa3b0]">
+        <p className="mt-3 text-xs leading-relaxed text-[#8b8e96]">
           Heads-up: all combos saturated the 10-position cap (80 discovery / 40 test trades), so which
           simultaneous signals got a slot is partly first-come order — treat portfolio figures as
           approximate, per-trade expectancy is the sturdier number.

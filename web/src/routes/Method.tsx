@@ -9,7 +9,7 @@ function Step({ n, title, children }: { n: string; title: string; children: Reac
       </div>
       <div className="pb-6">
         <div className="font-[family-name:var(--font-display)] text-base font-semibold text-white">{title}</div>
-        <p className="mt-1 max-w-2xl text-sm leading-relaxed text-[#aebfca]">{children}</p>
+        <p className="mt-1 max-w-2xl text-sm leading-relaxed text-[#d1d4dc]">{children}</p>
       </div>
     </div>
   )
@@ -21,13 +21,13 @@ export function MethodPage() {
   if (error || !data) return <LoadError message={String(error)} />
 
   return (
-    <div className="space-y-5">
-      <div className="rise pt-2">
+    <div className="space-y-3">
+      <div className="rise">
         <Tag color="fog">METHOD · ARCHITECTURE · CAVEATS</Tag>
-        <h1 className="font-[family-name:var(--font-display)] mt-3 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+        <h1 className="font-[family-name:var(--font-display)] mt-2 text-xl font-bold tracking-tight text-white sm:text-2xl">
           Python analyses. This site just shows its work.
         </h1>
-        <p className="mt-3 max-w-2xl text-sm leading-relaxed text-[#aebfca]">
+        <p className="mt-1.5 max-w-2xl text-[13px] leading-relaxed text-[#d1d4dc]">
           The split is deliberate: all fetching, signal computation and backtesting lives in Python
           (<code className="num text-emerald-200">pipeline.py</code>,{' '}
           <code className="num text-emerald-200">stage3_sectors.py</code>). A small exporter
@@ -37,7 +37,7 @@ export function MethodPage() {
         </p>
       </div>
 
-      <div className="grid gap-5 lg:grid-cols-2">
+      <div className="grid gap-3 lg:grid-cols-2">
         <Panel delay={80}>
           <SectionTitle kicker="Pipeline" title="How a number gets here" />
           <Step n="1" title="Fetch everything, filter after">
@@ -65,10 +65,10 @@ export function MethodPage() {
           </Step>
         </Panel>
 
-        <div className="space-y-5">
+        <div className="space-y-3">
           <Panel delay={140}>
             <SectionTitle kicker="Honest limits" title="What this can't claim" />
-            <ul className="list-disc space-y-2 pl-5 text-sm leading-relaxed text-[#aebfca]">
+            <ul className="list-disc space-y-2 pl-5 text-sm leading-relaxed text-[#d1d4dc]">
               <li><strong className="text-white">One year, one regime.</strong> The test period was hostile (unconditional fwd20 −0.55%); a different year may crown a different combo.</li>
               <li><strong className="text-white">Survivorship, reduced not removed.</strong> The universe is the current SEC list; names that delisted mid-year are undercounted.</li>
               <li><strong className="text-white">Position-cap path dependence.</strong> All combos filled the 10 slots, so portfolio totals depend partly on which simultaneous signals got in first. Per-trade expectancy is sturdier.</li>
@@ -80,7 +80,7 @@ export function MethodPage() {
 
           <Panel delay={200}>
             <SectionTitle kicker="Reproduce it" title="Run the whole thing" />
-            <pre className="num overflow-x-auto rounded-xl border border-[#1b2831] bg-black/50 p-4 text-xs leading-relaxed text-emerald-100">
+            <pre className="num overflow-x-auto rounded-xl border border-[#2a2e39] bg-black/50 p-4 text-xs leading-relaxed text-emerald-100">
 {`# analysis (Python)
 pip install -r requirements.txt
 python3 pipeline.py          # stages 1-2
@@ -91,7 +91,7 @@ python3 export_web_data.py   # -> web/public/data.json
 cd web && bun install
 bun run dev                  # or: bun run build`}
             </pre>
-            <p className="mt-3 text-xs leading-relaxed text-[#8fa3b0]">
+            <p className="mt-3 text-xs leading-relaxed text-[#8b8e96]">
               Source:{' '}
               <a href="https://github.com/etrobot/penny-watcher" target="_blank" rel="noreferrer" className="text-emerald-300 hover:text-emerald-200">
                 github.com/etrobot/penny-watcher

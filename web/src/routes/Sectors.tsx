@@ -9,7 +9,7 @@ const QUARTERS = ['2025Q4', '2026Q1', '2026Q2', '2026Q3', '2026Q4'] as const
 
 function heatColor(v: number) {
   // background alpha is set inline; this only picks the text tone
-  return v === 0 ? 'bg-white/[0.03] text-[#43545f]' : 'text-white'
+  return v === 0 ? 'bg-white/[0.03] text-[#4c525e]' : 'text-white'
 }
 
 export function SectorsPage() {
@@ -18,10 +18,10 @@ export function SectorsPage() {
   const etfCols = useMemo<ColumnDef<EtfRow, any>[]>(
     () => [
       { accessorKey: 'etf', header: 'ETF', cell: ({ getValue }) => <span className="num font-semibold text-white">{String(getValue())}</span> },
-      { accessorKey: 'theme', header: 'Theme', cell: ({ getValue }) => <span className="text-[#aebfca]">{String(getValue())}</span> },
+      { accessorKey: 'theme', header: 'Theme', cell: ({ getValue }) => <span className="text-[#d1d4dc]">{String(getValue())}</span> },
       { accessorKey: 'year_ret_pct', header: 'Year return', cell: ({ getValue }) => <span className={`num font-semibold ${tone(Number(getValue()))}`}>{fmtPct(Number(getValue()))}</span> },
       { accessorKey: 'best_20d_window_pct', header: 'Best 20d window', cell: ({ getValue }) => <span className="num text-emerald-300">{fmtPct(Number(getValue()))}</span> },
-      { accessorKey: 'best_window_start', header: 'Window start', cell: ({ getValue }) => <span className="num text-[#aebfca]">{String(getValue())}</span> },
+      { accessorKey: 'best_window_start', header: 'Window start', cell: ({ getValue }) => <span className="num text-[#d1d4dc]">{String(getValue())}</span> },
       { accessorKey: 'hot_windows_fwd20>=10pct_days', header: 'Hot days', cell: ({ getValue }) => <span className="num">{String(getValue())}</span> },
       { accessorKey: 'n_holdings_mapped', header: 'Holdings mapped', cell: ({ getValue }) => <span className="num">{String(getValue())}</span> },
     ],
@@ -31,7 +31,7 @@ export function SectorsPage() {
   const sectorCols = useMemo<ColumnDef<SectorRow, any>[]>(
     () => [
       { accessorKey: 'primary_etf', header: 'ETF', cell: ({ getValue }) => <span className="num font-semibold text-white">{String(getValue())}</span> },
-      { accessorKey: 'theme', header: 'Theme', cell: ({ getValue }) => <span className="text-[#aebfca]">{String(getValue())}</span> },
+      { accessorKey: 'theme', header: 'Theme', cell: ({ getValue }) => <span className="text-[#d1d4dc]">{String(getValue())}</span> },
       { accessorKey: 'onsets', header: 'Onsets', cell: ({ getValue }) => <span className="num">{fmtInt(Number(getValue()))}</span> },
       { accessorKey: 'stocks', header: 'Stocks', cell: ({ getValue }) => <span className="num">{String(getValue())}</span> },
       { accessorKey: 'median_etf_window_ret_pct', header: 'Median ETF window', cell: ({ getValue }) => <span className={`num ${tone(Number(getValue()))}`}>{fmtPct(Number(getValue()))}</span> },
@@ -60,13 +60,13 @@ export function SectorsPage() {
   const controlTest = data.jointControl.filter((c) => c.period === 'test')
 
   return (
-    <div className="space-y-5">
-      <div className="rise pt-2">
+    <div className="space-y-3">
+      <div className="rise">
         <Tag color="sky">STAGE 3 · SECTORS & JOINT SIGNALS</Tag>
-        <h1 className="font-[family-name:var(--font-display)] mt-3 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+        <h1 className="font-[family-name:var(--font-display)] mt-2 text-xl font-bold tracking-tight text-white sm:text-2xl">
           Explosions are sector events — mostly
         </h1>
-        <p className="mt-3 max-w-2xl text-sm leading-relaxed text-[#aebfca]">
+        <p className="mt-1.5 max-w-2xl text-[13px] leading-relaxed text-[#d1d4dc]">
           47 sector/theme ETFs, same source, <strong className="text-white">same time windows</strong> as the stocks.
           Each stock mapped to its primary ETF from actual holdings (full issuer files for 33 ETFs).
           Every onset classified by what its ETF did over the identical [onset, onset+20] window.
@@ -80,13 +80,13 @@ export function SectorsPage() {
         <Kpi label="Solo onsets" value={fmtInt(s3.onset_classes['solo'] ?? 0)} sub="ETF < +3% — the stock moved alone" delay={190} />
       </div>
 
-      <div className="grid gap-5 lg:grid-cols-2">
+      <div className="grid gap-3 lg:grid-cols-2">
         <Panel delay={100}>
           <SectionTitle kicker="Explosion factories" title="Onsets by primary ETF" />
           {topSectors.map((r) => (
             <HBar key={r.primary_etf} label={`${r.primary_etf} · ${r.theme}`} value={r.onsets} max={maxOnsets} display={fmtInt(r.onsets)} color="bg-sky-400" labelWidth="w-36 sm:w-44" />
           ))}
-          <p className="mt-3 text-xs leading-relaxed text-[#8fa3b0]">
+          <p className="mt-3 text-xs leading-relaxed text-[#8b8e96]">
             Biotech (XBI) is the year's explosion factory: 319 onsets across 119 stocks. Software (XSW)
             is second, peaking in 2026 Q2–Q3.
           </p>
@@ -97,7 +97,7 @@ export function SectorsPage() {
           {hotEtfs.map((r) => (
             <HBar key={r.etf} label={`${r.etf} · ${r.theme}`} value={r['hot_windows_fwd20>=10pct_days']} max={maxHot} display={`${r['hot_windows_fwd20>=10pct_days']}d`} color="bg-amber-400" labelWidth="w-36 sm:w-44" />
           ))}
-          <p className="mt-3 text-xs leading-relaxed text-[#8fa3b0]">
+          <p className="mt-3 text-xs leading-relaxed text-[#8b8e96]">
             The metals complex owned the year: copper, silver and gold miners top the hot-day table,
             and their best windows all ignited around 2026-07-28. Biggest year returns: XLE energy
             +58.1%, XOP oil & gas +55.4%.
@@ -108,7 +108,7 @@ export function SectorsPage() {
       <Panel delay={200}>
         <SectionTitle kicker="Same-window alignment" title="Every sector that hosted explosions" />
         <DataTable data={[...data.hotSectors].sort((a, b) => b.onsets - a.onsets)} columns={sectorCols} pageSize={12} searchable searchPlaceholder="Filter sectors…" />
-        <p className="mt-3 text-xs leading-relaxed text-[#8fa3b0]">
+        <p className="mt-3 text-xs leading-relaxed text-[#8b8e96]">
           Purest sector moves: when GDX gold-miner stocks exploded, the ETF itself rose a median +23.6%
           in the same window and 96.0% of those onsets were sector-driven. If the whole sector is
           mooning, stock-picking is decoration.
@@ -121,9 +121,9 @@ export function SectorsPage() {
           <table className="w-full min-w-[520px] border-collapse text-sm">
             <thead>
               <tr>
-                <th className="num px-2 py-2 text-left text-[11px] tracking-[0.12em] text-[#8fa3b0] uppercase">Sector</th>
+                <th className="num px-2 py-2 text-left text-[11px] tracking-[0.12em] text-[#8b8e96] uppercase">Sector</th>
                 {QUARTERS.map((q) => (
-                  <th key={q} className="num px-2 py-2 text-center text-[11px] tracking-[0.12em] text-[#8fa3b0] uppercase">{q}</th>
+                  <th key={q} className="num px-2 py-2 text-center text-[11px] tracking-[0.12em] text-[#8b8e96] uppercase">{q}</th>
                 ))}
               </tr>
             </thead>
@@ -131,14 +131,14 @@ export function SectorsPage() {
               {timing.map((r) => (
                 <tr key={r.primary_etf}>
                   <td className="num px-2 py-1.5 whitespace-nowrap text-xs text-white">
-                    {r.primary_etf} <span className="text-[#8fa3b0]">· {r.theme}</span>
+                    {r.primary_etf} <span className="text-[#8b8e96]">· {r.theme}</span>
                   </td>
                   {QUARTERS.map((q) => {
                     const v = Number(r[q] ?? 0)
                     return (
                       <td key={q} className="px-1 py-1">
                         <div
-                          className={`num rounded-md py-1.5 text-center text-xs ${heatColor(v)}`}
+                          className={`num rounded py-1 text-center text-xs ${heatColor(v)}`}
                           style={{ background: v === 0 ? undefined : `rgb(44 232 155 / ${0.1 + (v / maxCell) * 0.65})` }}
                         >
                           {v || '·'}
@@ -151,7 +151,7 @@ export function SectorsPage() {
             </tbody>
           </table>
         </div>
-        <p className="mt-3 text-xs text-[#8fa3b0]">Heat rotates: miners front-run Q4→Q1, software takes Q2→Q3. Nothing stays hot all year.</p>
+        <p className="mt-3 text-xs text-[#8b8e96]">Heat rotates: miners front-run Q4→Q1, software takes Q2→Q3. Nothing stays hot all year.</p>
       </Panel>
 
       {/* JOINT VERDICT */}
@@ -162,7 +162,7 @@ export function SectorsPage() {
             <thead>
               <tr className="border-b border-white/10">
                 {['Variant', 'Triggers', 'Precision', 'Win', 'Avg / trade'].map((h) => (
-                  <th key={h} className="num px-3 py-2 text-left text-[11px] tracking-[0.12em] text-[#8fa3b0] uppercase">{h}</th>
+                  <th key={h} className="num px-3 py-2 text-left text-[11px] tracking-[0.12em] text-[#8b8e96] uppercase">{h}</th>
                 ))}
               </tr>
             </thead>
@@ -182,13 +182,13 @@ export function SectorsPage() {
         <div className="mt-4 grid gap-3 sm:grid-cols-3">
           {controlTest.map((c) => (
             <div key={c.universe} className="rounded-xl border border-white/[0.07] bg-black/30 p-3">
-              <div className="num text-[10px] tracking-[0.18em] text-[#8fa3b0] uppercase">{c.universe}</div>
-              <div className={`num mt-1 text-xl font-bold ${tone(c.avg_ret_pct)}`}>{fmtPct(c.avg_ret_pct, 2)}<span className="text-xs font-medium text-[#8fa3b0]"> /trade</span></div>
-              <div className="num mt-0.5 text-[11px] text-[#8fa3b0]">precision {c[PRECISION_KEY].toFixed(2)}% · {fmtInt(c.triggers_all)} triggers</div>
+              <div className="num text-[10px] tracking-[0.18em] text-[#8b8e96] uppercase">{c.universe}</div>
+              <div className={`num mt-1 text-xl font-bold ${tone(c.avg_ret_pct)}`}>{fmtPct(c.avg_ret_pct, 2)}<span className="text-xs font-medium text-[#8b8e96]"> /trade</span></div>
+              <div className="num mt-0.5 text-[11px] text-[#8b8e96]">precision {c[PRECISION_KEY].toFixed(2)}% · {fmtInt(c.triggers_all)} triggers</div>
             </div>
           ))}
         </div>
-        <p className="mt-4 text-sm leading-relaxed text-[#d7e4ea]">
+        <p className="mt-2.5 text-[13px] leading-relaxed text-[#d7e4ea]">
           The control is the story: restrict the base combo to mapped stocks only and its test edge
           dies (+0.19%/trade) — the edge lived in unmapped small caps. Within the mapped universe,
           ETF confirmation changes precision by <span className="num text-white">≤0.6 pts</span> in either
